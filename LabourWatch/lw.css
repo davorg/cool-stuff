@@ -13,3 +13,6 @@ img { border: 0 }
 table { width: 100% }
 
 table.borderless { border: 0 }
+
+td.top, th.top { vertical-align: top }
+td.half, th.half { width: 50% }
