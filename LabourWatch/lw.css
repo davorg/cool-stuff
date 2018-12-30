@@ -1,18 +1,50 @@
-BODY, P, ADDRESS, UL, TH { font-family: arial, helvetica, sans-serif }
-BODY { background: white;
-margin: 5% 10%; }
-ADDRESS { font-size: smaller; font-style: normal }
-UL { list-style: url(Bullet.gif) square }
-:link { color: red }
-P.menu { font-size: smaller; text-align: center }
+body, p, address, ul, th {
+  font-family: arial, helvetica, sans-serif;
+}
 
-.right { text-align: right }
+body {
+  background: white;
+  margin: 5% 10%;
+}
 
-img { border: 0 }
+address {
+  font-size: smaller;
+  font-style: normal;
+}
 
-table { width: 100% }
+ul {
+  list-style: url(Bullet.gif) square;
+}
 
-table.borderless { border: 0 }
+:link {
+  color: red;
+}
 
-td.top, th.top { vertical-align: top }
-td.half, th.half { width: 50% }
+P.menu {
+  font-size: smaller;
+  text-align: center;
+}
+
+.right {
+  text-align: right;
+}
+
+img {
+  border: 0;
+}
+
+table {
+  width: 100%;
+}
+
+table.borderless {
+  border: 0;
+}
+
+td.top, th.top {
+  vertical-align: top;
+}
+
+td.half, th.half {
+  width: 50%;
+}
