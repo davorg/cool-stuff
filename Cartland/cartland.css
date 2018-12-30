@@ -1,18 +1,19 @@
-BODY {
+body {
   font-family: "Century Gothic", helvetica, sans-serif;
   background-color: #FF8080;
 }
 
-ADDRESS {
+address {
   font-size: small;
   text-align: left;
 }
 
-.MENU {
-  text-size: small; text-align: center;
+.menu {
+  text-size: small;
+  text-align: center;
 }
 
-A:link, a:visited, a:active {
+q:link, a:visited, a:active {
   color: red;
 }
 		
@@ -21,4 +22,18 @@ td.pic {
   background-repeat: repeat-y;
 }
 
-h1 { text-align: center; }
+h1 {
+  text-align: center;
+}
+
+.center {
+  text-align: center;
+}
+
+img {
+  border: 0;
+}
+
+img.bottom {
+  vertical-align: bottom;
+}
