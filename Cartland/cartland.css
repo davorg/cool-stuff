@@ -37,3 +37,16 @@ img {
 img.bottom {
   vertical-align: bottom;
 }
+
+table.center {
+  align: center;
+}
+
+td.gutter {
+  width: 160px;
+}
+
+td.main {
+  width: 400px;
+}
+
