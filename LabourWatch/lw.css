@@ -11,3 +11,5 @@ P.menu { font-size: smaller; text-align: center }
 img { border: 0 }
 
 table { width: 100% }
+
+table.borderless { border: 0 }
