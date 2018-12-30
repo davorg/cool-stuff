@@ -1,0 +1,11 @@
+BODY, P, ADDRESS, UL, TH { font-family: arial, helvetica, sans-serif }
+BODY { background: white;
+margin: 5% 10%; }
+ADDRESS { font-size: smaller; font-style: normal }
+UL { list-style: url(Bullet.gif) square }
+:link { color: red }
+P.menu { font-size: smaller; text-align: center }
+
+.right { text-align: right }
+
+

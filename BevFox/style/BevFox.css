@@ -1,0 +1,8 @@
+BODY, P, ADDRESS, TABLE, TR, TD { font-family: arial, helvetica, sans-serif }
+ADDRESS { font-size: smaller }
+.right { text-align: right }
+.menu { font-size: smaller }
+:link { color: FFFFCC }
+:visited { color: CCCC00 }
+
+H1, H2 { color: FFFFCC; text-align: center }

@@ -1,0 +1,24 @@
+BODY {
+  font-family: "Century Gothic", helvetica, sans-serif;
+  background: #FF8080;
+}
+
+ADDRESS {
+  font-size: small;
+  text-align: left;
+}
+
+.MENU {
+  text-size: small; text-align: center;
+}
+
+A:link, a:visited, a:active {
+  color: red;
+}
+		
+td.pic {
+  background-image: url(Portrait.gif);
+  background-repeat: repeat-y;
+}
+
+h1 { text-align: center; }
