@@ -1,6 +1,6 @@
 body {
   color: #ffffff;
-  background-image: url(images/Backgrd.gif);
+  background-image: url("images/Backgrd.gif");
 }
 
 BODY, P, ADDRESS, TABLE, TR, TD {
