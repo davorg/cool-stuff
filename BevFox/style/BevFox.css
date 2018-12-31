@@ -39,3 +39,7 @@ H1, H2 {
 .wide {
   width: 100%;
 }
+
+td {
+  vertical-align: top;
+}
