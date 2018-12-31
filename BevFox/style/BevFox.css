@@ -55,3 +55,7 @@ td {
 .centre {
   text-align: center;
 }
+
+img {
+  border: 0;
+}
