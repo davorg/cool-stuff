@@ -1,8 +1,37 @@
-BODY, P, ADDRESS, TABLE, TR, TD { font-family: arial, helvetica, sans-serif }
-ADDRESS { font-size: smaller }
-.right { text-align: right }
-.menu { font-size: smaller }
-:link { color: FFFFCC }
-:visited { color: CCCC00 }
+body {
+  color: #ffffff;
+  background-image: url(images/Backgrd.gif);
+}
 
-H1, H2 { color: FFFFCC; text-align: center }
+BODY, P, ADDRESS, TABLE, TR, TD {
+  font-family: arial, helvetica, sans-serif;
+}
+
+ADDRESS {
+  font-size: smaller;
+}
+
+.right {
+  text-align: right;
+}
+
+.menu {
+  font-size: smaller;
+}
+
+a:link {
+  color: #FFFFCC
+}
+
+a:visited {
+  color: #CCCC00;
+}
+
+a:active {
+  color: #ffff00;
+}
+
+H1, H2 {
+  color: FFFFCC;
+  text-align: center;
+}
