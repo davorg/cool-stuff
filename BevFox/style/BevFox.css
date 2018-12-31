@@ -43,3 +43,7 @@ H1, H2 {
 td {
   vertical-align: top;
 }
+
+.quarter {
+  width: 25%;
+}
