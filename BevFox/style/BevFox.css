@@ -32,6 +32,10 @@ a:active {
 }
 
 H1, H2 {
-  color: FFFFCC;
+  color: #FFFFCC;
   text-align: center;
+}
+
+.wide {
+  width: 100%;
 }
