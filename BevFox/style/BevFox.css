@@ -11,10 +11,6 @@ ADDRESS {
   font-size: smaller;
 }
 
-.right {
-  text-align: right;
-}
-
 .menu {
   font-size: smaller;
 }
@@ -46,4 +42,16 @@ td {
 
 .quarter {
   width: 25%;
+}
+
+.left {
+  text-align: left;
+}
+
+.right {
+  text-align: right;
+}
+
+.centre {
+  text-align: center;
 }
