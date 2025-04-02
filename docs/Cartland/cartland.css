@@ -1,0 +1,53 @@
+body {
+  font-family: "Century Gothic", helvetica, sans-serif;
+  background-color: #FF8080;
+}
+
+address {
+  font-size: small;
+  text-align: left;
+}
+
+.menu {
+  text-size: small;
+  text-align: center;
+}
+
+q:link, a:visited, a:active {
+  color: red;
+}
+		
+td.pic {
+  background-image: url(Portrait.gif);
+  background-repeat: repeat-y;
+}
+
+h1 {
+  text-align: center;
+}
+
+.center {
+  text-align: center;
+}
+
+img {
+  border: 0;
+}
+
+img.bottom {
+  vertical-align: bottom;
+}
+
+table.center {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+td.gutter {
+  width: 160px;
+}
+
+td.main {
+  width: 400px;
+}
+
