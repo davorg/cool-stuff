@@ -1,10 +1,10 @@
 - date: 2025-04-01
   name: Example Site
-  url: https://example.com
+  url: https://example.com/
   description: A brilliant site that exists to be an example.
 - date: '2025-04-02'
   name: Radio Garden
-  url: radiogarden.fm
+  url: https://radiogarden.fm/
   description: Radio Garden is a fascinating and interactive website that allows users
     to explore live radio broadcasts from around the world. You can navigate a globe
     dotted with thousands of stations, clicking on different locations to instantly
