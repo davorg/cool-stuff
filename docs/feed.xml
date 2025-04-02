@@ -1,0 +1,21 @@
+---
+layout: none
+permalink: /feed.xml
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Cool Stuff</title>
+    <link>{{ site.url }}</link>
+    <description>The coolest stuff on the internet</description>
+    {% for entry in site.data.coolstuff reversed %}
+    <item>
+      <title>{{ entry.name }}</title>
+      <link>{{ entry.url }}</link>
+      <description>{{ entry.description | xml_escape }}</description>
+      <pubDate>{{ entry.date | date_to_rfc822 }}</pubDate>
+      <guid>{{ entry.url }}</guid>
+    </item>
+    {% endfor %}
+  </channel>
+</rss>

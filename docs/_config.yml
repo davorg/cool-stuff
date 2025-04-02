@@ -27,6 +27,7 @@ defaults:
 include:
   - docs/_pages
   - docs/_data
+  - docs/feed.xml
 
 # Optional: if deploying on GitHub Pages
 github:
