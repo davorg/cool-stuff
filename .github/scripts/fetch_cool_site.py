@@ -1,25 +1,24 @@
 import os
-import openai
+from openai import OpenAI
+
+client = OpenAI(api_key=os.environ["OPENAI_API_KEY"])
 import yaml
 import datetime
 
-openai.api_key = os.environ["OPENAI_API_KEY"]
 
 prompt = (
     "Suggest a really cool, creative, or fun website to feature today on a site called 'Cool Stuff'. "
     "Just return the name, URL, and a one-paragraph description of why it's cool. Only return one site."
 )
 
-response = openai.ChatCompletion.create(
-    model="gpt-4",
-    messages=[
-        {"role": "system", "content": "You are a helpful curator of awesome websites."},
-        {"role": "user", "content": prompt}
-    ],
-    temperature=1.0,
-)
+response = client.chat.completions.create(model="gpt-4",
+messages=[
+    {"role": "system", "content": "You are a helpful curator of awesome websites."},
+    {"role": "user", "content": prompt}
+],
+temperature=1.0)
 
-text = response["choices"][0]["message"]["content"]
+text = response.choices[0].message.content
 
 lines = text.strip().split("\n")
 
