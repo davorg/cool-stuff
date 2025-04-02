@@ -9,7 +9,7 @@ import datetime
 prompt = (
     "Suggest a really cool, creative, or fun website to feature today on a site called 'Cool Stuff'. "
     "Just return the name, URL, and a one-paragraph description of why it's cool. Only return one site."
-    "The URL should just be the URL itself. Do not wrap it in Markdown."
+    "The URL should just be the URL itself (a full URL, not just a domain). Do not wrap it in Markdown."
 )
 
 response = client.chat.completions.create(model="gpt-4o",
