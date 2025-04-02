@@ -1,6 +1,4 @@
 ---
-# index.md
----
 layout: home
 title: "Cool Stuff"
 subtitle: "The coolest stuff on the internet"
