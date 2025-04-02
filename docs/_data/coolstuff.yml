@@ -1,0 +1,9 @@
+---
+# _data/coolstuff.yml
+# Initial placeholder
+---
+- date: 2025-04-01
+  name: "Example Site"
+  url: "https://example.com"
+  description: "A brilliant site that exists to be an example."
+

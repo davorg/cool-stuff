@@ -1,0 +1,36 @@
+---
+# _config.yml
+# Basic Jekyll config for Minimal Mistakes
+---
+title: "Cool Stuff"
+subtitle: "The coolest stuff on the internet"
+description: "A daily-updating list of the coolest websites on the web."
+url: "https://cool-stuff.co.uk"
+baseurl: ""
+theme: minimal-mistakes-jekyll
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-include-cache
+  - jekyll-data
+
+collections:
+  archive:
+    output: true
+    permalink: /archive/:path/
+
+defaults:
+  - scope:
+      path: ""
+      type: archive
+    values:
+      layout: archive
+
+include:
+  - _pages
+  - _data
+
+# Optional: if deploying on GitHub Pages
+github:
+  is_project_page: false
+

@@ -1,0 +1,34 @@
+name: Update Cool Stuff
+
+on:
+  schedule:
+    - cron: '0 2 * * *'  # Runs at 2 AM UTC
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: 3.x
+
+      - name: Install dependencies
+        run: pip install openai pyyaml
+
+      - name: Get a cool website from OpenAI
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+        run: |
+          python .github/scripts/fetch_cool_site.py
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add _data/coolstuff.yml
+          git diff --cached --quiet || git commit -m "Add new cool site"
+          git push
