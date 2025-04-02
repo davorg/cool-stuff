@@ -1,5 +1,15 @@
 - date: 2025-04-01
-  name: "Example Site"
-  url: "https://example.com"
-  description: "A brilliant site that exists to be an example."
-
+  name: Example Site
+  url: https://example.com
+  description: A brilliant site that exists to be an example.
+- date: '2025-04-02'
+  name: Radio Garden
+  url: radiogarden.fm
+  description: Radio Garden is a fascinating and interactive website that allows users
+    to explore live radio broadcasts from around the world. You can navigate a globe
+    dotted with thousands of stations, clicking on different locations to instantly
+    listen to local radio. This unique experience offers a sonic journey across cultures
+    and languages, making it an innovative way to discover music and voices from every
+    corner of the globe. Whether you're interested in international music, news, or
+    simply curious about what's playing on the other side of the planet, Radio Garden
+    provides an endless array of discoveries right at your fingertips.
