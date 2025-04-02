@@ -18,6 +18,9 @@ collections:
   archive:
     output: true
     permalink: /archive/:path/
+  pages:
+    output: true
+    permalink: /:path/
 
 defaults:
   - scope:
