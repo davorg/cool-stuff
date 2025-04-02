@@ -1,6 +1,3 @@
-# .github/scripts/fetch_cool_site.py
-# Python script to fetch a cool site from OpenAI
----
 import openai
 import yaml
 import datetime
