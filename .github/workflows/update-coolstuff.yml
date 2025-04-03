@@ -29,6 +29,6 @@ jobs:
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
-          git add _data/coolstuff.yml
+          git add docs/_data/coolstuff.yml
           git diff --cached --quiet || git commit -m "Add new cool site"
           git push
