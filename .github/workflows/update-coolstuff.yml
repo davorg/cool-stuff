@@ -23,7 +23,7 @@ jobs:
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
         run: |
-          python .github/scripts/fetch_cool_site.py
+          perl .github/scripts/fetch_cool_site
 
       - name: Commit and push if changed
         run: |
