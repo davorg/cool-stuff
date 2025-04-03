@@ -1,0 +1,50 @@
+#!/usr/bin/env perl
+use strict;
+use warnings;
+use OpenAPI::Client::OpenAI;
+use YAML qw(LoadFile DumpFile);
+use Time::Piece;
+use JSON::MaybeXS;
+
+my $api_key = $ENV{"OPENAI_API_KEY"} or die "OPENAI_API_KEY is not set\n";
+
+my $client = OpenAPI::Client::OpenAI->new(
+);
+
+my $prompt = join " ",
+  "Suggest a really cool, creative, or fun website to feature today on a site called 'Cool Stuff'.",
+  "Just return the name, URL, and a one-paragraph description of why it's cool. Only return one site.",
+  "The URL should just be the URL itself. Do not wrap it in Markdown.";
+
+my $res = $client->createChatCompletion({
+  body => {
+    model => 'gpt-4o',
+    messages => [
+        { role => 'system', content => 'You are a helpful curator of awesome websites.' },
+        { role => 'user', content => $prompt },
+    ],
+    temperature => 1.0,
+  }
+});
+
+my $text = $res->res->json->{choices}[0]{message}{content};
+my @lines = split /\n/, $text;
+
+my ($name, $url, @desc) = @lines;
+$name =~ s/^\*\s*//;
+my $description = join ' ', @desc;
+
+my $new_entry = {
+  date => localtime->ymd,
+  name => $name,
+  url  => $url,
+  description => $description,
+};
+
+my $file = "docs/_data/coolstuff.yml";
+my $entries = LoadFile($file);
+
+unless (grep { $_->{url} eq $new_entry->{url} } @$entries) {
+  push @$entries, $new_entry;
+  DumpFile($file, $entries);
+}
