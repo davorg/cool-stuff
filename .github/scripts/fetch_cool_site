@@ -1,6 +1,10 @@
 #!/usr/bin/env perl
+
 use strict;
 use warnings;
+
+use builtin qw[trim];
+
 use OpenAPI::Client::OpenAI;
 use YAML qw(LoadFile DumpFile);
 use Time::Piece;
@@ -36,9 +40,9 @@ my $description = join ' ', @desc;
 
 my $new_entry = {
   date => localtime->ymd,
-  name => $name,
-  url  => $url,
-  description => $description,
+  name => trim($name),
+  url  => trim($url),
+  description => trim($description),
 };
 
 my $file = "docs/_data/coolstuff.yml";
