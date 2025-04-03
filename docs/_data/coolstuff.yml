@@ -1,26 +1,14 @@
+---
 - date: 2025-04-01
+  description: A brilliant site that exists to be an example.
   name: Example Site
   url: https://example.com/
-  description: A brilliant site that exists to be an example.
-- date: '2025-04-02'
+- date: 2025-04-02
+  description: "Radio Garden is a fascinating and interactive website that allows users to explore live radio broadcasts from around the world. You can navigate a globe dotted with thousands of stations, clicking on different locations to instantly listen to local radio. This unique experience offers a sonic journey across cultures and languages, making it an innovative way to discover music and voices from every corner of the globe. Whether you're interested in international music, news, or simply curious about what's playing on the other side of the planet, Radio Garden provides an endless array of discoveries right at your fingertips.\n"
   name: Radio Garden
   url: https://radiogarden.fm/
-  description: Radio Garden is a fascinating and interactive website that allows users
-    to explore live radio broadcasts from around the world. You can navigate a globe
-    dotted with thousands of stations, clicking on different locations to instantly
-    listen to local radio. This unique experience offers a sonic journey across cultures
-    and languages, making it an innovative way to discover music and voices from every
-    corner of the globe. Whether you're interested in international music, news, or
-    simply curious about what's playing on the other side of the planet, Radio Garden
-    provides an endless array of discoveries right at your fingertips.
-- date: '2025-04-03'
+- date: 2025-04-03
+  description: "Paper.js is a creative programming environment that brings the magic of vector graphics manipulation to the web in an intuitive and engaging way. It allows users to draw and animate with code, making it perfect for artists, designers, and developers who are interested in exploring the possibilities of coding-based artwork. Its simple syntax and extensive documentation make it approachable for beginners, while its powerful features offer advanced users the tools they need to create complex, beautiful visuals. Paper.js truly exemplifies the seamless blend of art and technology, inspiring creativity through code.\n"
   name: Paper.js
   url: http://paperjs.org
-  description: Paper.js is a creative programming environment that brings the magic
-    of vector graphics manipulation to the web in an intuitive and engaging way. It
-    allows users to draw and animate with code, making it perfect for artists, designers,
-    and developers who are interested in exploring the possibilities of coding-based
-    artwork. Its simple syntax and extensive documentation make it approachable for
-    beginners, while its powerful features offer advanced users the tools they need
-    to create complex, beautiful visuals. Paper.js truly exemplifies the seamless
-    blend of art and technology, inspiring creativity through code.
+
