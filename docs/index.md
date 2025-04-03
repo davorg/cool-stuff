@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: single
 title: "Cool Stuff"
 subtitle: "The coolest stuff on the internet"
 ---
