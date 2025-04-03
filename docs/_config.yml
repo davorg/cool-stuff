@@ -33,3 +33,7 @@ include:
 github:
   is_project_page: false
 
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "G-8PYRSJMEBW"
