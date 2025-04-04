@@ -8,6 +8,10 @@
   name: Radio Garden
   url: https://radio.garden/
 - date: 2025-04-03
-  description: "Paper.js is a creative programming environment that brings the magic of vector graphics manipulation to the web in an intuitive and engaging way. It allows users to draw and animate with code, making it perfect for artists, designers, and developers who are interested in exploring the possibilities of coding-based artwork. Its simple syntax and extensive documentation make it approachable for beginners, while its powerful features offer advanced users the tools they need to create complex, beautiful visuals. Paper.js truly exemplifies the seamless blend of art and technology, inspiring creativity through code."
+  description: 'Paper.js is a creative programming environment that brings the magic of vector graphics manipulation to the web in an intuitive and engaging way. It allows users to draw and animate with code, making it perfect for artists, designers, and developers who are interested in exploring the possibilities of coding-based artwork. Its simple syntax and extensive documentation make it approachable for beginners, while its powerful features offer advanced users the tools they need to create complex, beautiful visuals. Paper.js truly exemplifies the seamless blend of art and technology, inspiring creativity through code.'
   name: Paper.js
   url: http://paperjs.org
+- date: 2025-04-04
+  description: "\"The Secret Door\" is a fascinating and fun website that takes you on a random virtual journey to explore different places around the world. With a single click, you are transported to a new and exciting location, from deep within the Amazon rainforest to the bustling streets of Tokyo. Each visit offers a glimpse into a unique setting, enhanced with Google Street View. It's a delightful way to satisfy your wanderlust, discover hidden gems, and travel from your home to various corners of the globe with the element of surprise and curiosity."
+  name: '"The Secret Door"'
+  url: 'URL: thesecretdoor.com'
