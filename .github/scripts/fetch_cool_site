@@ -10,15 +10,23 @@ use YAML qw(LoadFile DumpFile);
 use Time::Piece;
 use JSON::MaybeXS;
 
+my $debug = @ARGV && ($ARGV[0] eq 'debug');
+
 my $api_key = $ENV{"OPENAI_API_KEY"} or die "OPENAI_API_KEY is not set\n";
 
-my $client = OpenAPI::Client::OpenAI->new(
-);
+my $client = OpenAPI::Client::OpenAI->new;
+
+my $file = "docs/_data/coolstuff.yml";
+my $entries = LoadFile($file);
+
+my @urls = map { $_->{url} } @$entries;
 
 my $prompt = join " ",
   "Suggest a really cool, creative, or fun website to feature today on a site called 'Cool Stuff'.",
   "Just return the name, URL, and a one-paragraph description of why it's cool. Only return one site.",
-  "The URL should just be the URL itself. Do not wrap it in Markdown.";
+  "The URL should just be the URL itself. Do not wrap it in Markdown. Always include the protocol.",
+  "Never include any kind of header or label.",
+  "Do not include sites we have already featured: ", join ', ', @urls;
 
 my $res = $client->createChatCompletion({
   body => {
@@ -32,6 +40,12 @@ my $res = $client->createChatCompletion({
 });
 
 my $text = $res->res->json->{choices}[0]{message}{content};
+
+if ($debug) {
+  print "$text\n";
+  exit;
+}
+
 my @lines = split /\n/, $text;
 
 my ($name, $url, @desc) = @lines;
@@ -44,9 +58,6 @@ my $new_entry = {
   url  => trim($url),
   description => trim($description),
 };
-
-my $file = "docs/_data/coolstuff.yml";
-my $entries = LoadFile($file);
 
 unless (grep { $_->{url} eq $new_entry->{url} } @$entries) {
   push @$entries, $new_entry;
