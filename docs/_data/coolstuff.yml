@@ -13,5 +13,9 @@
   url: http://paperjs.org
 - date: 2025-04-04
   description: "\"The Secret Door\" is a fascinating and fun website that takes you on a random virtual journey to explore different places around the world. With a single click, you are transported to a new and exciting location, from deep within the Amazon rainforest to the bustling streets of Tokyo. Each visit offers a glimpse into a unique setting, enhanced with Google Street View. It's a delightful way to satisfy your wanderlust, discover hidden gems, and travel from your home to various corners of the globe with the element of surprise and curiosity."
-  name: 'The Secret Door'
+  name: The Secret Door
   url: http://secretdoor.notepadwebdevelopment.com/
+- date: 2025-04-05
+  description: "Window Swap is a delightful platform that lets you escape the confines of your own world by offering the chance to peer through someone else's window from anywhere on the globe. Users share video clips of views from their homes, creating a mesmerizing tapestry of urban and rural landscapes, from bustling city streets to serene countryside vistas. It's an inspiring way to experience the diversity and beauty of the world from the comfort of your own home, offering a momentary journey to distant places that can soothe wanderlust and spark creativity."
+  name: Window Swap
+  url: window-swap.com
