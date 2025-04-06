@@ -1,0 +1,15 @@
+/* TEAM */
+
+The whole team: Dave Cross.
+
+Links: https://links.davecross.co.uk/
+Location: London, UK
+
+/* SITE */
+
+Last update: Daily
+
+Standards: HTML5, CSS3
+
+Components: GitHub Pages, GitHub Actions, Jekyll, Minimal Mistakes, Perl
+
