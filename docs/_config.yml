@@ -11,6 +11,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-include-cache
   - jekyll-data
+  - jekyll-sitemap
 
 collections:
   pages:
