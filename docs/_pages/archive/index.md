@@ -2,6 +2,7 @@
 layout: archive
 title: Archive
 permalink: /archive/
+sitemap: true
 ---
 
 A list of all the cool stuff we've featured:

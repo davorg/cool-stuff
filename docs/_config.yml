@@ -21,6 +21,11 @@ collections:
 defaults:
   - scope:
       path: ""
+      type: "pages"
+    values:
+      sitemap: false
+  - scope:
+      path: ""
       type: archive
     values:
       layout: archive
