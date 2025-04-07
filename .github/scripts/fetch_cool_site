@@ -24,8 +24,9 @@ my @urls = map { $_->{url} } @$entries;
 my $prompt = join " ",
   "Suggest a really cool, creative, or fun website to feature today on a site called 'Cool Stuff'.",
   "Just return the name, URL, and a one-paragraph description of why it's cool. Only return one site.",
-  "The URL should just be the URL itself. Do not wrap it in Markdown. Always include the protocol.",
-  "Never include any kind of header or label.",
+  "Return the data in this format: One line containing only the name of the site.",
+  "One line containing only the complete URL (e.g. https://example.com/)_",
+  "One or more lines containing the description of the site.",
   "Do not include sites we have already featured: ", join ', ', @urls;
 
 my $res = $client->createChatCompletion({
