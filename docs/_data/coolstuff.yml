@@ -23,3 +23,7 @@
   description: 'Neal.fun is a delightful collection of interactive and visually captivating web experiments created by developer Neal Agarwal. From exploring a universe of size comparisons to understanding large numbers, each project offers a unique, engaging, and often educational experience. The whimsical interface and thought-provoking content make Neal.fun a fun distraction and a fascinating way to learn something new, providing endless entertainment for those curious about the world around them.'
   name: Neal.fun
   url: https://neal.fun
+- date: 2025-04-07
+  description: "MapCrunch is an intriguing and immersive website that allows users to explore random locations around the world using Google Street View. With a simple click, you're transported to a new, undiscovered spot somewhere on the globe, offering an element of surprise and adventure from the comfort of your home. Whether you're experiencing the serene countryside of France, bustling streets of Tokyo, or the remote landscapes of rural Australia, MapCrunch provides a unique way to virtually travel and discover places you might never have thought to visit on your own."
+  name: https://www.mapcrunch.com
+  url: ''
