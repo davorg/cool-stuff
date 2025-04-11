@@ -39,3 +39,7 @@
   description: "Zoomquilt is a mesmerizing website that offers an endless zoom illusion into a surreal and fantastical world of art. Users can dive deep into a continuously looping quilt of stunning and intricate illustrations, each piece seamlessly blending into the next. It's a fascinating visual experience that's both soothing and mind-bending, making it a perfect escape into creativity and imagination. Whether you're looking for inspiration or just want to relax, Zoomquilt offers a captivating journey that keeps you enthralled as you explore its infinite depths."
   name: Zoomquilt
   url: http://zoomquilt.org
+- date: 2025-04-11
+  description: "The Internet Arcade is a treasure trove for retro gaming enthusiasts, offering a massive collection of hundreds of arcade games from the 1970s through to the 1990s that can be played right in your browser. It's a digital preservation project by the Internet Archive, which allows users to experience the nostalgia and history of gaming before the era of home consoles. From classics like 'Space Invaders' to obscure titles from yesteryear, The Internet Arcade provides a fun and educational look at the evolution of video games. It's a compelling dive into digital history and a great way to reminisce or discover old-school games."
+  name: The Internet Arcade
+  url: https://archive.org/details/internetarcade
