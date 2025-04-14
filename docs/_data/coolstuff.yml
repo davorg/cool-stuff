@@ -47,7 +47,11 @@
   description: "Patatap is an interactive audiovisual experience that turns your keyboard into a delightful instrument of creativity and chaos. Each key on your keyboard triggers a unique sound and a vibrant animation, harmonizing sight and sound for a fun, spontaneous activity. Whether you're a lover of music, visual art, or just plain fun, Patatap provides an engaging way to ignite your creativity with little to no learning curve. It's perfect for a quick break that can re-energize your mind and spark a little joy in your day."
   name: Patatap
   url: https://patatap.com/
-- url: https://asoftmurmur.com
-  date: 2025-04-13
+- date: 2025-04-13
   description: "A Soft Murmur is an ambient sound mixer that allows you to create the perfect soundscape for relaxation, focus, or sleep. The site offers a variety of sound options including rain, wind, crackling fire, and even coffee shop chatter, each adjustable in volume to let you customize your auditory environment. It's perfect for enhancing focus on cool creative projects or unwinding after a busy day. This site stands out for its simplicity, ease of use, and the ability to enhance your environment with the click of a button."
   name: A Soft Murmur
+  url: https://asoftmurmur.com
+- URL: https://weavesilk.com/
+  date: 2025-04-14
+  description: "Silk is an enchanting online platform that lets you create beautiful, intricate designs by simply swiping your mouse. This interactive generative art tool allows even those with no artistic background to produce mesmerizing artworks, as it translates simple gestures into symmetrical, flowing patterns of light and color. Silk's intuitive interface and the meditative quality of its creations make it a captivating destination for anyone looking to explore digital art or simply relax and indulge in a moment of creativity."
+  name: Silk – Interactive Generative Art
