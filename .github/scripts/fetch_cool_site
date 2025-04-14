@@ -9,6 +9,7 @@ use OpenAPI::Client::OpenAI;
 use YAML qw(LoadFile DumpFile);
 use Time::Piece;
 use JSON::MaybeXS;
+use Encode qw[encode];
 
 my $debug = @ARGV && ($ARGV[0] eq 'debug');
 
@@ -68,6 +69,7 @@ my $res = $client->createChatCompletion({
 });
 
 my $text = $res->res->json->{choices}[0]{message}{content};
+$text = encode('UTF-8', $text);
 
 if ($debug) {
   print "$text\n";
