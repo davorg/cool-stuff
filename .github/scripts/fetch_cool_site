@@ -26,7 +26,7 @@ my $prompt = join " ",
   "Suggest a really cool, creative, or fun website to feature today on a site called 'Cool Stuff'.",
   "Just return the name, URL, and a one-paragraph description of why it's cool. Only return one site.",
   "Return the data in JSON format. Just the JSON with no Markdown around it.",
-  "All keys in the JSON should be in lower case."
+  "All keys in the JSON should be in lower case.",
   "Do not include sites we have already featured: ", join ', ', @urls;
 
 my $response_format = {
