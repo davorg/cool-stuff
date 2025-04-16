@@ -59,3 +59,7 @@
   description: "Pointer Pointer is a humorous and entertaining website that uses clever image recognition to point at your cursor with a variety of random images. Simply move your pointer around, and the site will locate a picture of someone pointing at exactly where your cursor is. It's a delightful time-waster that combines randomness with the surprising precision of human-aligned imagery, making it a perfect feature for any collection of cool and fun websites."
   name: pointer pointer
   url: https://pointerpointer.com
+- date: 2025-04-16
+  description: "GeoGuessr is an engaging geography game that drops you into a random location on Google Street View, and challenges you to guess where in the world you are. You use clues from the environment, such as road signs, language, and landmarks, to make your guess and score points based on accuracy. It's a fun way to test your geography skills and explore the world virtually, making it a perfect feature for 'Cool Stuff'."
+  name: GeoGuessr
+  url: https://www.geoguessr.com
