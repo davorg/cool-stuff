@@ -20,14 +20,14 @@ my $client = OpenAPI::Client::OpenAI->new;
 my $file = "docs/_data/coolstuff.yml";
 my $entries = LoadFile($file);
 
-my @urls = map { $_->{url} } @$entries;
+my @prev = map { $_->{name} } @$entries;
 
 my $prompt = join " ",
   "Suggest a really cool, creative, or fun website to feature today on a site called 'Cool Stuff'.",
   "Just return the name, URL, and a one-paragraph description of why it's cool. Only return one site.",
   "Return the data in JSON format. Just the JSON with no Markdown around it.",
   "All keys in the JSON should be in lower case.",
-  "Do not include sites we have already featured: ", join ', ', @urls;
+  "Do not include sites we have already featured: ", join ', ', @prev;
 
 my $response_format = {
   '$schema' => "https://json-schema.org/draft/2020-12/schema",
@@ -57,6 +57,7 @@ my $response_format = {
 my $res = $client->createChatCompletion({
   body => {
     model => 'gpt-4o',
+    # model => 'gpt-4.1-nano',
     messages => [
         { role => 'system', content => 'You are a helpful curator of awesome websites.' },
         { role => 'user', content => $prompt },
