@@ -63,3 +63,7 @@
   description: "GeoGuessr is an engaging geography game that drops you into a random location on Google Street View, and challenges you to guess where in the world you are. You use clues from the environment, such as road signs, language, and landmarks, to make your guess and score points based on accuracy. It's a fun way to test your geography skills and explore the world virtually, making it a perfect feature for 'Cool Stuff'."
   name: GeoGuessr
   url: https://www.geoguessr.com
+- date: 2025-04-17
+  description: "Incredibox is an engaging and incredibly fun music app that allows users to create their own music by assembling a group of animated beatboxers. With different versions to choose from, each offering a unique set of sounds and rhythms, users can mix various beats, melodies, and effects to craft their own audio masterpiece. The simple drag-and-drop interface, combined with its captivating visuals and catchy tunes, makes it a delight for both music enthusiasts and casual users alike. It's a digital playground for budding musicians and anyone looking for a creative escape."
+  name: incredibox
+  url: https://www.incredibox.com
