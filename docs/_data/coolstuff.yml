@@ -87,3 +87,7 @@
   description: "Species in Pieces is a captivating digital exhibition that blends design, coding, and conservation. Featuring an artistic collection of 30 endangered species, this site uses stunning polygonal art to depict each animal, brought together with smooth transitions and animations. As you navigate through each piece, you'll also learn about the conservation status of these animals, making it both an aesthetic and educational experience. This unique intersection of art and technology highlights the beauty and fragility of biodiversity in a fun and engaging way."
   name: Species in Pieces
   url: http://species-in-pieces.com/
+- date: 2025-04-23
+  description: 'Koalas To The Max is a delightful and engaging website where a large circle is split into increasingly smaller circles as you hover over them with your cursor. As you continue to break down the circles, a hidden image gradually comes into view, providing a sense of accomplishment and surprise. Originally inspired by a project on Reddit, this site is a delightful way to unwind, offering a simple yet intriguing interactive experience that encourages exploration and relaxation.'
+  name: koalastothemax
+  url: http://www.koalastothemax.com/
