@@ -91,3 +91,7 @@
   description: 'Koalas To The Max is a delightful and engaging website where a large circle is split into increasingly smaller circles as you hover over them with your cursor. As you continue to break down the circles, a hidden image gradually comes into view, providing a sense of accomplishment and surprise. Originally inspired by a project on Reddit, this site is a delightful way to unwind, offering a simple yet intriguing interactive experience that encourages exploration and relaxation.'
   name: koalastothemax
   url: http://www.koalastothemax.com/
+- date: 2025-04-24
+  description: "FlightRadar24 is a captivating website that turns you into a digital air traffic controller, providing real-time flight tracking data. Watch planes move across global maps, find specific flights by number, and see detailed information about each plane, including its speed, altitude, and destination. It's a fascinating way to explore global travel patterns, and for aviation enthusiasts, it's a treasure trove of live data. Whether you're watching a loved one's flight, or simply dreaming about future travels, FlightRadar24 offers an intriguing glimpse into the world of aviation."
+  name: FlightRadar24
+  url: https://www.flightradar24.com
