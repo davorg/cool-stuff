@@ -95,3 +95,7 @@
   description: "FlightRadar24 is a captivating website that turns you into a digital air traffic controller, providing real-time flight tracking data. Watch planes move across global maps, find specific flights by number, and see detailed information about each plane, including its speed, altitude, and destination. It's a fascinating way to explore global travel patterns, and for aviation enthusiasts, it's a treasure trove of live data. Whether you're watching a loved one's flight, or simply dreaming about future travels, FlightRadar24 offers an intriguing glimpse into the world of aviation."
   name: FlightRadar24
   url: https://www.flightradar24.com
+- date: 2025-04-25
+  description: "The Wayback Machine is a fascinating digital time capsule that allows users to browse billions of archived web pages dating back to 1996. Created by the Internet Archive, this tool is indispensable for historians, researchers, and the curious internet surfer eager to explore the past online. Whether you're looking to see the first version of your favorite website or study internet history in its entirety, the Wayback Machine offers a unique and enlightening perspective into the digital transformation over the decades. Its comprehensive archive is not only informative but also a fun reflection on how the internet and web design have changed over time."
+  name: The Wayback Machine
+  url: https://web.archive.org/
