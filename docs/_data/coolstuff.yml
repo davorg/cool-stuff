@@ -99,3 +99,7 @@
   description: "The Wayback Machine is a fascinating digital time capsule that allows users to browse billions of archived web pages dating back to 1996. Created by the Internet Archive, this tool is indispensable for historians, researchers, and the curious internet surfer eager to explore the past online. Whether you're looking to see the first version of your favorite website or study internet history in its entirety, the Wayback Machine offers a unique and enlightening perspective into the digital transformation over the decades. Its comprehensive archive is not only informative but also a fun reflection on how the internet and web design have changed over time."
   name: The Wayback Machine
   url: https://web.archive.org/
+- date: 2025-04-26
+  description: "Dive into the depths of the ocean with 'The Deep Sea', an interactive journey that conveys the breadth and mystery of underwater life. As you scroll down, you are taken deeper into the abyss, revealing fascinating facts and creatures that inhabit each layer of the ocean. It's a captivating educational experience that showcases the variety of unknown life forms and the pressures of underwater exploration. Perfect for both curious explorers and those seeking a visually engaging adventure."
+  name: The Deep Sea
+  url: https://neal.fun/deep-sea/
