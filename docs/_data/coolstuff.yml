@@ -115,3 +115,7 @@
   description: "Quick, Draw! is an addictive and entertaining AI experiment by Google that challenges your doodling skills. The game provides prompts like 'cat' or 'house,' and you have only 20 seconds to draw the object while an AI tries to guess what you’re sketching. Not only is it a fun way to pass the time, but it also highlights the fascinating capabilities and learning processes of machine learning technologies. It's a perfect blend of creativity, technology, and fun that will keep you engaged for hours."
   name: 'Quick, Draw!'
   url: https://quickdraw.withgoogle.com/
+- date: 2025-04-30
+  description: "Not a Knot is an intriguing website that explores the fascinating world of mathematical knots and their countless variations. It provides interactive visualizations that allow users to manipulate and untangle knots, offering a hands-on learning experience in topology and mathematics. The site's innovative approach to complex concepts makes it a playground for both math enthusiasts and curious minds, effortlessly blending education with engaging interactivity."
+  name: Not a Knot
+  url: https://notaknot.io
