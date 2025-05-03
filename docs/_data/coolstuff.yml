@@ -127,3 +127,7 @@
   description: "Eye Bogglers is a fascinating site that offers a collection of mind-bending optical illusions and visual puzzles. With a design that encourages exploration, users can dive into a world where art meets science, challenging their perceptions and tricking their brains in delightfully fun ways. The site explains the science behind each illusion, making it both entertaining and educational. It's an excellent destination for anyone looking for a creative mental workout or a whimsical distraction."
   name: Eye Bogglers
   url: https://eyebogglers.com/
+- date: 2025-05-03
+  description: "Engage offers a captivating journey into the world of complex systems, making complicated science concepts accessible and interactive. With simulations, games, challenges, and informative visualizations, users can delve deep into topics like chaos theory, network dynamics, and evolutionary biology. Whether you're a curious learner or an experienced scientist, Engage provides a unique platform to explore the interconnectedness of our world in an engaging and intuitive manner."
+  name: Engage
+  url: https://engage.complexityexplorer.org/
