@@ -143,3 +143,7 @@
   description: "Find the Invisible Cow is a unique and hilariously entertaining website where players are tasked with locating an invisible cow on the screen using only sound clues. As you move your cursor closer to the cow's location, the audio gets louder, guiding you toward the target. Its simplicity combined with a touch of absurdity makes it a fun and addictive experience that appeals to all ages, ensuring plenty of laughs while testing your auditory perception skills."
   name: Find the Invisible Cow
   url: https://findtheinvisiblecow.com
+- date: 2025-05-07
+  description: 'Forgetify is an innovative website that introduces users to Spotify songs that have never been played before. With millions of tracks available on the platform, there are hidden gems that have yet to be discovered and appreciated, and Forgetify is your front row ticket to unearth them. This is not just a musical journey but also a way to explore and support unheard artists, making it a perfect destination for music lovers with a sense of adventure.'
+  name: Forgetify
+  url: https://www.forgetify.com/
