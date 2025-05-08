@@ -147,3 +147,7 @@
   description: 'Forgetify is an innovative website that introduces users to Spotify songs that have never been played before. With millions of tracks available on the platform, there are hidden gems that have yet to be discovered and appreciated, and Forgetify is your front row ticket to unearth them. This is not just a musical journey but also a way to explore and support unheard artists, making it a perfect destination for music lovers with a sense of adventure.'
   name: Forgetify
   url: https://www.forgetify.com/
+- date: 2025-05-08
+  description: "The Evolution of Trust is an interactive web-based game and educational experience that delves into the complexities of trust and cooperation. Created by Nicky Case, this site uses engaging storytelling, clever animations, and interactive simulations to explore why trust is often broken and how it can be rebuilt. It's a brilliant way to learn about game theory and human behavior, making complex concepts accessible and fun for everyone."
+  name: The Evolution of Trust
+  url: https://ncase.me/trust/
