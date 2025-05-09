@@ -151,3 +151,7 @@
   description: "The Evolution of Trust is an interactive web-based game and educational experience that delves into the complexities of trust and cooperation. Created by Nicky Case, this site uses engaging storytelling, clever animations, and interactive simulations to explore why trust is often broken and how it can be rebuilt. It's a brilliant way to learn about game theory and human behavior, making complex concepts accessible and fun for everyone."
   name: The Evolution of Trust
   url: https://ncase.me/trust/
+- date: 2025-05-09
+  description: "Chromecast Backgrounds is a visually stunning site that showcases Google's daily selection of high-resolution images used as backgrounds for Chromecast devices. This gallery is a treasure trove for photography enthusiasts and allows viewers to explore an ever-changing collection of breathtaking landscapes, architectural marvels, and artistic captures. Each image comes with additional information about the photographer and the location, adding an educational flavor to the visual feast."
+  name: Chromecast Backgrounds
+  url: https://clients3.google.com/cast/chromecast/home
