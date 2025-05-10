@@ -155,3 +155,7 @@
   description: "Chromecast Backgrounds is a visually stunning site that showcases Google's daily selection of high-resolution images used as backgrounds for Chromecast devices. This gallery is a treasure trove for photography enthusiasts and allows viewers to explore an ever-changing collection of breathtaking landscapes, architectural marvels, and artistic captures. Each image comes with additional information about the photographer and the location, adding an educational flavor to the visual feast."
   name: Chromecast Backgrounds
   url: https://clients3.google.com/cast/chromecast/home
+- date: 2025-05-10
+  description: "Stellarium Web is an awe-inspiring online planetarium that brings the wonders of the night sky to your fingertips. By simply entering your location, you can explore the stars, planets, and constellaries visible from your current position in real-time. Its intuitive design and stunning visuals make it a captivating tool for both amateur and seasoned astronomers, providing an immersive experience for those looking to delve into the cosmos without the need for a telescope. Whether you're planning a stargazing session or just exploring celestial phenomena, Stellarium Web offers a fun and educational journey through the universe."
+  name: Stellarium Web
+  url: https://stellarium-web.org/
