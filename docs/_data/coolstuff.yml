@@ -159,3 +159,7 @@
   description: "Stellarium Web is an awe-inspiring online planetarium that brings the wonders of the night sky to your fingertips. By simply entering your location, you can explore the stars, planets, and constellaries visible from your current position in real-time. Its intuitive design and stunning visuals make it a captivating tool for both amateur and seasoned astronomers, providing an immersive experience for those looking to delve into the cosmos without the need for a telescope. Whether you're planning a stargazing session or just exploring celestial phenomena, Stellarium Web offers a fun and educational journey through the universe."
   name: Stellarium Web
   url: https://stellarium-web.org/
+- date: 2025-05-11
+  description: "Issac Newton Tree offers a unique view into the history and myth surrounding Isaac Newton's apple tree, the very one that led to the formulation of the theory of gravity. The website allows you to explore articles, videos, and interactive elements that tell the fascinating tale of Newton's discovery and its impact on science. Dive deep into the legacy of one of the most iconic symbols in the history of scientific discovery, making the site both educational and intriguing."
+  name: Issac Newton Tree
+  url: https://www.newton.ac.uk/outreach/apple-tree/
