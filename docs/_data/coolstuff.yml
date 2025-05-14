@@ -171,3 +171,7 @@
   description: "The Pudding is an innovative website that brings data journalism to life through beautifully designed visual essays. Covering a wide array of topics from pop culture to social issues, each piece on The Pudding is meticulously crafted with interactive graphics and engaging storytelling. It's cool because it turns complex datasets into accessible stories, making information not just informative, but also visually stunning and enjoyable to explore."
   name: The Pudding
   url: https://pudding.cool
+- date: 2025-05-14
+  description: 'Little Alchemy is a fascinating and addictive web-based game that challenges users to combine different basic elements to discover new items. Starting with just air, earth, fire, and water, players can create over 500 different items ranging from simple to complex by using their creativity and imagination. Each discovery can lead to new magical combinations, making it a thought-provoking game that encourages experimentation and exploration while being incredibly fun.'
+  name: Little Alchemy
+  url: https://littlealchemy.com
