@@ -175,3 +175,7 @@
   description: 'Little Alchemy is a fascinating and addictive web-based game that challenges users to combine different basic elements to discover new items. Starting with just air, earth, fire, and water, players can create over 500 different items ranging from simple to complex by using their creativity and imagination. Each discovery can lead to new magical combinations, making it a thought-provoking game that encourages experimentation and exploration while being incredibly fun.'
   name: Little Alchemy
   url: https://littlealchemy.com
+- date: 2025-05-15
+  description: "Seaquence is a beautiful blend of music synthesis and biological simulation, allowing users to create unique musical compositions by spawning and interacting with charming little 'creatures' in a virtual marine environment. Each creature you create has its own sound, and as you add more organisms to your ecosystem, they harmonize together, creating a delightful aural experience. This site is great for anyone interested in music, creativity, and a bit of virtual oceanic exploration."
+  name: Seaquence
+  url: http://seaquence.org
