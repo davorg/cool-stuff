@@ -179,3 +179,7 @@
   description: "Seaquence is a beautiful blend of music synthesis and biological simulation, allowing users to create unique musical compositions by spawning and interacting with charming little 'creatures' in a virtual marine environment. Each creature you create has its own sound, and as you add more organisms to your ecosystem, they harmonize together, creating a delightful aural experience. This site is great for anyone interested in music, creativity, and a bit of virtual oceanic exploration."
   name: Seaquence
   url: http://seaquence.org
+- date: 2025-05-16
+  description: "The Gravitational Waves Simulation offers a fascinating insight into the detection of gravitational waves, made famous by the LIGO detectors. This interactive site lets you explore and simulate gravitational waves, virtually hunt for black holes, and engage with complex astrophysical phenomena in an approachable way. It's a captivating experience for anyone curious about the universe's mysteries, merging education with an element of adventure and scientific exploration."
+  name: Gravitational Waves Simulation
+  url: https://www.blackholehunter.org/
