@@ -191,3 +191,7 @@
   description: "Playphrase.me is an entertaining and innovative website that lets you listen to phrases from movies and TV shows. Simply type in a word or short phrase, and the site will generate clips containing that exact snippet of dialogue spoken by various characters. It's a delightful way to explore memorable lines and perfect for movie buffs looking to recall iconic quotes or for anyone needing a touch of cinematic nostalgia in their day."
   name: Playphrase.me
   url: https://www.playphrase.me
+- date: 2025-05-19
+  description: "We Become What We Behold is a brilliantly designed interactive game that explores the media's role in shaping public perception and behavior. Created by Nicky Case, the game immerses users in a cycle of capturing and broadcasting news clips that influence the social dynamics of stick-figure characters. With its thought-provoking message and clever execution, it serves as both an entertaining and enlightening experience, shedding light on the impact of sensationalism and media influence on society."
+  name: We Become What We Behold
+  url: https://ncase.me/beholder/
