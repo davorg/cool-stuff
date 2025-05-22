@@ -203,3 +203,7 @@
   description: "How Stuff Works is a treasure trove of fascinating information presented in a highly engaging format. The site offers deep dives into a wide array of topics ranging from science and technology to culture and entertainment. Whether you're curious about how engines work, the science behind the food we eat, or even the mysteries of space, How Stuff Works offers easy-to-digest articles, podcasts, and videos that make learning fun and accessible. It's a perfect daily stop for the inquisitive mind eager to learn something new in an enjoyable way."
   name: How Stuff Works
   url: https://www.howstuffworks.com/
+- date: 2025-05-22
+  description: "MoodJam is a beautifully artistic website where users can log their moods using a simple and colorful visual interface. The site allows you to select colors that best represent your current mood and track changes over time. As your entries accumulate, you create a vibrant 'mood rainbow' that acts as a personal emotional timeline. It's a creative way to reflect on your emotional well-being, discover patterns, and gain insights into how you feel over time, all while bringing a touch of art into the mundane."
+  name: MoodJam
+  url: http://moodjam.com/
