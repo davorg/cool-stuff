@@ -207,3 +207,7 @@
   description: "MoodJam is a beautifully artistic website where users can log their moods using a simple and colorful visual interface. The site allows you to select colors that best represent your current mood and track changes over time. As your entries accumulate, you create a vibrant 'mood rainbow' that acts as a personal emotional timeline. It's a creative way to reflect on your emotional well-being, discover patterns, and gain insights into how you feel over time, all while bringing a touch of art into the mundane."
   name: MoodJam
   url: http://moodjam.com/
+- date: 2025-05-23
+  description: "Line Rider is a delightful and creative sandbox game where you draw tracks for a sled to ride on. The fun lies in crafting intricate courses, performing stunts, and watching as the little sledder navigates your designs. It's a fantastic outlet for creativity and experimentation, often leading to unexpected and entertaining results. This simple yet addictive game has been inspiring creativity for years and remains a beloved digital playground for users of all ages."
+  name: Line Rider
+  url: https://www.linerider.com/
