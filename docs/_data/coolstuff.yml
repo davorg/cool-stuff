@@ -215,3 +215,7 @@
   description: "Tinkercad is a fantastic web-based platform that makes 3D design and electronics accessible and fun for everyone. This intuitive tool allows users to create, modify, and print intricate 3D models right from their browser without needing any previous design experience. The site offers countless tutorials and a vibrant community to share creations and ideas with. Whether you're a student, hobbyist, or educator, Tinkercad offers a gateway into the world of 3D modeling, making it an incredibly cool tool to explore and unleash creativity."
   name: Tinkercad
   url: https://www.tinkercad.com
+- date: 2025-05-25
+  description: "Poodle Predictor is a whimsical and entertaining website where users can see whimsically exaggerated and humorous predictions of one's future in the form of a playful poodle. Featuring interactive animations and quirky advice, it's a delightful diversion that adds a bit of lighthearted fun to your day. Whether you're looking to kill some time or spark some joy, Poodle Predictor is sure to give you a giggle or two."
+  name: Poodle Predictor
+  url: http://poodlepredictor.com
