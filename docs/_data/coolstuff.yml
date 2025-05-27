@@ -223,3 +223,7 @@
   description: "Monkify Virtual Drum is a fun and interactive website that allows users to create and mix music beats using a virtual drum set. It's cool because you can craft your own rhythm by tapping on different drums and cymbals, providing an easy and entertaining way to explore the basics of drumming without any physical setup. Whether you're a seasoned musician or a novice looking to experiment with beats, this site offers a creative outlet for musical expression in a simple and engaging format."
   name: Monkify Virtual Drum
   url: https://monkkey.fr/DrumMachine/
+- date: 2025-05-27
+  description: '2048 is a highly addictive puzzle game that challenges players to slide numbered tiles on a grid to combine them into a tile with the number 2048. The simple yet engaging gameplay, along with its calm design and easy-to-understand mechanics, makes it perfect for quick sessions of brain-teasing fun. As numbers are combined and the difficulty increases, 2048 provides an endless challenge for both casual players and puzzle enthusiasts alike.'
+  name: 2048
+  url: https://play2048.co/
