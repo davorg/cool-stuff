@@ -227,3 +227,7 @@
   description: '2048 is a highly addictive puzzle game that challenges players to slide numbered tiles on a grid to combine them into a tile with the number 2048. The simple yet engaging gameplay, along with its calm design and easy-to-understand mechanics, makes it perfect for quick sessions of brain-teasing fun. As numbers are combined and the difficulty increases, 2048 provides an endless challenge for both casual players and puzzle enthusiasts alike.'
   name: 2048
   url: https://play2048.co/
+- date: 2025-05-28
+  description: "Window-Swap provides a unique opportunity to look through other people's windows around the world. Users can experience breathtaking views and everyday scenes across different cultures and countries, offering a refreshing change of perspective when you can't travel. It's like taking a mini-vacation from the comfort of your own home, providing relaxation and inspiration."
+  name: Window-Swap
+  url: https://www.window-swap.com/
