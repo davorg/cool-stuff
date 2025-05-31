@@ -235,3 +235,7 @@
   description: 'Cybersecurity Labs is an interactive platform that gamifies the learning of cybersecurity concepts through engaging online labs and scenarios. Designed for both beginners and more experienced tech enthusiasts, it provides users with the opportunity to explore the real-world applications of cybersecurity by solving challenges that mimic genuine hacking attempts and security breaches. This platform not only educates about critical security practices but also does so in a fun and dynamic way that keeps learners hooked. Its combination of gaming elements and essential security knowledge makes it an excellent feature for those looking to understand and protect against digital threats.'
   name: Cybersecurity Labs
   url: https://www.pbslearningmedia.org/resource/nvcy-sci-cyberlab/nova-cybersecurity-lab/nova-premium-collection/
+- date: 2025-05-31
+  description: 'Starfield is a mesmerizing, minimalist website that lets you drift through a dynamically generated star field, emulating the feeling of traveling at warp speed through the galaxy. Its elegant design is both soothing and captivating, allowing you to lose yourself in an endless universe of twinkling stars. The interactive nature of the experience, where you can adjust the speed and density of the starfield, makes it a unique and immersive digital escape.'
+  name: Starfield
+  url: https://starfield.10kbits.dev/
