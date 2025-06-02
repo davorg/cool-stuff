@@ -243,3 +243,7 @@
   description: "Dinosaur Polo Club's 'Freeways' is a uniquely engaging puzzler where you create your highway network to connect the traffic flow smoothly. What's cool about it is the creative way you tackle the puzzle without any specific rules—it's entirely sandbox. The pixel art aesthetic paired with the increasing complexity of ensuring a smooth commute results in a highly satisfying and addictive experience. Each level offers a new and surprising challenge that tests your logic, efficiency, and perhaps a bit of artistic road-design skill."
   name: Dinosaur Polo Club's 'Freeways'
   url: https://dinosaurpoloclub.com/freeways/
+- date: 2025-06-02
+  description: 'Bitsy is an open-source game-making tool that allows anyone to create their own tiny pixel games without any coding experience. Simple yet powerful, Bitsy provides a creative platform for building interactive stories and adventures with minimalistic, charming graphics. Users can easily share their creations online, making it a vibrant community hub for amateur and seasoned game designers alike. The intuitive interface and artistic possibilities make it an incredibly cool and fun site to explore, offering endless opportunities to express creativity.'
+  name: bitsy
+  url: https://ledoux.itch.io/bitsy
