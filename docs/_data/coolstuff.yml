@@ -251,3 +251,7 @@
   description: "The True Size is an engaging and educational website that allows users to explore and compare the real geographic size of countries. Due to map projections, countries often appear distorted in size on traditional maps. This interactive tool enables you to drag and drop different countries over others to see how their sizes compare accurately. It's a fun way to learn about geography and understand the actual scale of the world around us. Whether you're curious to see how your home country compares to others or just want to explore the world from a new perspective, The True Size offers an eye-opening experience."
   name: The True Size
   url: https://thetruesize.com
+- date: 2025-06-04
+  description: "Stay updated with a real-time count of astronauts currently orbiting Earth with 'How Many People Are In Space Right Now?' This simple yet fascinating website gives you immediate access to the number of humans exploring the vast expanse beyond our atmosphere. Each visit provides you with not just a number, but the names and nationalities of those who are actively pioneering human presence in space. It's a cool way to stay connected with mankind's ever-expanding horizons."
+  name: How Many People Are In Space Right Now?
+  url: http://www.howmanypeopleareinspacerightnow.com/
