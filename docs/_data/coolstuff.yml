@@ -255,3 +255,8 @@
   description: "Stay updated with a real-time count of astronauts currently orbiting Earth with 'How Many People Are In Space Right Now?' This simple yet fascinating website gives you immediate access to the number of humans exploring the vast expanse beyond our atmosphere. Each visit provides you with not just a number, but the names and nationalities of those who are actively pioneering human presence in space. It's a cool way to stay connected with mankind's ever-expanding horizons."
   name: How Many People Are In Space Right Now?
   url: http://www.howmanypeopleareinspacerightnow.com/
+- date: 2025-06-05
+  name: Radio.Garden
+  url: http://radio.garden
+  description: "Radio.Garden is an incredible web application that allows you to explore live radio streaming from around the globe. With an interactive 3D globe interface, users can spin and zoom in on thousands of radio stations from every corner of the planet. It's a captivating way to discover new music and listen to local broadcasts from faraway places, providing a unique and immersive audio exploration experience."
+
