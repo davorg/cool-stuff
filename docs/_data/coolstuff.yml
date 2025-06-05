@@ -256,7 +256,6 @@
   name: How Many People Are In Space Right Now?
   url: http://www.howmanypeopleareinspacerightnow.com/
 - date: 2025-06-05
-  name: Radio.Garden
-  url: http://radio.garden
-  description: "Radio.Garden is an incredible web application that allows you to explore live radio streaming from around the globe. With an interactive 3D globe interface, users can spin and zoom in on thousands of radio stations from every corner of the planet. It's a captivating way to discover new music and listen to local broadcasts from faraway places, providing a unique and immersive audio exploration experience."
-
+  description: "Sort Simulator is a mesmerizing and interactive web-based visualization tool that allows you to witness various sorting algorithms in action through beautifully animated simulations. It provides a fun and educational way to learn about how different algorithms work, such as bubble sort, quicksort, and heapsort. The site offers user-friendly controls that let you adjust speed, array size, and even pause the animations to see every detail of the process. Whether you're a student, a teacher, or just a curious mind, Sortisim makes complex algorithms accessible and fascinating to watch unfold."
+  name: Sort Simulator
+  url: https://potatoparser.github.io/sortsimulator/
