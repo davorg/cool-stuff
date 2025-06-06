@@ -259,3 +259,7 @@
   description: "Sort Simulator is a mesmerizing and interactive web-based visualization tool that allows you to witness various sorting algorithms in action through beautifully animated simulations. It provides a fun and educational way to learn about how different algorithms work, such as bubble sort, quicksort, and heapsort. The site offers user-friendly controls that let you adjust speed, array size, and even pause the animations to see every detail of the process. Whether you're a student, a teacher, or just a curious mind, Sortisim makes complex algorithms accessible and fascinating to watch unfold."
   name: Sort Simulator
   url: https://potatoparser.github.io/sortsimulator/
+- date: 2025-06-06
+  description: "Zoom Earth is a captivating website that lets you experience our planet in real-time, displaying live satellite images, weather conditions, and animations from multiple layers such as clouds, precipitation, and storms. This site not only offers an eye-opening glimpse into current meteorological events globally but also allows users to explore historical satellite imagery, providing a unique perspective on Earth's dynamic environment. Its intuitive interface and comprehensive view make it a fun and educational tool for weather enthusiasts and curious minds alike."
+  name: Zoom Earth
+  url: https://zoom.earth/
