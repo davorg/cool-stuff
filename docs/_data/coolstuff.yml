@@ -263,3 +263,7 @@
   description: "Zoom Earth is a captivating website that lets you experience our planet in real-time, displaying live satellite images, weather conditions, and animations from multiple layers such as clouds, precipitation, and storms. This site not only offers an eye-opening glimpse into current meteorological events globally but also allows users to explore historical satellite imagery, providing a unique perspective on Earth's dynamic environment. Its intuitive interface and comprehensive view make it a fun and educational tool for weather enthusiasts and curious minds alike."
   name: Zoom Earth
   url: https://zoom.earth/
+- date: 2025-06-07
+  description: "Skribbl.io is an engaging online multiplayer drawing and guessing game that brings friends and players worldwide together in a fun and creative way. In each round, a player is randomly selected to draw a word assigned to them while the others try to guess what it is. It's like Pictionary but with an internet twist, providing endless entertainment as players see how their artistic skills compare and marvel (or laugh) at each other's doodles. The simplicity and interactive aspect make it perfect for both quick games and longer competitive sessions."
+  name: Skribbl.io
+  url: https://skribbl.io
