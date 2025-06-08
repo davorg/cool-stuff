@@ -267,3 +267,7 @@
   description: "Skribbl.io is an engaging online multiplayer drawing and guessing game that brings friends and players worldwide together in a fun and creative way. In each round, a player is randomly selected to draw a word assigned to them while the others try to guess what it is. It's like Pictionary but with an internet twist, providing endless entertainment as players see how their artistic skills compare and marvel (or laugh) at each other's doodles. The simplicity and interactive aspect make it perfect for both quick games and longer competitive sessions."
   name: Skribbl.io
   url: https://skribbl.io
+- date: 2025-06-08
+  description: "Nerdle is a captivating game that challenges your mathematical prowess by blending elements of logic puzzles and number games into an engaging daily experience. Much like the popular word game Wordle, Nerdle provides a fresh mathematical equation puzzle every day that players must solve using a process of elimination. The interactive format keeps players intrigued, while the incremental complexity of the puzzles means there's always a new challenge awaiting. It's a delightful way to exercise your brain and have fun with numbers!"
+  name: Nerdle
+  url: https://nerdlegame.com/
