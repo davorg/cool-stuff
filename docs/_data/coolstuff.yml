@@ -275,3 +275,7 @@
   description: "Radiooooo is a delightful time-traveling audio experience that allows users to explore music from different countries and decades. Imagine hopping into a musical time machine that lets you choose a specific country and era, and instantly getting a curated playlist that transports you to that place and time. It's a unique way to discover obscure tracks, forgotten hits, and the cultural essence of different periods in musical history, making it both educational and entertaining for music lovers around the globe."
   name: Radiooooo
   url: http://radiooooo.com
+- date: 2025-06-10
+  description: "The Wiki Game is a delightful way to test your Wikipedia navigation skills by jumping from one Wikipedia article to another. The challenge lies in connecting seemingly unrelated topics in as few clicks as possible, making it not only fun but also a surprisingly educational experience. It's an invitation into a rabbit hole of information, perfect for those who love learning new things and enjoy a good puzzle. Every round offers a fresh and entertaining exploration of Wikipedia's vast expanse."
+  name: The Wiki Game
+  url: https://www.thewikigame.com/
