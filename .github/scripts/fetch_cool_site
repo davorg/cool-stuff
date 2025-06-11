@@ -3,6 +3,7 @@
 use strict;
 use warnings;
 
+use feature 'try';
 use builtin qw[trim];
 
 use OpenAPI::Client::OpenAI;
@@ -79,7 +80,15 @@ if ($debug) {
   exit;
 }
 
-my $new_entry = JSON::MaybeXS::decode_json($text);
+my $new_entry;
+
+try {
+ $new_entry = JSON::MaybeXS::decode_json($text);
+}
+catch ($e) {
+  warn "Nasty broken JSON\n\n" . ('-' x 30) . "\n\n$text\n\n";
+  die;
+}
 
 $new_entry->{date} = localtime->ymd;
 
