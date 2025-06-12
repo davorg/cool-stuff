@@ -3,7 +3,7 @@
 use strict;
 use warnings;
 
-use feature 'try';
+use experimental 'try';
 use builtin qw[trim];
 
 use OpenAPI::Client::OpenAI;
