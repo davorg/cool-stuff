@@ -29,6 +29,7 @@ my $prompt = join " ",
   "Return the data in JSON format. Just the JSON with no Markdown around it.",
   "Please do all you can to ensure that the site is still working and the URL is correct.",
   "All keys in the JSON should be in lower case.",
+  "Do not put any markdown around the JSON.",
   "Do not include sites we have already featured: ", join ', ', @prev;
 
 my $response_format = {
