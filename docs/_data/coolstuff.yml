@@ -287,7 +287,10 @@
   description: 'Print What You Like is a clever tool that allows users to print only the parts of a web page they are interested in, making it a perfect solution for saving paper and ink. It provides intuitive tools to remove ads, change font sizes, and manipulate the layout of web content for a cleaner, more customized printing experience. This site stands out for its practical value, especially in an age where digital content is ubiquitous and often cluttered with unnecessary elements.'
   name: Print What You Like
   url: https://www.printwhatyoulike.com/
-- name: FutureMe
+- description: "FutureMe is a captivating website that allows you to write letters to your future self. This ingenious platform invites users to pen down their thoughts, hopes, dreams, or current life situations and schedule these letters to be delivered to their email at a specified future date. It’s a delightful blend of reflection and aspiration, offering a unique perspective on personal growth, changes, and life’s unpredictable journey. Whether you're making resolutions or just preserving a moment in time, FutureMe is a fun and profound way to connect with your future self."
+  name: FutureMe
   url: https://www.futureme.org
-  description: "FutureMe is a captivating website that allows you to write letters to your future self. This ingenious platform invites users to pen down their thoughts, hopes, dreams, or current life situations and schedule these letters to be delivered to their email at a specified future date. It’s a delightful blend of reflection and aspiration, offering a unique perspective on personal growth, changes, and life’s unpredictable journey. Whether you're making resolutions or just preserving a moment in time, FutureMe is a fun and profound way to connect with your future self."
-
+- date: 2025-06-14
+  description: "Neave Interactive is a treasure trove of playful and creative web experiments crafted by digital artist Paul Neave. It offers a series of mini-web applications that range from retro games and interactive animations to mind-bending visualizations and stress-relieving soundboards. Each creation is a testament to Neave's flair for blending simple interactive concepts with visually captivating designs. With its array of nostalgic throwbacks and modern interactive art, Neave.com serves as a delightful digital playground for users of all ages seeking a quick burst of creativity or a nostalgic escape."
+  name: Neave Interactive
+  url: https://neave.com
