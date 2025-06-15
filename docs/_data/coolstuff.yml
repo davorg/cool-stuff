@@ -294,3 +294,7 @@
   description: "Neave Interactive is a treasure trove of playful and creative web experiments crafted by digital artist Paul Neave. It offers a series of mini-web applications that range from retro games and interactive animations to mind-bending visualizations and stress-relieving soundboards. Each creation is a testament to Neave's flair for blending simple interactive concepts with visually captivating designs. With its array of nostalgic throwbacks and modern interactive art, Neave.com serves as a delightful digital playground for users of all ages seeking a quick burst of creativity or a nostalgic escape."
   name: Neave Interactive
   url: https://neave.com
+- date: 2025-06-15
+  description: "Grid Garden is a captivating and educational game that makes learning CSS Grid fun and interactive. Created by Codepip, this site allows you to water your carrot garden by writing correct CSS code. It's perfect for those who want to strengthen their web design skills while enjoying a playful experience. The gradually increasing levels challenge users with real-world coding problems that make mastering CSS Grid an enjoyable and rewarding journey."
+  name: Grid Garden
+  url: https://codepip.com/games/grid-garden/
