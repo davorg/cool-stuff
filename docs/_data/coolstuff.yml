@@ -298,3 +298,7 @@
   description: "Grid Garden is a captivating and educational game that makes learning CSS Grid fun and interactive. Created by Codepip, this site allows you to water your carrot garden by writing correct CSS code. It's perfect for those who want to strengthen their web design skills while enjoying a playful experience. The gradually increasing levels challenge users with real-world coding problems that make mastering CSS Grid an enjoyable and rewarding journey."
   name: Grid Garden
   url: https://codepip.com/games/grid-garden/
+- date: 2025-06-16
+  description: "Eyes on Exoplanets is an interactive 3D visualization tool created by NASA that allows users to explore known exoplanets beyond our solar system. The website is cool because it provides a real-time, up-to-date visual catalog of exoplanets based on data from ground and space telescopes. It offers an engaging and informative way to learn about distant worlds, with the ability to zoom in and study the characteristics of various exoplanets and their stars. Whether you're an astronomy enthusiast or a curious explorer, Eyes on Exoplanets provides fascinating insight into the diversity of planets outside our solar system."
+  name: Eyes on Exoplanets
+  url: https://eyes.nasa.gov/apps/exo/
