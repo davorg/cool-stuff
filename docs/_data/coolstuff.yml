@@ -302,3 +302,7 @@
   description: "Eyes on Exoplanets is an interactive 3D visualization tool created by NASA that allows users to explore known exoplanets beyond our solar system. The website is cool because it provides a real-time, up-to-date visual catalog of exoplanets based on data from ground and space telescopes. It offers an engaging and informative way to learn about distant worlds, with the ability to zoom in and study the characteristics of various exoplanets and their stars. Whether you're an astronomy enthusiast or a curious explorer, Eyes on Exoplanets provides fascinating insight into the diversity of planets outside our solar system."
   name: Eyes on Exoplanets
   url: https://eyes.nasa.gov/apps/exo/
+- date: 2025-06-17
+  description: "Nostalgia Machine is a delightful website that allows you to relive the music hits of your youth or explore the sounds of different eras. Simply select a year, and the site will generate a playlist of popular songs from that time, ready to be enjoyed instantly on YouTube. This is a fun way to rediscover old favorites, introduce yourself to music history, or share a musical memory trip with friends. Whether you're hosting a themed party or just want to reminisce, Nostalgia Machine is a perfect portal to the past."
+  name: Nostalgia Machine
+  url: https://thenostalgiamachine.com/
