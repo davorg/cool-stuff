@@ -306,3 +306,7 @@
   description: "Nostalgia Machine is a delightful website that allows you to relive the music hits of your youth or explore the sounds of different eras. Simply select a year, and the site will generate a playlist of popular songs from that time, ready to be enjoyed instantly on YouTube. This is a fun way to rediscover old favorites, introduce yourself to music history, or share a musical memory trip with friends. Whether you're hosting a themed party or just want to reminisce, Nostalgia Machine is a perfect portal to the past."
   name: Nostalgia Machine
   url: https://thenostalgiamachine.com/
+- date: 2025-06-18
+  description: "Pointer Pointer is an amusing and unique website where it detects the location of your mouse pointer on the screen and displays an image of a person pointing to that exact spot. It's a simple yet delightful concept that never fails to amuse visitors with its clever image database and precise pointer targeting. Whether you're looking for a quick chuckle or simply a creative web experience, Pointer Pointer delivers with every refresh."
+  name: Pointer Pointer
+  url: https://pointerpointer.com/
