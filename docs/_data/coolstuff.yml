@@ -310,3 +310,7 @@
   description: "Pointer Pointer is an amusing and unique website where it detects the location of your mouse pointer on the screen and displays an image of a person pointing to that exact spot. It's a simple yet delightful concept that never fails to amuse visitors with its clever image database and precise pointer targeting. Whether you're looking for a quick chuckle or simply a creative web experience, Pointer Pointer delivers with every refresh."
   name: Pointer Pointer
   url: https://pointerpointer.com/
+- date: 2025-06-19
+  description: "Color Hunt is a cool and creative website that serves as a treasure trove for color palettes. It's a haven for designers, artists, and anyone interested in aesthetics, providing an endless array of beautiful color combinations curated by a global community. Whether you're looking for inspiration for a project or just love the joy of discovering new color harmonies, Color Hunt simplifies the search by allowing you to browse palettes by popularity, most recent entries, or specifically curated seasonal picks. Its clean and intuitive interface makes it easy to find the perfect palette to suit any mood or theme."
+  name: Color Hunt
+  url: https://colorhunt.co/
