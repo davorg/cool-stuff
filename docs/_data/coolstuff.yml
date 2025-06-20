@@ -314,3 +314,7 @@
   description: "Color Hunt is a cool and creative website that serves as a treasure trove for color palettes. It's a haven for designers, artists, and anyone interested in aesthetics, providing an endless array of beautiful color combinations curated by a global community. Whether you're looking for inspiration for a project or just love the joy of discovering new color harmonies, Color Hunt simplifies the search by allowing you to browse palettes by popularity, most recent entries, or specifically curated seasonal picks. Its clean and intuitive interface makes it easy to find the perfect palette to suit any mood or theme."
   name: Color Hunt
   url: https://colorhunt.co/
+- date: 2025-06-20
+  description: 'Photopea is a powerful web-based image editor that mirrors the functionality of popular desktop applications, like Adobe Photoshop, but within your browser. Perfect for quick edits or more complex design projects, it supports various file formats, including PSDs, making it an indispensable tool for both amateur photographers and seasoned graphic designers. Its seamless interface and remarkable capabilities make Photopea not just a utilitarian offering but also a fascinating example of how far web technology has come.'
+  name: Photopea
+  url: https://www.photopea.com
