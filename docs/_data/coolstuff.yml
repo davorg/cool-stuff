@@ -318,3 +318,7 @@
   description: 'Photopea is a powerful web-based image editor that mirrors the functionality of popular desktop applications, like Adobe Photoshop, but within your browser. Perfect for quick edits or more complex design projects, it supports various file formats, including PSDs, making it an indispensable tool for both amateur photographers and seasoned graphic designers. Its seamless interface and remarkable capabilities make Photopea not just a utilitarian offering but also a fascinating example of how far web technology has come.'
   name: Photopea
   url: https://www.photopea.com
+- date: 2025-06-21
+  description: "Travel the world through live radio broadcasts with Radio Garden. This interactive website allows users to listen to an incredible array of radio stations from nearly every country on the globe in real-time. Each station is represented by a glowing dot on a 3D map of the Earth, creating an immersive experience where you can discover new music and cultural perspectives with just a click. It's like a sonic passport to explore diverse sounds and stories from anywhere in the world, all from the comfort of your home."
+  name: Radio Garden
+  url: http://radio.garden/
