@@ -322,3 +322,7 @@
   description: "Travel the world through live radio broadcasts with Radio Garden. This interactive website allows users to listen to an incredible array of radio stations from nearly every country on the globe in real-time. Each station is represented by a glowing dot on a 3D map of the Earth, creating an immersive experience where you can discover new music and cultural perspectives with just a click. It's like a sonic passport to explore diverse sounds and stories from anywhere in the world, all from the comfort of your home."
   name: Radio Garden
   url: http://radio.garden/
+- date: 2025-06-23
+  description: "The Stars Chrome Experiment is an interactive 3D experience that lets you explore and learn about 100,000 stars in our galaxy. With a smooth, beautiful interface, you can zoom in and out to discover details about individual stars, dive into educational facts, and get a sense of the immense scale of our universe. It's a fantastic combination of space education and stunning visuals, making it both entertaining and enlightening."
+  name: Stars Chrome Experiment
+  url: https://stars.chromeexperiments.com/
