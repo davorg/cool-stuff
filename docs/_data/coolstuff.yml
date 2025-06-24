@@ -326,3 +326,7 @@
   description: "The Stars Chrome Experiment is an interactive 3D experience that lets you explore and learn about 100,000 stars in our galaxy. With a smooth, beautiful interface, you can zoom in and out to discover details about individual stars, dive into educational facts, and get a sense of the immense scale of our universe. It's a fantastic combination of space education and stunning visuals, making it both entertaining and enlightening."
   name: Stars Chrome Experiment
   url: https://stars.chromeexperiments.com/
+- date: 2025-06-24
+  description: "Spend Elon Musk's Money is an amusing simulation that lets you virtually spend the staggering wealth of Elon Musk—a whopping sum that most can only dream of. This interactive experience offers you a chance to purchase hundreds of different items, from everyday essentials to the most extravagant luxury goods and even fictional items, providing a fun perspective on just how vast such a fortune is. The playful interface and engaging concept offer a light-hearted yet thought-provoking exploration of wealth distribution and the scale of billionaire fortunes."
+  name: Spend Elon Musk's Money
+  url: https://spend.elonmuskmoney.com
