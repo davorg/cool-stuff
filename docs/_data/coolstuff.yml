@@ -342,3 +342,7 @@
   description: "Sketchfab is a fantastic platform that lets you explore, share, and experience 3D models interactively right from your browser. Artists and designers from around the world upload their creations, ranging from intricate character designs to detailed architectural visualizations. The 3D viewer is incredibly intuitive, allowing you to rotate, zoom, and dive into models for an up-close look at their details. It's an amazing resource for creatives, educators, and anyone interested in the digital 3D realm, offering an endless gallery of inspiration and innovation."
   name: Sketchfab
   url: https://sketchfab.com
+- date: 2025-06-29
+  description: "What3words is a unique addressing system that divides the world into 3m x 3m squares and assigns each one a three-word identifier. It's a fascinating way to think about location, especially for those interested in geography or looking for a new way to explore the world. Whether it's for travel, emergency services, or just fun, what3words provides a new perspective on how we navigate our environment, making it both creative and practical."
+  name: What3words
+  url: https://what3words.com/
