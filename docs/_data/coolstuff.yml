@@ -346,3 +346,7 @@
   description: "What3words is a unique addressing system that divides the world into 3m x 3m squares and assigns each one a three-word identifier. It's a fascinating way to think about location, especially for those interested in geography or looking for a new way to explore the world. Whether it's for travel, emergency services, or just fun, what3words provides a new perspective on how we navigate our environment, making it both creative and practical."
   name: What3words
   url: https://what3words.com/
+- date: 2025-06-30
+  description: "AutoDraw is an innovative drawing tool from Google that uses machine learning to guess and complete your doodles with more polished artistic suggestions. Whether you're an aspiring artist or someone who just loves doodling, this AI-driven platform intuitively transforms your rough sketches into refined illustrations. It's a great way to enhance your creativity with technology and have fun experimenting with art, regardless of your skill level."
+  name: AutoDraw
+  url: https://www.autodraw.com
