@@ -350,3 +350,7 @@
   description: "AutoDraw is an innovative drawing tool from Google that uses machine learning to guess and complete your doodles with more polished artistic suggestions. Whether you're an aspiring artist or someone who just loves doodling, this AI-driven platform intuitively transforms your rough sketches into refined illustrations. It's a great way to enhance your creativity with technology and have fun experimenting with art, regardless of your skill level."
   name: AutoDraw
   url: https://www.autodraw.com
+- date: 2025-07-01
+  description: "Muscle Wiki is a fantastic resource for those looking to enhance their fitness routines with clear, user-friendly guidance. The site provides comprehensive information on exercises for every muscle group, complete with animations and tips to ensure proper form and effectiveness. Beyond workouts, it's packed with insightful advice on nutrition and overall well-being, making it a one-stop-shop for anyone looking to improve their physical health. Whether you're a beginner or a seasoned gym-goer, Muscle Wiki's straightforward approach and informative content make it an invaluable tool in your fitness journey."
+  name: Muscle Wiki
+  url: https://musclewiki.com/
