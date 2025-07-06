@@ -366,3 +366,7 @@
   description: "The Exploratorium's Visual Music Project is an intriguing website that combines the wonder of music with mesmerizing visual art. Visitors can explore interactive artworks created by composers and artists that translate music into astonishing visual displays. This creative blend of sight and sound allows viewers to not only listen to beautifully composed tracks but also watch as the visuals react and evolve in real-time, offering a unique and immersive experience of artistic expression. It's a perfect blend of technology, art, and music, making it a captivating destination for anyone looking to be inspired by innovative storytelling."
   name: 'Exploratorium: Visual Music Project'
   url: https://www.exploratorium.edu/visualmusic
+- date: 2025-07-06
+  description: "World Wide Maze is a fascinating game that turns any webpage into a 3D maze you can navigate using your smartphone. This unique Google Chrome experiment creatively merges the digital web with interactive gameplay, offering a captivating experience as you roll a ball through the transformed webpage's structures. It's a delightful way to interact with familiar websites in a whole new dimension, showcasing the potential of combining technology and play."
+  name: World Wide Maze
+  url: https://chrome.com/maze
