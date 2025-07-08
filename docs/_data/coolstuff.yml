@@ -370,3 +370,7 @@
   description: "World Wide Maze is a fascinating game that turns any webpage into a 3D maze you can navigate using your smartphone. This unique Google Chrome experiment creatively merges the digital web with interactive gameplay, offering a captivating experience as you roll a ball through the transformed webpage's structures. It's a delightful way to interact with familiar websites in a whole new dimension, showcasing the potential of combining technology and play."
   name: World Wide Maze
   url: https://chrome.com/maze
+- date: 2025-07-08
+  description: 'Earth.fm is an immersive auditory experience that offers a library of natural soundscapes from around the world. Its mission is to bring the beauty of nature to listeners, fostering a sense of connection to the environment and promoting mindfulness. With sounds ranging from dense forests to serene beaches, Earth.fm is perfect for relaxation, meditation, or simply escaping the hustle of modern life. The website also emphasizes conservation and features articles about the recordings and their ecological contexts.'
+  name: Earth.fm
+  url: https://earth.fm
