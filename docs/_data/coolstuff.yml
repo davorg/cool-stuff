@@ -378,3 +378,7 @@
   description: "Artbreeder is a fascinating platform that enables users to create and explore unique, AI-generated art by blending attributes from different images. Through a simple and intuitive interface, you can modify faces, landscapes, and various artworks, producing endless creative possibilities. The website's collaborative approach allows users to share and evolve each other’s creations, making it a vibrant online community for anyone with an artistic flair or curiosity about AI-assisted creativity. It's a mesmerizing playground for artists and enthusiasts alike, offering both professional tools and playful exploration."
   name: Artbreeder
   url: https://www.artbreeder.com/
+- date: 2025-07-11
+  description: "City Guesser is a fun and immersive geography-based game where players are challenged to guess the location of a city from video clips. Unlike traditional photo-based guessing games, City Guesser offers a dynamic perspective with moving footage, providing clues through sights and sounds of bustling streets and scenic landscapes. It's a captivating way to experience and learn about different cities around the world, perfect for travel enthusiasts looking to test their global knowledge from the comfort of their own home."
+  name: City Guesser
+  url: https://virtualvacation.us/guess
