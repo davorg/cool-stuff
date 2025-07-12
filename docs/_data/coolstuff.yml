@@ -382,3 +382,7 @@
   description: "City Guesser is a fun and immersive geography-based game where players are challenged to guess the location of a city from video clips. Unlike traditional photo-based guessing games, City Guesser offers a dynamic perspective with moving footage, providing clues through sights and sounds of bustling streets and scenic landscapes. It's a captivating way to experience and learn about different cities around the world, perfect for travel enthusiasts looking to test their global knowledge from the comfort of their own home."
   name: City Guesser
   url: https://virtualvacation.us/guess
+- date: 2025-07-12
+  description: "Inspired by Jorge Luis Borges' story of the same name, The Library of Babel is a fascinating and mind-boggling digital universe that replicates a theoretical library containing every possible permutation of 3200-character pages. This means it holds every book that could ever be written. Users can explore this seemingly infinite library by searching for phrases, viewing random pages, or understanding the sheer scope and enormity of possible knowledge, randomness, and infinity. It is a contemplative journey into the limits of human understanding and the nature of information itself."
+  name: The Library of Babel
+  url: https://libraryofbabel.info
