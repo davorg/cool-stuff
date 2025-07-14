@@ -386,3 +386,7 @@
   description: "Inspired by Jorge Luis Borges' story of the same name, The Library of Babel is a fascinating and mind-boggling digital universe that replicates a theoretical library containing every possible permutation of 3200-character pages. This means it holds every book that could ever be written. Users can explore this seemingly infinite library by searching for phrases, viewing random pages, or understanding the sheer scope and enormity of possible knowledge, randomness, and infinity. It is a contemplative journey into the limits of human understanding and the nature of information itself."
   name: The Library of Babel
   url: https://libraryofbabel.info
+- date: 2025-07-14
+  description: "The Infinite Drum Machine is a fascinating experiment by Google that allows you to create beats using a unique set of thousands of everyday sounds. It uses machine learning to organize these sounds into a map where similar sounds are placed closer together, giving you endless possibilities to explore rhythms and texture. It's an exciting and interactive way to delve into the world of beat-making, even if you have no prior experience in music production."
+  name: The Infinite Drum Machine
+  url: https://experiments.withgoogle.com/ai/drum-machine
