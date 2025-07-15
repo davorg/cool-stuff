@@ -390,3 +390,7 @@
   description: "The Infinite Drum Machine is a fascinating experiment by Google that allows you to create beats using a unique set of thousands of everyday sounds. It uses machine learning to organize these sounds into a map where similar sounds are placed closer together, giving you endless possibilities to explore rhythms and texture. It's an exciting and interactive way to delve into the world of beat-making, even if you have no prior experience in music production."
   name: The Infinite Drum Machine
   url: https://experiments.withgoogle.com/ai/drum-machine
+- date: 2025-07-15
+  description: "Neal.fun is known for its simple yet fascinating interactive tools, and Life Stats is no exception. This engaging website provides an intriguing way to see various statistics about your life with just a few simple inputs—like how many times your heart has beaten or how many breaths you've taken since birth. It's a fun yet thought-provoking reminder of the incredible journey each of us is on, making it a perfect fit for those looking to explore the impact of time in an interactive format."
+  name: 'Neal.fun - Life Stats'
+  url: https://neal.fun/life-stats/
