@@ -398,3 +398,7 @@
   description: "DoodleChaos is a fascinating website dedicated to creative projects that meticulously synchronize music and visuals. Created by visual artist Mark Robbins, this site showcases a variety of delightful animations synced perfectly with classical pieces or popular music tracks. Whether it's a stick figure adventure choreographed to the sounds of Tchaikovsky or intricate custom-made animations set to modern tunes, DoodleChaos provides a mesmerizing blend of art and music that captivates viewers of all ages."
   name: DoodleChaos
   url: https://www.doodlechaos.com/
+- date: 2025-07-18
+  description: "Skribbl.io is a fun and engaging multiplayer drawing and guessing game that allows you to play with friends or random players online. Each player takes turns drawing a prompt while others try to guess what it is within a time limit. The simplicity and creativity involved in the sketches make it a delightful way to challenge your imagination and have fun with friends, whether you're an artistic maestro or a doodle amateur. It's a great mix of creativity, competition, and entertainment!"
+  name: Skribbl.io
+  url: https://skribbl.io/
