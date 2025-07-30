@@ -438,3 +438,7 @@
   description: "Music Map is an interactive website that visualizes the musical landscape by showing you artists that are similar to your favorite musicians. It's a great tool for discovering new music and artists, as it uses an easy-to-understand interface where you can simply type the name of any musician and see a cluster of related artists spread out in a web of names. The closer they are to your chosen artist, the more similar their music is reputed to be. It's like a journey through a galaxy of sound, making it both cool and immensely fun for music lovers."
   name: Music Map
   url: https://music-map.com
+- date: 2025-07-30
+  description: "Semantle is an intriguing word puzzle that takes a twist on traditional word games by challenging your knowledge of semantics rather than spelling. Every day, a new word is chosen, and your goal is to guess it using semantic similarity to find how close your guesses are. The closer semantically you get, the closer you are to finding the day's hidden word. It's a unique mental workout for lovers of language and word puzzles, making it a perfect blend of fun and learning."
+  name: Semantle
+  url: https://semantle.com
