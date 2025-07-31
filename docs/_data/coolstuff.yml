@@ -442,3 +442,7 @@
   description: "Semantle is an intriguing word puzzle that takes a twist on traditional word games by challenging your knowledge of semantics rather than spelling. Every day, a new word is chosen, and your goal is to guess it using semantic similarity to find how close your guesses are. The closer semantically you get, the closer you are to finding the day's hidden word. It's a unique mental workout for lovers of language and word puzzles, making it a perfect blend of fun and learning."
   name: Semantle
   url: https://semantle.com
+- date: 2025-07-31
+  description: "Radio Garden is an interactive platform that allows you to explore live radio stations from all around the world in a visually engaging way. By rotating the globe, users can tune into different frequencies and enjoy radio broadcasts from diverse cultures and communities. It's a unique way to experience the richness of global audio culture, making it an enjoyable and educational tool for global music discovery. With a seamless interface, Radio Garden brings the world closer by bridging geographical boundaries through sound."
+  name: Radio Garden
+  url: http://radio.garden
