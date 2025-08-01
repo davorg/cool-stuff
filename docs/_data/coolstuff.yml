@@ -446,3 +446,7 @@
   description: "Radio Garden is an interactive platform that allows you to explore live radio stations from all around the world in a visually engaging way. By rotating the globe, users can tune into different frequencies and enjoy radio broadcasts from diverse cultures and communities. It's a unique way to experience the richness of global audio culture, making it an enjoyable and educational tool for global music discovery. With a seamless interface, Radio Garden brings the world closer by bridging geographical boundaries through sound."
   name: Radio Garden
   url: http://radio.garden
+- date: 2025-08-01
+  description: "WindowSwap is a delightful portal to explore the world through someone else's eyes—literally. It allows users to 'open' a random window from anywhere across the globe, offering views from another person's home. This virtual travel experience is both soothing and captivating, letting you see the diverse landscapes, weather, and cityscapes as shared by others. It's a wonderful way to satisfy your wanderlust from the comfort of your home."
+  name: WindowSwap
+  url: https://window-swap.com/
