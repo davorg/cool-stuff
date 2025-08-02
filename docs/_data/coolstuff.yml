@@ -450,3 +450,7 @@
   description: "WindowSwap is a delightful portal to explore the world through someone else's eyes—literally. It allows users to 'open' a random window from anywhere across the globe, offering views from another person's home. This virtual travel experience is both soothing and captivating, letting you see the diverse landscapes, weather, and cityscapes as shared by others. It's a wonderful way to satisfy your wanderlust from the comfort of your home."
   name: WindowSwap
   url: https://window-swap.com/
+- date: 2025-08-02
+  description: 'The Dinosaur Database is a fascinating resource for anyone captivated by dinosaurs and prehistoric life. Featuring an extensive catalog of detailed information about various dinosaur species, the site allows users to explore these ancient creatures through visuals and facts. A standout feature is its interactive globe, which lets you view how Earth looked during different geological periods and where various dinosaurs roamed. This blend of education and fun makes it a captivating destination for both enthusiasts and casual browsers.'
+  name: The Dinosaur Database
+  url: https://dinosaurpictures.org
