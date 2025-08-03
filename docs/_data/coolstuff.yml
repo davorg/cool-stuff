@@ -454,3 +454,7 @@
   description: 'The Dinosaur Database is a fascinating resource for anyone captivated by dinosaurs and prehistoric life. Featuring an extensive catalog of detailed information about various dinosaur species, the site allows users to explore these ancient creatures through visuals and facts. A standout feature is its interactive globe, which lets you view how Earth looked during different geological periods and where various dinosaurs roamed. This blend of education and fun makes it a captivating destination for both enthusiasts and casual browsers.'
   name: The Dinosaur Database
   url: https://dinosaurpictures.org
+- date: 2025-08-03
+  description: 'Gnoosic is an intuitive music recommendation engine where users can input their favorite bands or artists, and the system generates personalized music suggestions based on these preferences. It’s like having your own digital music concierge, discovering new sounds tailored specifically to your tastes. For music lovers eager to find hidden gems and expand their playlists, Gnoosic provides a simple yet engaging way to explore the vast landscape of music.'
+  name: Gnoosic
+  url: https://www.gnoosic.com
