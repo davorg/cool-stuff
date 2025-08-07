@@ -470,3 +470,7 @@
   description: "Neave Interactive's Strobe Illusion is a wild visual trick that creates the sensation of hallucination without the need for substances. The website promises a simple, yet hypnotizing experience as it flashes patterns and colors on your screen, inducing a temporary visual distortion effect when you look away. It's a fascinating exploration of how our visual perception works, offering a brief escape from reality through just your browser. Be sure to read the instructions and warnings before trying it out!"
   name: 'Neave Interactive - Strobe Illusion'
   url: https://www.neave.com/strobe/
+- date: 2025-08-07
+  description: 'Zoomquilt is a mesmerizing, infinite zoom artwork that invites users on a never-ending journey through surreal and intricately detailed landscapes. Each layer of Zoomquilt was collaboratively created by different artists, resulting in a captivating blend of styles and ideas. As you zoom deeper and deeper into the image, new worlds continuously unfold, providing an immersive and almost meditative experience that never repeats itself. Perfect for moments when you want to lose yourself in a vortex of visual wonder!'
+  name: Zoomquilt
+  url: https://zoomquilt.org/
