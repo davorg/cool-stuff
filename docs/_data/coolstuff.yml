@@ -482,3 +482,7 @@
   description: "Staggering Beauty is a simple, whimsical experience that offers users a unique way to play with a digital creature. By moving your mouse or finger back and forth across the screen, you can control the movement of a wiggly worm-like creature, accompanied by a vivid visual and auditory extravaganza. It's a creative and fun way to get a quick dose of unexpected art and interactivity, perfect for a brief distraction or a bit of joy to brighten your day."
   name: Staggering Beauty
   url: http://www.staggeringbeauty.com
+- date: 2025-08-10
+  description: "Marmoset Viewer is an intuitive platform that allows users to display and interact with high-quality 3D models directly in their web browser. It stands out because it doesn't require any plugins or additional software to work—just click and explore. Whether you're a digital artist wanting to showcase your work, or a hobbyist fascinated by 3D design, Marmoset Viewer provides a seamless and immersive experience, making it a standout tool for creative professionals."
+  name: Marmoset Viewer
+  url: https://marmoset.co/viewer
