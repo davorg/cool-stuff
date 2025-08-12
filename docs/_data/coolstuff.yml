@@ -490,3 +490,7 @@
   description: 'This Person Does Not Exist provides an intriguing and somewhat mind-bending experience by using AI to generate realistic human faces that are entirely non-existent. Each time you reload the page, it presents a computer-generated image of a person who has never been born. The site underscores the advances in AI technology while highlighting discussions about the future of digital media, identity, and the potential implications of AI-generated content in society.'
   name: This Person Does Not Exist
   url: https://thispersondoesnotexist.com
+- date: 2025-08-12
+  description: "Barcode Art is a fascinating online project that transforms everyday barcodes into unique pieces of art. By entering a sequence of numbers, users can generate visually captivating representations of traditional barcodes. This creative twist on a common item is both fun and surprising, offering a way to explore the art hidden within the mundane. It's a must-visit for anyone interested in design, art, or the hidden intricacies of the digital world."
+  name: 'Barcode Art: Mathematica'
+  url: https://barcodeart.mathematica.de/
