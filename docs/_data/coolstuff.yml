@@ -498,3 +498,7 @@
   description: "Wordle is a daily word puzzle game that has taken the internet by storm with its simple yet addictive format. Each day, players have six chances to guess a five-letter word, with feedback provided after each guess indicating which letters are correct and in the right place, correct but in the wrong place, or not in the word at all. Its straightforward gameplay, combined with the daily challenge of finding the mystery word, keeps players returning for more, making it an ideal blend of fun, challenge, and satisfaction that captures the spirit of 'Cool Stuff'."
   name: Wordle
   url: https://www.nytimes.com/games/wordle/index.html
+- date: 2025-08-14
+  description: "H8mail is a unique and creative website dedicated to delivering humorous, personalized hate mail. You can anonymously send fun, light-hearted 'hate mail' to friends and loved ones as a joke. The website promises a humorous twist with each message, ensuring no real malice is delivered, only laughter and smiles. It's a playful way to inject some humor into your daily interactions."
+  name: H8mail
+  url: https://h8mail.com
