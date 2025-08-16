@@ -506,3 +506,7 @@
   description: "Astral Map is a fascinating online tool that allows users to explore star charts and celestial events. With its interactive interface, it offers a captivating way to navigate the stars, learning about constellations and planets in real-time. It's an excellent resource for both amateur astronomers and those simply looking for a unique visual journey through the night sky, combining educational insights with immersive graphics. The website keeps stargazing fun and accessible, bringing the wonders of the universe directly to your screen."
   name: Astral Map
   url: https://astralmap.com
+- date: 2025-08-16
+  description: "Music Lab by Chrome Experiments is a fantastic platform that offers a collection of interactive, educational music experiences that are both fun and enlightening. Whether you're a seasoned musician or someone who's never picked up an instrument, Music Lab provides easy-to-use tools and engaging visuals to help you explore the science and art of music creation. From simple experiments like 'Rhythm' and 'Melody Maker' to more complex ones like 'Song Maker', the site allows users to experiment with music theory concepts in a hands-on way, making it a wonderful resource for both learning and entertainment."
+  name: Music Lab by Chrome Experiments
+  url: https://musiclab.chromeexperiments.com/
