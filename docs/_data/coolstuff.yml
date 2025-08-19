@@ -518,3 +518,7 @@
   description: "MapCrunch is an adventurous browser tool that delivers a virtual spin on global travel. With just one click, users can teleport to a random location across the globe through Google Street View. Whether you're stuck at home or looking to explore unique or off-the-beaten-path destinations, MapCrunch serves as a delightful platform to satiate your wanderlust and discover new places. It’s the perfect way to escape for a quick mental vacation or get creatively inspired by the myriad of cultures and landscapes around the world."
   name: MapCrunch
   url: https://www.mapcrunch.com/
+- date: 2025-08-19
+  description: "Window-Swap offers a unique opportunity to travel the world virtually by swapping windows. Users can submit a video of their view, and in return, they can experience vistas from homes across the globe. It's both a creative and a voyeuristic exploration, offering a glimpse into different cultures, climates, and landscapes from the comfort of your screen. Explore a new perspective every time you visit, making it a fascinating source of inspiration and a brief escape from routine."
+  name: Window-Swap
+  url: https://www.window-swap.com
