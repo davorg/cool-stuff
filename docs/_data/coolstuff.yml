@@ -522,3 +522,7 @@
   description: "Window-Swap offers a unique opportunity to travel the world virtually by swapping windows. Users can submit a video of their view, and in return, they can experience vistas from homes across the globe. It's both a creative and a voyeuristic exploration, offering a glimpse into different cultures, climates, and landscapes from the comfort of your screen. Explore a new perspective every time you visit, making it a fascinating source of inspiration and a brief escape from routine."
   name: Window-Swap
   url: https://www.window-swap.com
+- date: 2025-08-20
+  description: 'ShadyURL is a cheeky and fun website that lets you convert any ordinary URL into a suspicious and ominous-looking link. Ideal for pranks and adding a bit of comic relief to your daily internet interactions, it transforms links into something that looks exaggeratedly untrustworthy. It’s a great way to have some harmless fun with friends while still directing them to safe, normal websites.'
+  name: ShadyURL
+  url: http://shadyurl.com
