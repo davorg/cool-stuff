@@ -526,3 +526,7 @@
   description: 'ShadyURL is a cheeky and fun website that lets you convert any ordinary URL into a suspicious and ominous-looking link. Ideal for pranks and adding a bit of comic relief to your daily internet interactions, it transforms links into something that looks exaggeratedly untrustworthy. It’s a great way to have some harmless fun with friends while still directing them to safe, normal websites.'
   name: ShadyURL
   url: http://shadyurl.com
+- date: 2025-08-21
+  description: "The Internet K-Hole is a fascinating digital archive, showcasing a vast collection of user-submitted photographs from bygone eras, mostly focusing on candid, everyday moments from the 70s to 90s. The raw, unfiltered quality of these images offers a nostalgic glimpse into the past, serving as a visual time capsule that captures the essence of lived experiences across different decades. It's a treasure trove for those who appreciate history, photography, and the sometimes surreal beauty of nostalgia."
+  name: The Internet K-Hole
+  url: http://theinternetkhole.com/
