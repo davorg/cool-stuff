@@ -534,3 +534,7 @@
   description: "The Museum of Endangered Sounds is a unique digital repository that nostalgically preserves the sounds from various vintage devices and software, from the whirl of a dial-up modem to the classic startup tune of Windows 95. It's an incredibly cool and creative website for those who appreciate both the history of technology and the sensory experience of sound, allowing users to revisit and interact with audio memories that are rapidly disappearing in our modern digital age."
   name: Museum of Endangered Sounds
   url: http://savethesounds.info
+- date: 2025-08-23
+  description: "The Infinite Jukebox is a mesmerizing tool that allows you to remix your favorite songs on the fly by creating endless and seamless variations. Simply upload a song, and the Infinite Jukebox analyzes its beats and patterns to generate an infinite loop, connecting similar sounds together. This creates a fascinating, continually evolving version of familiar tracks, giving music lovers a novel way to experience their favorite tunes. It's an innovative blend of technology and music creativity that's sure to captivate anyone exploring new auditory landscapes."
+  name: The Infinite Jukebox
+  url: http://labs.echonest.com/Uploader/index.html
