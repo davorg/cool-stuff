@@ -542,3 +542,7 @@
   description: "Ncase's Parable of the Polygons is an interactive simulation that demonstrates how small biases can lead to significant segregation. Based on Schelling's segregation model, this site allows you to experiment with different preferences among geometric shapes, illustrating the impact of individual choices on a community. Its playful design, coupled with a powerful social message, makes it both an engaging and insightful experience, showcasing the importance of diversity and inclusion."
   name: Ncase's Parable of the Polygons
   url: https://ncase.me/polygons/
+- date: 2025-08-26
+  description: "Zen Photon Garden is a captivating and meditative physics simulation that lets you draw and watch as light flows around the scene, reflecting and refracting along the surfaces of shapes you create. It's akin to creating your own animated art using light as paint and physics as your brush, offering a truly relaxed experience that's perfect for a moment of creative escape. Its blend of simplicity and beauty makes it a standout amongst online art tools."
+  name: Zen Photon Garden
+  url: http://growingwiththeweb.com/2014/03/zen-photon-garden.html
