@@ -554,3 +554,7 @@
   description: "Muzli Colors is a vibrant and dynamic platform that serves as a fantastic tool for designers and color enthusiasts alike. It offers a unique way to discover and generate color palettes, leveraging an intuitive interface that enables you to explore a wide range of hues, shades, and combinations. Whether you're working on a design project or just love playing with colors, Muzli Colors provides endless inspiration and is an excellent resource to keep your creative juices flowing. Its sleek design and easy-to-use features make it a standout among color palette websites."
   name: Muzli Colors
   url: https://colors.muz.li/
+- date: 2025-08-29
+  description: "10Print is a mesmerizing and addictive web-based artwork that emulates the sensation of viewing a vintage screensaver, combining randomness with a retro style. Inspired by the famous one-liner Commodore 64 BASIC code, the site continuously generates unique mazes using diagonal slashes. It's captivating to watch the patterns evolve, offering a delightful and nostalgic escape from the ordinary. The ease of engaging with the code also encourages users to learn more about computer graphics and programming concepts."
+  name: 10Print
+  url: https://10print.net
