@@ -562,3 +562,7 @@
   description: "The Sound of Colleagues is a delightful web tool that simulates the background noise of an office environment. As remote work becomes increasingly prevalent, many people find themselves missing the ambient sounds of a bustling workplace. This website allows users to customize the background noise with options like office hum, copier sound, coffee machine, and more, creating an authentic office soundscape that enhances concentration or simply brings a sense of nostalgia. It's especially cool for those missing the camaraderie and atmosphere of a shared work environment."
   name: The Sound of Colleagues
   url: https://soundofcolleagues.com
+- date: 2025-09-01
+  description: "Muzei Live Wallpaper is an innovative platform transforming your device’s background into a live gallery of famous artworks or your personal photos. Each day, a new piece of classic art is displayed, subtly giving you information about the artwork and artist without overwhelming your home screen. It's perfect for art lovers who want a constantly refreshing and culturally enriching wallpaper experience, or those who just want to keep their screen fresh and interesting."
+  name: Muzei Live Wallpaper
+  url: http://muzei.co
