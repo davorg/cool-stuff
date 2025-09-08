@@ -578,3 +578,7 @@
   description: "Bouncing Balls is a simple yet mesmerizing online game that offers a nostalgic trip back to arcade-style gaming. The objective is clear-cut: aim and shoot the balls to eliminate them by forming groups of three or more of the same color. As you play, the balls gradually descend downwards, adding pressure and pace, challenging your reflexes and strategy. It's a perfect mix of old-school gaming charm and stress-relieving entertainment that can captivate players of all ages. This straightforward yet addictive gameplay makes it a delightful break from the digital noise."
   name: Bouncing Balls
   url: https://bouncingballs.org/
+- date: 2025-09-08
+  description: "GIPHY is the internet's go-to destination for searching, creating, and sharing animated GIFs. Whether you're looking to express your emotions with a dynamic reaction image, need a quick laugh from some of the funniest animations, or want to explore the endless creativity of people generating GIFs, GIPHY has it all. It's constantly updated with trending clips, making it a fun and ever-evolving website to explore and share delightful and quirky content with your friends."
+  name: GIPHY
+  url: https://giphy.com/
