@@ -582,3 +582,7 @@
   description: "GIPHY is the internet's go-to destination for searching, creating, and sharing animated GIFs. Whether you're looking to express your emotions with a dynamic reaction image, need a quick laugh from some of the funniest animations, or want to explore the endless creativity of people generating GIFs, GIPHY has it all. It's constantly updated with trending clips, making it a fun and ever-evolving website to explore and share delightful and quirky content with your friends."
   name: GIPHY
   url: https://giphy.com/
+- date: 2025-09-09
+  description: "Rec Room is a dynamic social VR platform that allows users to create and explore digital spaces where creativity knows no bounds. It's cool because it combines user-generated content with social interaction, enabling players to engage in diverse activities like games, adventures, and hangouts, all while interacting with others from around the world. Whether you want to build, explore, or just socialize, Rec Room offers an immersive experience that's both fun and endlessly creative."
+  name: Rec Room
+  url: https://recroom.com
