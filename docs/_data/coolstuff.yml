@@ -586,3 +586,7 @@
   description: "Rec Room is a dynamic social VR platform that allows users to create and explore digital spaces where creativity knows no bounds. It's cool because it combines user-generated content with social interaction, enabling players to engage in diverse activities like games, adventures, and hangouts, all while interacting with others from around the world. Whether you want to build, explore, or just socialize, Rec Room offers an immersive experience that's both fun and endlessly creative."
   name: Rec Room
   url: https://recroom.com
+- date: 2025-09-10
+  description: 'InfoMapper is a brilliantly designed platform offering a treasure trove of dynamic, interactive maps and visualizations that span fascinating subjects—from population growth and environmental data to historic events and world economies. By transforming complex data into easily digestible visual content, InfoMapper provides both informative and visually striking experiences. Users can explore and interact with the data, uncovering insights in an engaging and intuitive way, making it a fantastic tool for both students and data enthusiasts.'
+  name: InfoMapper
+  url: https://www.infomapper.io
