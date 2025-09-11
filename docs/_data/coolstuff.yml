@@ -590,3 +590,7 @@
   description: 'InfoMapper is a brilliantly designed platform offering a treasure trove of dynamic, interactive maps and visualizations that span fascinating subjects—from population growth and environmental data to historic events and world economies. By transforming complex data into easily digestible visual content, InfoMapper provides both informative and visually striking experiences. Users can explore and interact with the data, uncovering insights in an engaging and intuitive way, making it a fantastic tool for both students and data enthusiasts.'
   name: InfoMapper
   url: https://www.infomapper.io
+- date: 2025-09-11
+  description: "Engare is a captivating game that blends mathematical patterns with artistic ingenuity. On this interactive website, you can engage in a series of challenges where you create patterns as solutions to various puzzles. It's an intriguing way to delve into geometric beauty and enjoy an aesthetically pleasing gaming experience. The site beautifully merges logic with creativity, offering both relaxing gameplay and a satisfying mental workout."
+  name: Engare
+  url: https://engare.design/
