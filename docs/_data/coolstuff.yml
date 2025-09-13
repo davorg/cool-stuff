@@ -594,3 +594,7 @@
   description: "Engare is a captivating game that blends mathematical patterns with artistic ingenuity. On this interactive website, you can engage in a series of challenges where you create patterns as solutions to various puzzles. It's an intriguing way to delve into geometric beauty and enjoy an aesthetically pleasing gaming experience. The site beautifully merges logic with creativity, offering both relaxing gameplay and a satisfying mental workout."
   name: Engare
   url: https://engare.design/
+- date: 2025-09-13
+  description: 'Have I Been Pwned is a highly useful and eye-opening website that allows you to check if your personal accounts have been compromised in data breaches. By simply entering your email address, you can quickly find out whether your information has been involved in any known security incidents. This site helps to raise awareness about online privacy and security, making it an indispensable tool for protecting your digital life. Its straightforward functionality and public service nature make it a valuable resource for anyone concerned about digital security.'
+  name: Have I Been Pwned
+  url: https://haveibeenpwned.com/
