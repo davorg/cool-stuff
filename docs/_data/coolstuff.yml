@@ -598,3 +598,7 @@
   description: 'Have I Been Pwned is a highly useful and eye-opening website that allows you to check if your personal accounts have been compromised in data breaches. By simply entering your email address, you can quickly find out whether your information has been involved in any known security incidents. This site helps to raise awareness about online privacy and security, making it an indispensable tool for protecting your digital life. Its straightforward functionality and public service nature make it a valuable resource for anyone concerned about digital security.'
   name: Have I Been Pwned
   url: https://haveibeenpwned.com/
+- date: 2025-09-14
+  description: "Brush Ninja is a simple and intuitive online tool that allows users to create animated gifs and share them with the world. It's designed for anyone who wants to dip their toes into the world of animation without downloading complicated software. With its straightforward interface, you can draw frame by frame and see your animations come to life instantly. Whether you're a budding artist or just looking to have some fun with friends, Brush Ninja offers an accessible and engaging way to unleash your creativity."
+  name: brush ninja
+  url: https://brush.ninja
