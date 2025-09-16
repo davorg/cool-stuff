@@ -606,3 +606,7 @@
   description: "Scott's Vis Monkeys is a whimsical digital creation that fuses art and interactivity. This site features a collection of charming and playful illustrated monkeys that react to user interaction, providing a delightful and humorous experience. The monkeys are drawn in a unique style that showcases the artist's creativity, and each one is designed to make you smile. It's a perfect blend of creative expression and digital interactivity that can provide a little moment of joy in your day."
   name: Scott's Vis Monkeys
   url: https://www.scottsvismonkeys.com
+- date: 2025-09-16
+  description: "Just A Line is an imaginative and interactive AR experiment developed by Google Creative Lab, allowing you to draw in the air with your smartphone and create simple doodles in a shared AR space. The app provides a fun way to explore augmented reality, encouraging users to express their creativity by drawing lines in a 3D environment, which can be shared with friends or combined with videos of their creation process. It's a unique blend of art and technology, making it a compelling addition for anyone looking to explore the possibilities of AR in a playful and intuitive manner."
+  name: Just A Line
+  url: https://justaline.withgoogle.com/
