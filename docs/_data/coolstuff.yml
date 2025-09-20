@@ -618,3 +618,7 @@
   description: "Stuff in.Space is an incredible real-time 3D visualization of objects orbiting Earth. This interactive map displays satellites, space debris, and other objects currently circling our planet, providing a fascinating glimpse into the sheer number of man-made entities populating Earth's outer frontier. Users can explore and learn about specific objects, making it a superb blend of educational wonder and visual intrigue."
   name: Stuff in.Space
   url: http://stuffin.space/
+- date: 2025-09-20
+  description: 'Chromantics is a visually captivating online experience that allows you to create interactive music by blending colors and sound. With its intuitive interface, you can paint with colors that are linked to different musical tones, resulting in a unique symphony of your own creation. This creative platform provides both a relaxing and engaging way to explore the intersection of art and music, making it a fantastic choice for anyone looking to unleash their creativity in an innovative format.'
+  name: Chromantics
+  url: https://chromantics.io/
