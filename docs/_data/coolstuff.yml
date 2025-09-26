@@ -634,3 +634,7 @@
   description: "The Nostalgia Machine is an engaging website that allows you to relive the music of your childhood or explore the tunes from different decades. Simply choose a year from the past, and the site will generate a playlist of popular hits from that time. It's a fun and immersive way to take a trip down memory lane or discover songs from before your time!"
   name: The Nostalgia Machine
   url: https://thenostalgiamachine.com
+- date: 2025-09-26
+  description: "Pangaea, also known as 'Pangaeapanga', is an intriguing website that offers a fascinating blend of geography and creativity, allowing users to visualize and create alternative versions of our world's continents. This site invites you to experiment with the shapes and configurations of continental landmasses, fostering a fun yet educational exploration of what our planet might look like if Earth's tectonic plates aligned differently. Whether you're a geography enthusiast, an artist, or just curious, Pangaea offers a unique and engaging way to reimagine the Earth's surface."
+  name: Pangaea
+  url: https://pangaeapangaea.com/
