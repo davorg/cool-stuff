@@ -646,3 +646,7 @@
   description: "Pottermore is an enchanting digital destination for Harry Potter fans, offering a magical way to explore the wizarding world. Users can immerse themselves in interactive experiences by taking a house sorting quiz, discovering their patronus, and delving into new stories and secrets penned by J.K. Rowling herself. The site also provides a robust collection of features and quizzes related to Harry Potter lore, making it a must-visit for anyone who has ever wanted to step into the shoes of a Hogwarts student. It's like having your own personal entryway into the magic of the Harry Potter universe."
   name: Pottermore
   url: https://www.pottermore.com
+- date: 2025-10-01
+  description: "The Oatmeal is a delightful webcomic and humor site that offers a whirlwind of laughter with its witty comics, quirky quizzes, and insightful articles. The site is the brainchild of artist Matthew Inman, and it covers a diverse range of topics from grammar and cats to tech and health, all rendered in Inman's unique style. Fans of light-hearted, humorous, and often educational content will find The Oatmeal an endearing online haven that's both entertaining and thought-provoking."
+  name: The Oatmeal
+  url: https://theoatmeal.com/
