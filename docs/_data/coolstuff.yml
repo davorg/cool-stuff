@@ -658,3 +658,7 @@
   description: "Gravity Points is a mesmerizing interactive experience that lets you play with the physics of gravity and particles. By clicking on the screen, you can create gravity points that attract particles around them, creating stunning visual patterns. It's a simple yet fascinating way to visualize and experiment with gravitational forces in a digital playground. This site captures the imagination with its blend of simplicity and complexity, making it a fun and unique experience for users of all ages."
   name: Gravity Points
   url: http://codepen.io/akm2/full/rHIsa
+- date: 2025-10-06
+  description: 'Nonogram Puzzle, also known as Paint by Numbers or Griddlers, offers an engaging and mind-bending puzzle experience. This site challenges players to uncover hidden images using numbers provided on the puzzle grid. The puzzles vary in difficulty, ensuring that both beginners and seasoned solvers will find something just right. The clean, intuitive interface makes it easy to dive into the captivating world of visual logic puzzles, making it a perfect feature for those seeking mental stimulation combined with creative satisfaction.'
+  name: Nonogram Puzzle
+  url: https://www.puzzlemix.com/nonogram
