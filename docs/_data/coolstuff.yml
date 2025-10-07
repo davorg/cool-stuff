@@ -662,3 +662,7 @@
   description: 'Nonogram Puzzle, also known as Paint by Numbers or Griddlers, offers an engaging and mind-bending puzzle experience. This site challenges players to uncover hidden images using numbers provided on the puzzle grid. The puzzles vary in difficulty, ensuring that both beginners and seasoned solvers will find something just right. The clean, intuitive interface makes it easy to dive into the captivating world of visual logic puzzles, making it a perfect feature for those seeking mental stimulation combined with creative satisfaction.'
   name: Nonogram Puzzle
   url: https://www.puzzlemix.com/nonogram
+- date: 2025-10-07
+  description: 'Weird Box is a quirky and entertaining website that creates a personalized, surreal short film using your Instagram photos. It cleverly intersperses these images into the narrative of a bizarre storyline where a box delivery changes your reality, making you part of the unfolding tale. The integration of personal content with an unusual plot makes this an engaging experience, turning your photos into a peculiar, unexpected movie that invites you to view them in an entirely different light.'
+  name: Weird Box
+  url: http://www.weirdbox.tv/
