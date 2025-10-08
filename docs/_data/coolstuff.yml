@@ -666,3 +666,7 @@
   description: 'Weird Box is a quirky and entertaining website that creates a personalized, surreal short film using your Instagram photos. It cleverly intersperses these images into the narrative of a bizarre storyline where a box delivery changes your reality, making you part of the unfolding tale. The integration of personal content with an unusual plot makes this an engaging experience, turning your photos into a peculiar, unexpected movie that invites you to view them in an entirely different light.'
   name: Weird Box
   url: http://www.weirdbox.tv/
+- date: 2025-10-08
+  description: "Chromesthesia Experiment is an interactive website that lets users visualize different sounds as colors and patterns, simulating the experience of synesthesia where certain auditory stimuli are involuntarily associated with colors. Visitors can explore how different tones and notes translate into vibrant visual displays, making it a fascinating exploration of the crossroads between sound and visual art. It's a truly unique way to 'see' music and makes for an engaging and mesmerizing experience."
+  name: Chromesthesia Experiment
+  url: https://chromesthesia.xyz
