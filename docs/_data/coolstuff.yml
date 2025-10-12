@@ -674,3 +674,7 @@
   description: 'Mini Motorways is an engaging city-planning and roadmanagement game where players are challenged to design a bustling metropolis and keep traffic flowing smoothly. The game is visually stunning and offers an intriguing puzzle-like experience as you draw roads between growing cities and colorful houses. Adaptive gameplay and ever-increasing complexity make it a captivating mental challenge, keeping you entertained while subtly teaching strategic planning and optimization skills.'
   name: Dinosaur Polo Club's 'Mini Motorways'
   url: https://dinopoloclub.com/games/mini-motorways/
+- date: 2025-10-12
+  description: "The Paper Calculator is an eye-opening tool for anyone interested in understanding the environmental impact of their paper consumption. By allowing users to input data regarding paper usage, this website calculates the ecological savings associated with using recycled paper versus new paper. It's a fascinating way to visualize how individual and corporate choices in paper consumption can significantly affect resource conservation and environmental preservation. Whether for personal curiosity or corporate responsibility, the Paper Calculator provides valuable insights into sustainability."
+  name: The Paper Calculator
+  url: https://c.environmentalpaper.org/
