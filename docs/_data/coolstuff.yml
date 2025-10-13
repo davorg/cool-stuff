@@ -678,3 +678,7 @@
   description: "The Paper Calculator is an eye-opening tool for anyone interested in understanding the environmental impact of their paper consumption. By allowing users to input data regarding paper usage, this website calculates the ecological savings associated with using recycled paper versus new paper. It's a fascinating way to visualize how individual and corporate choices in paper consumption can significantly affect resource conservation and environmental preservation. Whether for personal curiosity or corporate responsibility, the Paper Calculator provides valuable insights into sustainability."
   name: The Paper Calculator
   url: https://c.environmentalpaper.org/
+- date: 2025-10-13
+  description: 'Smallpdf is an incredibly versatile online platform designed for simplifying PDF tasks while maintaining ease of use. Whether you need to compress, merge, split, convert, or edit PDFs, Smallpdf offers a suite of tools that cater to every need, all accessible from your browser without requiring downloads or installations. Not only is it rich in features, but its sleek and intuitive interface makes managing and transforming documents enjoyable, providing users a seamless experience for personal and professional use.'
+  name: Smallpdf
+  url: https://www.smallpdf.com
