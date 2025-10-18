@@ -690,3 +690,7 @@
   description: 'FlightStream is an impressive and visually captivating website that provides real-time visualizations of global air traffic. It offers an engaging experience for aviation enthusiasts and curious minds alike by allowing users to explore live flight data across the world. With its intuitive interface, users can view flight paths, track individual aircraft, and gather information about flights and airports. FlightStream presents a mesmerizing look at the bustling activity in the skies, making it a fascinating site to feature for those interested in aviation and real-time data visualization.'
   name: FlightStream
   url: https://flightstream.io
+- date: 2025-10-18
+  description: 'Sporcle is an addictive and fun website that offers thousands of quiz games on a multitude of subjects. From geography and music to entertainment and science, it challenges users with trivia, puzzles, and brain-teasers that test knowledge and speed. With its interactive nature and the ability to create and share your own quizzes, Sporcle is an engaging and perfect way to learn and have fun simultaneously, making it a fantastic cultural and educational resource.'
+  name: Sporcle
+  url: https://www.sporcle.com
