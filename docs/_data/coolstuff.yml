@@ -694,3 +694,7 @@
   description: 'Sporcle is an addictive and fun website that offers thousands of quiz games on a multitude of subjects. From geography and music to entertainment and science, it challenges users with trivia, puzzles, and brain-teasers that test knowledge and speed. With its interactive nature and the ability to create and share your own quizzes, Sporcle is an engaging and perfect way to learn and have fun simultaneously, making it a fantastic cultural and educational resource.'
   name: Sporcle
   url: https://www.sporcle.com
+- date: 2025-10-19
+  description: "Drench is an addictive and colorful puzzle game that challenges you to flood your board with a single color in a limited number of moves. It's perfect for those who enjoy strategy and logic games. With its simple design and ever-increasing difficulty levels, Drench offers a satisfying mental workout, making it a delightful way to pass the time and stimulate your brain."
+  name: Drench
+  url: https://drench.app/
