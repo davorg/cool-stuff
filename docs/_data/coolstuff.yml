@@ -706,3 +706,7 @@
   description: "The Next Rembrandt is a fascinating project that combines art, technology, and historical research. Using extensive data analysis on Rembrandt's body of work, this project created a new 'Rembrandt' painting entirely through artificial intelligence. With its ability to blend cutting-edge tech with classical art, this site showcases the potential of AI in creative fields, providing a unique experience for art enthusiasts and technology fans alike."
   name: Next Rembrandt
   url: https://www.nextrembrandt.com/
+- date: 2025-10-28
+  description: "Liquifly is a mesmerizing and interactive website that lets you create vibrant, fluid art with just a few clicks. Using technology and unique algorithms, users can manipulate colors and gradients to create dynamic visuals that flow and morph as if they were liquid. The realtime simulation provides a seamless, engaging experience, allowing for endless experimentation and creativity. Whether you're an art enthusiast or just looking to unwind, Liquifly offers a beautiful escape into a world of color and motion."
+  name: Liquifly
+  url: https://liquifly.io
