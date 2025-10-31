@@ -710,3 +710,7 @@
   description: "Liquifly is a mesmerizing and interactive website that lets you create vibrant, fluid art with just a few clicks. Using technology and unique algorithms, users can manipulate colors and gradients to create dynamic visuals that flow and morph as if they were liquid. The realtime simulation provides a seamless, engaging experience, allowing for endless experimentation and creativity. Whether you're an art enthusiast or just looking to unwind, Liquifly offers a beautiful escape into a world of color and motion."
   name: Liquifly
   url: https://liquifly.io
+- date: 2025-10-31
+  description: "Cleverbot is an AI chatbot where you can have conversations with an artificial intelligence that learns and evolves based on human input. It's incredibly fun because the AI responds in unique and often surprising ways, making interactions feel engaging and even humorous at times. Perfect for those looking to kill time with a virtual conversation buddy, or test the limits of a machine's conversational abilities. Its simple interface and easy access make Cleverbot a continually popular choice among those curious about AI chat technologies."
+  name: Cleverbot
+  url: https://www.cleverbot.com/
