@@ -726,3 +726,7 @@
   description: "InfoPlease is a remarkable all-in-one educational resource that's perfect for anyone looking to expand their knowledge. It combines an encyclopedia, dictionary, thesaurus, atlas, and several other useful resources into a single platform. What sets InfoPlease apart is its ease of use and comprehensive collection of information on an almost limitless array of subjects. From current events to historical data and quirky facts, InfoPlease is the perfect place to satisfy any curiosity—it's like having a reliable librarian at your fingertips 24/7!"
   name: InfoPlease
   url: https://www.infoplease.com/
+- date: 2025-11-04
+  description: "Mental Floss is an intriguing platform offering a mix of stories, trivia, and insights that cater to inquisitive minds. With a wide range of topics including history, science, culture, and obscure facts, Mental Floss keeps curiosity alive with its engaging articles and fun listicles. Perfect for those looking to learn something new every day, it's an ideal stop for that 'aha' moment or to find conversation starters that entertain and educate at the same time."
+  name: Mental Floss
+  url: https://www.mentalfloss.com
