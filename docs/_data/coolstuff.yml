@@ -730,3 +730,7 @@
   description: "Mental Floss is an intriguing platform offering a mix of stories, trivia, and insights that cater to inquisitive minds. With a wide range of topics including history, science, culture, and obscure facts, Mental Floss keeps curiosity alive with its engaging articles and fun listicles. Perfect for those looking to learn something new every day, it's an ideal stop for that 'aha' moment or to find conversation starters that entertain and educate at the same time."
   name: Mental Floss
   url: https://www.mentalfloss.com
+- date: 2025-11-07
+  description: 'CircletheCat is a simple yet addictive Flash puzzle game that challenges players to strategically place circles on a grid to trap a cartoon cat before it escapes. The cute graphics and straightforward gameplay make it a fun brain teaser for all ages, perfect for those looking to entertain themselves with a delightful yet challenging digital pastime. Its enduring popularity is a testament to how engaging a game can be with just a few simple, cleverly executed mechanics.'
+  name: CircletheCat
+  url: http://www.kongregate.com/games/Gez/Circle-the-Cat
