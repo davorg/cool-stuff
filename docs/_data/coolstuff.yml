@@ -746,3 +746,7 @@
   description: "Outline is a nifty site that allows you to generate a clean, distraction-free version of almost any article available on the web. It's a boon for readers who want to skip the clutter of ads and unnecessary elements while focusing on the text. Just paste the URL of the article you wish to read, and Outline will strip it down to its essentials, presenting it in an easily digestible format. It's the perfect tool for article lovers who value simplicity and accessibility."
   name: Outline
   url: https://outline.com
+- date: 2025-11-11
+  description: 'Magic Sketchpad is a captivating website that blends creativity with machine learning to create an interactive art experience. It allows users to draw with AI assistance, turning simple sketches into beautiful pieces of art instantly. The Magic Sketchpad is powered by algorithms that predict what the user is trying to draw and enhances it in a seamless way, making it an incredibly fun tool for both artists and non-artists alike to explore their imaginations in a digital canvas.'
+  name: Magic Sketchpad
+  url: https://magic-sketchpad.com
