@@ -762,3 +762,7 @@
   description: "Photo Roulette is a delightfully fun and engaging game that you can play with your friends using your own photo gallery. Players take turns guessing which photo belongs to whom in a shared group of images. The competitive aspect, combined with the personal touch of using your own photos, makes every game unique and entertaining, sparking laughter over forgotten moments and unexpected choices. It's perfect for virtual hangouts, bringing people closer through shared memories."
   name: Photo Roulette
   url: https://photoroulette.app/
+- date: 2025-11-16
+  description: "Forgotify is a fascinating website that lets you discover songs on Spotify that have never been played. Born out of the sheer curiosity to explore uncharted musical territories on one of the largest streaming platforms, Forgotify connects you with tracks that are waiting in obscurity for their first listeners. It's a unique adventure for music lovers eager to find hidden gems and give these unloved songs a chance to shine."
+  name: Forgotify
+  url: http://forgotify.com
