@@ -766,3 +766,7 @@
   description: "Forgotify is a fascinating website that lets you discover songs on Spotify that have never been played. Born out of the sheer curiosity to explore uncharted musical territories on one of the largest streaming platforms, Forgotify connects you with tracks that are waiting in obscurity for their first listeners. It's a unique adventure for music lovers eager to find hidden gems and give these unloved songs a chance to shine."
   name: Forgotify
   url: http://forgotify.com
+- date: 2025-11-18
+  description: "Drifting Through Space is an enchanting web experience that simulates a journey through outer space. Guiding users through an interactive, text-based journey, the site allows for a unique, meditative escape into the cosmos. The calming and artfully designed interface, along with beautifully written prose, makes the site a perfect pick for those seeking a moment of digital tranquility. It's a captivating blend of storytelling and interactive art, making it well worth exploring."
+  name: Drifting Through Time
+  url: https://driftingthrough.space/
