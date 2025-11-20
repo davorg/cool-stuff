@@ -770,3 +770,7 @@
   description: "Drifting Through Space is an enchanting web experience that simulates a journey through outer space. Guiding users through an interactive, text-based journey, the site allows for a unique, meditative escape into the cosmos. The calming and artfully designed interface, along with beautifully written prose, makes the site a perfect pick for those seeking a moment of digital tranquility. It's a captivating blend of storytelling and interactive art, making it well worth exploring."
   name: Drifting Through Time
   url: https://driftingthrough.space/
+- date: 2025-11-20
+  description: "Localingual is a fascinating auditory adventure into the languages and sounds of the world. This interactive map allows users to click on various regions and listen to recordings of local dialects, languages, and accents contributed by the community. It's like traveling the globe and experiencing cultural diversity through sound, making it a cool tool for language enthusiasts and anyone curious about how people from different parts of the world communicate."
+  name: Localingual
+  url: https://localingual.com
