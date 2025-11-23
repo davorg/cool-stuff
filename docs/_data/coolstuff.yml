@@ -782,3 +782,7 @@
   description: "GarfieldEATS started as an app for ordering Garfield-themed food and has evolved into a quirky, nostalgic journey for fans of the lasagna-loving cat. The site offers Garfield-themed content, with a playful and cheeky interface that includes games, comics, and Garfield merchandise. It's a digital playground for fans who appreciate the humor of this beloved character, making it a fun and unique stop for anyone looking to lighten their day."
   name: GarfieldEATS
   url: https://garfieldeats.com
+- date: 2025-11-23
+  description: "Deep Nostalgia is a unique and engaging web service that brings old photos to life by animating them. Using advanced AI technology, it animates facial expressions in still photos to create short video sequences that make the subjects look like they're actually moving. This fascinating tool provides a whimsical glimpse into the past and breathes life into historical figures or deceased loved ones, offering a mesmerizing way to reflect on personal history and family genealogy."
+  name: Deep Nostalgia
+  url: https://www.myheritage.com/deep-nostalgia
