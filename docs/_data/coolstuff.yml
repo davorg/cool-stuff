@@ -786,3 +786,7 @@
   description: "Deep Nostalgia is a unique and engaging web service that brings old photos to life by animating them. Using advanced AI technology, it animates facial expressions in still photos to create short video sequences that make the subjects look like they're actually moving. This fascinating tool provides a whimsical glimpse into the past and breathes life into historical figures or deceased loved ones, offering a mesmerizing way to reflect on personal history and family genealogy."
   name: Deep Nostalgia
   url: https://www.myheritage.com/deep-nostalgia
+- date: 2025-11-24
+  description: 'GeoFS is a fascinating online flight simulator that lets you explore the skies from your web browser for free. What sets it apart is its accessibility and its use of real satellite images and terrain data to create a more immersive flying experience. With a variety of aircraft to choose from and a vast world to navigate, from cities to countryside, GeoFS caters to aviation enthusiasts and casual users alike by offering an engaging and educational experience in a simplified, user-friendly format.'
+  name: GeoFS
+  url: https://www.geo-fs.com/
