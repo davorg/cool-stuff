@@ -794,3 +794,7 @@
   description: "This Cat Does Not Exist is an intriguing website that uses a generative adversarial network (GAN) to create endless pictures of cats that don't actually exist in real life. Every time you refresh the page, a new feline friend — entirely unique and convincingly realistic — is generated from scratch. It's a fascinating example of artificial intelligence and machine learning, showcasing how machines can be trained to produce convincing and adorable pet images. Whether you're a tech enthusiast or a cat lover, this site is sure to captivate your interest."
   name: This Cat Does Not Exist
   url: https://thiscatdoesnotexist.com/
+- date: 2025-11-28
+  description: 'MUBI is a unique streaming platform that goes beyond just offering a wide range of films. It curates a daily selection of handpicked movies, providing a thoughtful approach to film discovery for cinephiles. Each movie is available on the platform for 30 days, ensuring a constant rotation of high-quality cinema. The site not only streams films but also brings insights into film culture through articles and reviews, making it a rich resource for movie enthusiasts.'
+  name: MUBI
+  url: https://mubi.com
