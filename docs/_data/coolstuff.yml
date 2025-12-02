@@ -798,3 +798,7 @@
   description: 'MUBI is a unique streaming platform that goes beyond just offering a wide range of films. It curates a daily selection of handpicked movies, providing a thoughtful approach to film discovery for cinephiles. Each movie is available on the platform for 30 days, ensuring a constant rotation of high-quality cinema. The site not only streams films but also brings insights into film culture through articles and reviews, making it a rich resource for movie enthusiasts.'
   name: MUBI
   url: https://mubi.com
+- date: 2025-12-02
+  description: Blobby Volley 2 is a fun and addictive beach volleyball game featuring adorable 'blob' characters as players. This simple yet incredibly engaging game allows you to play solo or compete against friends either locally or online. Its straightforward controls and cheerful aesthetic make it a delightful way to spend a few spare minutes or hours. A combination of easy-to-learn mechanics and competitive gameplay ensures that Blobby Volley 2 remains an entertaining classic for both casual players and those looking to engage in some serious blob sports action.
+  name: Blobby Volley 2
+  url: http://blobby.sourceforge.net
