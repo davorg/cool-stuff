@@ -802,3 +802,7 @@
   description: Blobby Volley 2 is a fun and addictive beach volleyball game featuring adorable 'blob' characters as players. This simple yet incredibly engaging game allows you to play solo or compete against friends either locally or online. Its straightforward controls and cheerful aesthetic make it a delightful way to spend a few spare minutes or hours. A combination of easy-to-learn mechanics and competitive gameplay ensures that Blobby Volley 2 remains an entertaining classic for both casual players and those looking to engage in some serious blob sports action.
   name: Blobby Volley 2
   url: http://blobby.sourceforge.net
+- date: 2025-12-04
+  description: "Flowkey is a dynamic and interactive platform that makes learning to play the piano both accessible and fun. By offering a large library of songs across various genres and skill levels, it provides a personalized learning experience. Flowkey uses your device's microphone to listen to and evaluate your playing in real time, offering instant feedback and helping you improve. This seamless integration of technology makes learning music an engaging experience, perfect for beginners and advanced players alike."
+  name: Flowkey
+  url: https://www.flowkey.com
