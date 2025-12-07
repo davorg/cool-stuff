@@ -814,3 +814,7 @@
   description: "Little Alchemy brings the joy of discovery and creativity by challenging you to combine elements to create new ones. Starting with just four basic elements, players can craft up to 560 different items, exploring the whimsical combinations that can be derived from fire, water, earth, and air. This minimalist game offers a delightful way to relax and engage your brain, leading to many 'Aha!' moments as you unveil the mysteries of alchemy and the joy of creation. Its ingenious simplicity makes it perfect for both short breaks and hours-long adventures. Dive into this addictively entertaining process and see what extraordinary concoctions you can create from the mundane!"
   name: Little Alchemy
   url: https://littlealchemy.com/
+- date: 2025-12-07
+  description: "Neave Planetarium is an interactive, browser-based planetarium that allows you to explore the night sky from any location on Earth, at any time of the year. With a sleek and intuitive design, you can learn about stars, constellations, and planets, and get lost in the beauty of the cosmos. It's a wonderful educational tool for astronomy enthusiasts and a mesmerizing experience for anyone who loves to stargaze."
+  name: Neave Planetarium
+  url: https://neave.com/planetarium/
