@@ -818,3 +818,7 @@
   description: "Neave Planetarium is an interactive, browser-based planetarium that allows you to explore the night sky from any location on Earth, at any time of the year. With a sleek and intuitive design, you can learn about stars, constellations, and planets, and get lost in the beauty of the cosmos. It's a wonderful educational tool for astronomy enthusiasts and a mesmerizing experience for anyone who loves to stargaze."
   name: Neave Planetarium
   url: https://neave.com/planetarium/
+- date: 2025-12-08
+  description: 'Camsurf is a fun and easy-to-use website that lets you randomly video chat with people from around the world. With a simple interface and no registration required, you can instantly dive into random conversations or make new friends. It’s a great way to explore different cultures and practice languages with native speakers from the comfort of your home. The platform also emphasizes safety with a robust moderation system to ensure a friendly and secure experience.'
+  name: Camsurf
+  url: https://camsurf.com
