@@ -822,3 +822,7 @@
   description: 'Camsurf is a fun and easy-to-use website that lets you randomly video chat with people from around the world. With a simple interface and no registration required, you can instantly dive into random conversations or make new friends. It’s a great way to explore different cultures and practice languages with native speakers from the comfort of your home. The platform also emphasizes safety with a robust moderation system to ensure a friendly and secure experience.'
   name: Camsurf
   url: https://camsurf.com
+- date: 2025-12-09
+  description: "PixelSynth is an innovative website that turns images into mesmerizing musical sequences. It's a unique blend of visual art and music technology, allowing users to upload their own images and listen as each pixel is translated into a sound, based on its color and position. This site offers a fun way to explore the intersection of art and sound, providing endless entertainment and a platform for creativity. Whether you're an artist, a musician, or just looking for some playful experimentation, PixelSynth offers a refreshingly interactive experience."
+  name: PixelSynth
+  url: https://pixelsynth.com
