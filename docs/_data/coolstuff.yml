@@ -826,3 +826,7 @@
   description: "PixelSynth is an innovative website that turns images into mesmerizing musical sequences. It's a unique blend of visual art and music technology, allowing users to upload their own images and listen as each pixel is translated into a sound, based on its color and position. This site offers a fun way to explore the intersection of art and sound, providing endless entertainment and a platform for creativity. Whether you're an artist, a musician, or just looking for some playful experimentation, PixelSynth offers a refreshingly interactive experience."
   name: PixelSynth
   url: https://pixelsynth.com
+- date: 2025-12-10
+  description: 'Hosted by NASA, the Astronomy Picture of the Day (APOD) serves up daily breathtaking images or photographs of the fascinating universe we live in, often accompanied by intriguing facts and detailed explanations written by professional astronomers. This site is perfect for both space enthusiasts and those simply looking to be awed by the vastness and beauty of the cosmos, making it a must-visit for anyone curious about what lies beyond our world.'
+  name: Astronomy Picture of the Day
+  url: https://apod.nasa.gov/apod/astropix.html
