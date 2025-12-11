@@ -830,3 +830,7 @@
   description: 'Hosted by NASA, the Astronomy Picture of the Day (APOD) serves up daily breathtaking images or photographs of the fascinating universe we live in, often accompanied by intriguing facts and detailed explanations written by professional astronomers. This site is perfect for both space enthusiasts and those simply looking to be awed by the vastness and beauty of the cosmos, making it a must-visit for anyone curious about what lies beyond our world.'
   name: Astronomy Picture of the Day
   url: https://apod.nasa.gov/apod/astropix.html
+- date: 2025-12-11
+  description: "Faviconist is a creative and playful tool that allows you to design your own customizable favicon for your website. Whether you are a seasoned web developer or a curious hobbyist, this user-friendly site offers a simple interface to create and download your unique icon in just a few clicks. It's the perfect resource for adding a personal touch to your web presence, and the process is as enjoyable as it is innovative. Try out different colors, shapes, and styles to make your site stand out with a fun and personalized favicon!"
+  name: Faviconist
+  url: https://faviconist.io
