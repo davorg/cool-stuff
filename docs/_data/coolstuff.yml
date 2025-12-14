@@ -842,3 +842,7 @@
   description: "The 24 Hour Plays: Viral Monologues is an innovative initiative that combines the performing arts with digital media to bring short, original performances to a global audience. Each installment features a series of unique monologues, written, rehearsed, performed, and released within 24 hours, showcasing the quick creativity and adaptability of theater artists in a digital age. It's a refreshing and engaging way to experience theater from the comfort of your home, highlighting the resilience and talent of the artistic community."
   name: 'The 24 Hour Plays: Viral Monologues'
   url: https://24hourplays.com/viral-monologues/
+- date: 2025-12-14
+  description: 'The Parallax View is a captivating website that hosts a virtual art gallery. It specializes in dynamic, interactive exhibits that playfully utilize parallax scrolling to create an immersive experience. Visitors can navigate through visually stunning pieces that seamlessly blend motion and art, offering an engaging journey through various creative interpretations. This fusion of technology and art makes it a standout platform for anyone interested in unique visual storytelling.'
+  name: The Parallax View
+  url: https://parallax-view.org
