@@ -846,3 +846,7 @@
   description: 'The Parallax View is a captivating website that hosts a virtual art gallery. It specializes in dynamic, interactive exhibits that playfully utilize parallax scrolling to create an immersive experience. Visitors can navigate through visually stunning pieces that seamlessly blend motion and art, offering an engaging journey through various creative interpretations. This fusion of technology and art makes it a standout platform for anyone interested in unique visual storytelling.'
   name: The Parallax View
   url: https://parallax-view.org
+- date: 2025-12-16
+  description: 'The Rasterbator is an innovative online tool that transforms your favorite images into massive wall posters. By breaking images down into printable PDF tiles, it allows users to create room-sized posters by taping individual sheets together. This is a fantastic way to decorate your space with personalized art, making it both a creative and fun DIY project.'
+  name: The Rasterbator
+  url: https://rasterbator.net
