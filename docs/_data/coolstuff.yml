@@ -870,3 +870,7 @@
   description: "Scribble Maps is an interactive platform that allows you to create custom maps and explore mapping in a creative way. Whether you're marking routes for a real-life adventure or simply doodling on maps for fun, Scribble Maps offers a unique and engaging experience. Its ease of use and the wide range of tools available for both personal and professional applications make it a fascinating tool for cartographers, travelers, and anyone who enjoys geographic creativity."
   name: Scribble Maps
   url: https://www.scribblemaps.com
+- date: 2025-12-24
+  description: "Breathing Earth is a captivating real-time simulation offering a dynamic view of the planet's CO2 emissions, birth rates, and death rates across the globe. What's fascinating about this site is its ability to visualize environmental data in such an engaging and visually appealing format. As you watch the earth 'breathe,' you gain a better understanding of the impact humans have on our planet's ecosystem in an intuitive and interactive way. This makes it not just educational, but a visually stunning way to stay informed about global ecological and demographic trends."
+  name: Breathing Earth
+  url: http://www.breathingearth.net
