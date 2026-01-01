@@ -886,3 +886,7 @@
   description: 'Short Trip is an interactive illustration experience by Alexander Perrin. It takes users on a quaint, hand-drawn journey aboard a tram as it leisurely travels through an idyllic countryside. The minimalist monochrome artwork and gentle soundtrack together create a calming atmosphere, inviting users to escape the hustle and bustle of daily life. Users can click on the tram to start and stop it as it moves through different picturesque landscapes filled with charming characters and delightful details—a perfect digital escape that will please lovers of whimsical art and relaxation.'
   name: Short Trip
   url: https://dadako.com/shorttrip/
+- date: 2026-01-01
+  description: 'ColorPush is a delightful playground for anyone enthusiastic about color palettes and design. This innovative website allows users to create custom color palettes using a slick, interactive interface, and offers insights into color harmony and relationships. ColorPush stands out by providing a seamless experience for both amateur and professional designers to explore color dynamics and refine their selections for artistic or design projects. Its fun, intuitive design makes it a pleasurable destination for experiments and inspiration.'
+  name: ColorPush
+  url: https://colorpush.com
