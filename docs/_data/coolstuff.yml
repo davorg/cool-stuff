@@ -906,3 +906,7 @@
   description: "Liar's Dice Online offers a digital twist on the classic dice game, allowing you to challenge friends or random players from around the world. It's a game of bluffing, deduction, and luck that's simple to learn but hard to master, offering endless strategic possibilities. The sleek, intuitive interface and seamless online play make it a delightful way to spend some leisure time engaging with one of the most beloved group games."
   name: Liar's Dice Online
   url: https://www.liar-dice.com
+- date: 2026-01-07
+  description: 'River Runner is a fascinating tool that allows users to trace the flow of water from any location in the contiguous United States to the ocean. By simply clicking anywhere on the map, you can visualize the journey water would take, navigating through various rivers and streams until it reaches the sea. This site offers an engaging way to learn about watersheds and the interconnectedness of our water systems, all while providing an interactive map experience that is both educational and fun.'
+  name: River Runner
+  url: https://river-runner.samlearner.com/
