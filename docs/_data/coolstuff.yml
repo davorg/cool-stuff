@@ -918,3 +918,7 @@
   description: "The Jigsaw Puzzles website offers an extensive collection of online jigsaw puzzles that are both fun and challenging. With thousands of puzzles categorized by theme, size, and difficulty, it is ideal for puzzle enthusiasts looking for a digital alternative to the traditional jigsaw experience. The site allows users to customize their puzzle experience with features like selecting the number of pieces or enabling rotation, making it a versatile option for both casual solvers and seasoned puzzle masters. It's a perfect blend of entertainment and brain exercise, providing a great way to unwind and stimulate the mind simultaneously."
   name: The Jigsaw Puzzles
   url: https://thejigsawpuzzles.com/
+- date: 2026-01-12
+  description: "Marmoset Viewer is an interactive 3D model viewer that allows users to view and manipulate high-quality 3D models directly in their web browsers. It's particularly popular among artists and developers who want to showcase their work in an engaging and visually appealing manner. The website is known for its user-friendly interface and real-time rendering capabilities, offering a seamless experience for anyone interested in exploring or presenting 3D digital art."
+  name: Marmoset Viewer
+  url: https://marmoset.co/viewer/
