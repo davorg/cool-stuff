@@ -938,3 +938,7 @@
   description: "Gartic Phone is an engaging online multiplayer game that combines the fun of Pictionary with the classic telephone game. Players take turns drawing and describing prompts in a time-limited environment, often leading to hilariously distorted final results as they move through multiple rounds. The creativity and humor involved in watching how an initial sentence or image transforms into something entirely unexpected by the end make Gartic Phone an entertaining way to connect with friends and family, and a perfect addition to any 'Cool Stuff' feature."
   name: Gartic Phone
   url: https://garticphone.com/
+- date: 2026-01-18
+  description: "Every Noise at Once is a fascinating audio exploration tool that visually maps the world of music genres in an extensive, interactive interface. It offers a vast array of genres, from the mainstream to the obscure, each represented as a point on the map that can be clicked on to hear samples. Users can discover new music styles, explore related genres, and even dive into playlists curated by Spotify. The site's unique approach to categorizing and exploring music makes it a perfect spot for both casual listeners and hardcore music enthusiasts to expand their auditory horizons."
+  name: Every Noise at Once
+  url: https://everynoise.com/
