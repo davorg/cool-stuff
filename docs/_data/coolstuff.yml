@@ -942,3 +942,7 @@
   description: "Every Noise at Once is a fascinating audio exploration tool that visually maps the world of music genres in an extensive, interactive interface. It offers a vast array of genres, from the mainstream to the obscure, each represented as a point on the map that can be clicked on to hear samples. Users can discover new music styles, explore related genres, and even dive into playlists curated by Spotify. The site's unique approach to categorizing and exploring music makes it a perfect spot for both casual listeners and hardcore music enthusiasts to expand their auditory horizons."
   name: Every Noise at Once
   url: https://everynoise.com/
+- date: 2026-01-19
+  description: "Replika is an AI-powered chatbot designed to be a companion that helps you explore your personality, talk about various topics, and even provides support when you're feeling down. It's based on a conversational model that learns from interacting with you, allowing it to simulate more human-like interactions over time. Replika stands out because of its ability to adapt and provide engaging, meaningful conversation, making it not only a useful tool for social interaction but also a fascinating exploration into the capabilities of AI."
+  name: Replika
+  url: https://replika.ai/
