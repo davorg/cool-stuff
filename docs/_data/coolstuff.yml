@@ -946,3 +946,7 @@
   description: "Replika is an AI-powered chatbot designed to be a companion that helps you explore your personality, talk about various topics, and even provides support when you're feeling down. It's based on a conversational model that learns from interacting with you, allowing it to simulate more human-like interactions over time. Replika stands out because of its ability to adapt and provide engaging, meaningful conversation, making it not only a useful tool for social interaction but also a fascinating exploration into the capabilities of AI."
   name: Replika
   url: https://replika.ai/
+- date: 2026-01-20
+  description: "Radio Aporee is a fascinating and immersive digital platform that serves as an extensive sound map of the world. Users can explore an interactive map punctuated with markers, each representing a unique field recording from a wide range of environments across the globe. From bustling urban areas to remote natural landscapes, the site offers an auditory journey that showcases the diverse soundscapes of our planet. It's not only an engaging way to discover new places and cultures but also a testament to the vast auditory tapestry that surrounds us."
+  name: Radio Aporee
+  url: http://aporee.org/maps/
