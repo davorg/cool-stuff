@@ -950,3 +950,7 @@
   description: "Radio Aporee is a fascinating and immersive digital platform that serves as an extensive sound map of the world. Users can explore an interactive map punctuated with markers, each representing a unique field recording from a wide range of environments across the globe. From bustling urban areas to remote natural landscapes, the site offers an auditory journey that showcases the diverse soundscapes of our planet. It's not only an engaging way to discover new places and cultures but also a testament to the vast auditory tapestry that surrounds us."
   name: Radio Aporee
   url: http://aporee.org/maps/
+- date: 2026-01-21
+  description: 'Omnigeometry is a mesmerizing generative art tool that allows users to create intricate and beautiful geometric designs effortlessly. Perfect for both artists and hobbyists, the platform lets you explore complex patterns and shapes by tweaking various parameters, giving you the power to generate stunning visual art with just a few clicks. Users can share, export, or print their creations, making it a fun and engaging way to dive into the world of mandalas and sacred geometry.'
+  name: Omnigeometry
+  url: https://omnigeometry.com/
