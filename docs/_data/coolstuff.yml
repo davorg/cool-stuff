@@ -954,3 +954,7 @@
   description: 'Omnigeometry is a mesmerizing generative art tool that allows users to create intricate and beautiful geometric designs effortlessly. Perfect for both artists and hobbyists, the platform lets you explore complex patterns and shapes by tweaking various parameters, giving you the power to generate stunning visual art with just a few clicks. Users can share, export, or print their creations, making it a fun and engaging way to dive into the world of mandalas and sacred geometry.'
   name: Omnigeometry
   url: https://omnigeometry.com/
+- date: 2026-01-22
+  description: 'EternalJukebox is an incredibly fun and creative site that takes your favorite songs and turns them into an endless loop, allowing you to explore new musical patterns and variations. By analyzing the beats and matching similar sounding segments, it creates a seamless remix of the original track. Perfect for those who love to listen to extended versions of their favorite tunes, this site provides a unique musical experience that feels fresh and novel with each listen.'
+  name: EternalJukebox
+  url: https://eternalbox.dev/
