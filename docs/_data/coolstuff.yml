@@ -958,3 +958,7 @@
   description: 'EternalJukebox is an incredibly fun and creative site that takes your favorite songs and turns them into an endless loop, allowing you to explore new musical patterns and variations. By analyzing the beats and matching similar sounding segments, it creates a seamless remix of the original track. Perfect for those who love to listen to extended versions of their favorite tunes, this site provides a unique musical experience that feels fresh and novel with each listen.'
   name: EternalJukebox
   url: https://eternalbox.dev/
+- date: 2026-01-23
+  description: "Eel Slap is a delightfully quirky website that offers a single, peculiar interactive experience: slapping a man in the face with an eel. Just move your mouse across the screen and enjoy the smooth animation of the slap. It’s hypnotic and absurdly fun, delivering exactly what it promises—pure, unadulterated silliness—and it's perfect for those moments when you just need a quick laugh or an escape from reality."
+  name: Eel Slap
+  url: http://eelslap.com
