@@ -962,3 +962,7 @@
   description: "Eel Slap is a delightfully quirky website that offers a single, peculiar interactive experience: slapping a man in the face with an eel. Just move your mouse across the screen and enjoy the smooth animation of the slap. It’s hypnotic and absurdly fun, delivering exactly what it promises—pure, unadulterated silliness—and it's perfect for those moments when you just need a quick laugh or an escape from reality."
   name: Eel Slap
   url: http://eelslap.com
+- date: 2026-01-24
+  description: "Trello is an intuitive and flexible project management tool that allows users to organize tasks and workflows using boards, lists, and cards. It’s like having a digital whiteboard with sticky notes that can be moved around easily, making collaboration and productivity not just efficient but fun. Whether you're planning a personal project, managing a business team, or organizing household chores, Trello's visual interface and customizable features provide a dynamic way to keep track of tasks and stay organized."
+  name: Trello
+  url: https://trello.com/
