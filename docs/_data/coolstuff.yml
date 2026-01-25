@@ -966,3 +966,7 @@
   description: "Trello is an intuitive and flexible project management tool that allows users to organize tasks and workflows using boards, lists, and cards. It’s like having a digital whiteboard with sticky notes that can be moved around easily, making collaboration and productivity not just efficient but fun. Whether you're planning a personal project, managing a business team, or organizing household chores, Trello's visual interface and customizable features provide a dynamic way to keep track of tasks and stay organized."
   name: Trello
   url: https://trello.com/
+- date: 2026-01-25
+  description: "Omni Calculator is an extraordinary collection of over 2500 smart calculators designed to solve real-life problems in a myriad of fields such as finance, math, health, chemistry, physics, and everyday life issues. Each calculator on the site offers a detailed explanation of the calculations, making it not only a tool for quick results but also an educational resource. It's incredibly cool due to its wide range of applications and user-friendly interface, making it perfect for students, professionals, or anyone in need of a quick solution or a deeper understanding of a problem."
+  name: Omni Calculator
+  url: https://www.omnicalculator.com/
