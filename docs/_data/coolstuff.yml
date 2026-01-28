@@ -978,3 +978,7 @@
   description: "An immersive journey that visually explores the vastness of space by scrolling through a detailed digital guide that starts from Earth and goes as far as the cosmic expanse allows. 'How Big Is Space?' offers a captivating perspective on the scale of our universe, with interesting bits of information about celestial bodies provided along the way. It's an interactive experience that mixes education with awe, providing users a chance to feel the enormity of the universe in a user-friendly and visually appealing format."
   name: How Big Is Space?
   url: https://neal.fun/how-big-is-space/
+- date: 2026-01-28
+  description: "Zoom Earth is an interactive globe that provides users with up-to-date satellite imagery, weather data, and natural event tracking in real-time. It's a captivating tool for anyone interested in observing the planet's weather patterns, storm developments, or simply exploring the Earth from different angles. Its intuitive interface allows users to zoom in and out seamlessly, making it not only an educational resource but also an intriguing platform for visual exploration."
+  name: Zoom Earth
+  url: https://zoom.earth
