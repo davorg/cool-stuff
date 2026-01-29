@@ -982,3 +982,7 @@
   description: "Zoom Earth is an interactive globe that provides users with up-to-date satellite imagery, weather data, and natural event tracking in real-time. It's a captivating tool for anyone interested in observing the planet's weather patterns, storm developments, or simply exploring the Earth from different angles. Its intuitive interface allows users to zoom in and out seamlessly, making it not only an educational resource but also an intriguing platform for visual exploration."
   name: Zoom Earth
   url: https://zoom.earth
+- date: 2026-01-29
+  description: "The Infinite Conversation is a fascinating experiment in AI-driven discussion, where artificial voices emulate the philosopher Alan Watts conversing with author and theoretician Werner Herzog. This endlessly looping dialogue offers a unique experience, exploring deep philosophical themes and provoking thought through the synthesis of virtual personalities. It's an intriguing blend of technology, philosophy, and art, making it a must-visit for anyone curious about the future of AI and human interaction."
+  name: The Infinite Conversation
+  url: https://infiniteconversation.com/
