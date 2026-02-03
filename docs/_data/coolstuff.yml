@@ -1002,3 +1002,7 @@
   description: 'The Magic Door website offers an interactive storytelling experience that feels like stepping into the pages of a fairy tale. Users can choose their own adventure paths, unravel mysteries, and embark on quests all from the comfort of their own home. Its combination of enchanting narratives and beautiful visuals create a truly immersive experience that taps into the imagination and childhood nostalgia. What makes it especially cool is its ability to transport users into another world with endless possibilities for different storyline outcomes.'
   name: The Magic Door
   url: https://www.themagicdoor.org/
+- date: 2026-02-03
+  description: "Antipodes Map is a quirky and fascinating website that lets you explore the exact opposite side of the Earth from any given location. Simply enter a place, and the map will show you its antipodal point, which is the point on Earth's surface directly opposite to it. It's a fun way to visualize geography and indulge your curiosity about global locations. Whether you're wondering where you'd end up if you dug a hole straight through the Earth, or just exploring new geographical perspectives, Antipodes Map offers a unique and engaging experience."
+  name: Antipodes Map
+  url: https://www.antipodesmap.com/
