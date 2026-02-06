@@ -1014,3 +1014,7 @@
   description: 'Randorium is a simple yet entertaining website that brings the excitement of randomness to fun new levels. It allows visitors to participate in or create different types of contests and raffles, like random draw giveaways, picking lucky winners, or just spinning a wheel of fortune. The website provides a dynamic way to make decisions or spice up games and gatherings, making it perfect for anyone who loves a bit of unpredictability in their day-to-day interactions.'
   name: Randorium
   url: https://randorium.com/
+- date: 2026-02-06
+  description: "Deep Dream Generator is a fascinating creative tool that allows users to transform their photos into stunning dream-like artworks through the power of artificial intelligence. By leveraging Google's Deep Dream algorithm, this site creates surreal and psychedelic images from your everyday photos, with an array of styles and layers to choose from. It's not only a fun and creative way to explore the potential of AI in art but also a community where users can share and celebrate their unique creations. Whether you're an artist looking for inspiration or just love experimenting with digital art, Deep Dream Generator offers endless enjoyment and creativity."
+  name: Art Generator by Deep Dream
+  url: https://deepdreamgenerator.com
