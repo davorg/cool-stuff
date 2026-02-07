@@ -1018,3 +1018,7 @@
   description: "Deep Dream Generator is a fascinating creative tool that allows users to transform their photos into stunning dream-like artworks through the power of artificial intelligence. By leveraging Google's Deep Dream algorithm, this site creates surreal and psychedelic images from your everyday photos, with an array of styles and layers to choose from. It's not only a fun and creative way to explore the potential of AI in art but also a community where users can share and celebrate their unique creations. Whether you're an artist looking for inspiration or just love experimenting with digital art, Deep Dream Generator offers endless enjoyment and creativity."
   name: Art Generator by Deep Dream
   url: https://deepdreamgenerator.com
+- date: 2026-02-07
+  description: "Moodstream by Getty Images is a unique web tool designed to inspire creative professionals by generating a seamless stream of imagery, video, and music. Users can customize streams based on different moods and creative needs, selecting from parameters like joy or calmness, and deciding the energy level to match their vision. It's a fascinating way to explore your creativity and discover new inspiration through the power of visual and auditory media."
+  name: Moodstream by Getty Images
+  url: https://moodstream.gettyimages.com/
