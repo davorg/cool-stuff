@@ -1022,3 +1022,7 @@
   description: "Moodstream by Getty Images is a unique web tool designed to inspire creative professionals by generating a seamless stream of imagery, video, and music. Users can customize streams based on different moods and creative needs, selecting from parameters like joy or calmness, and deciding the energy level to match their vision. It's a fascinating way to explore your creativity and discover new inspiration through the power of visual and auditory media."
   name: Moodstream by Getty Images
   url: https://moodstream.gettyimages.com/
+- date: 2026-02-09
+  description: "Crayon is a fascinating tool that lets users explore and experiment with AI-generated art and designs. Using advanced machine learning algorithms, Crayon offers an interface where creativity meets technology, providing endless possibilities for digital artwork creation. Users can input text prompts and see the AI translate these into unique, interpretive visuals. It's a blend of human imagination and artificial intelligence that results in captivating and unpredictable art pieces, making it a must-visit for those curious about the future of digital creativity."
+  name: Crayon
+  url: https://crayon.ai
