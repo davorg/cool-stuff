@@ -1026,3 +1026,7 @@
   description: "Crayon is a fascinating tool that lets users explore and experiment with AI-generated art and designs. Using advanced machine learning algorithms, Crayon offers an interface where creativity meets technology, providing endless possibilities for digital artwork creation. Users can input text prompts and see the AI translate these into unique, interpretive visuals. It's a blend of human imagination and artificial intelligence that results in captivating and unpredictable art pieces, making it a must-visit for those curious about the future of digital creativity."
   name: Crayon
   url: https://crayon.ai
+- date: 2026-02-10
+  description: "The Battleship Game on papergames.io is a nostalgic and fun way to engage in the classic naval combat game. What's cool about this site is its simplicity and accessibility—allowing users to jump right into a game against friends or random opponents without any complicated setup. The digital adaptation maintains the original game's charm, offering both competitive and relaxing gameplay. It's perfect for killing time or enjoying a quick strategic battle."
+  name: The Battleship Game
+  url: http://papergames.io/en/battleships
