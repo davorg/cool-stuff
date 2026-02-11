@@ -1030,3 +1030,7 @@
   description: "The Battleship Game on papergames.io is a nostalgic and fun way to engage in the classic naval combat game. What's cool about this site is its simplicity and accessibility—allowing users to jump right into a game against friends or random opponents without any complicated setup. The digital adaptation maintains the original game's charm, offering both competitive and relaxing gameplay. It's perfect for killing time or enjoying a quick strategic battle."
   name: The Battleship Game
   url: http://papergames.io/en/battleships
+- date: 2026-02-11
+  description: "A Soft Murmur is a beautiful website that allows you to create your own ambient sound mixes. You can combine a range of sounds from rain, thunder, and waves, to coffee shop chatter and white noise, helping you focus, relax, or balance the soundscape that suits your mood. With an intuitive interface and the ability to save and share custom soundscapes, it's perfect for enhancing productivity or relaxation."
+  name: A Soft Murmur
+  url: https://asoftmurmur.com/
