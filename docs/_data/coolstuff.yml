@@ -1038,3 +1038,7 @@
   description: 'Falling Sand Game, hosted at Sandspiel, is a mesmerizing browser-based sandbox where you can experiment with elements like sand, water, fire, and more to create intricate interactions and mesmerizing patterns. The controls are intuitive, making it accessible for anyone to dive in and explore the endless possibilities. Users can watch their creations come to life as the elements interact in realistic and unexpected ways, offering a fun and relaxing experience.'
   name: Falling Sand Game
   url: http://sandspiel.club/
+- date: 2026-02-13
+  description: 'The Scale of the Universe 2 is a mind-boggling interactive website that takes you on a journey through the universe. It showcases the relative sizes of everything from the tiniest particles to the vast expanse of the cosmos. By zooming in and out, you can explore the scale of objects from the microscopic level to astronomical scales, making it a fascinating and educational experience for anyone curious about the universe and our place within it. This site provides an engaging way to grasp the relative dimensions of everything in our universe.'
+  name: The Scale of the Universe 2
+  url: http://scaleofuniverse.com/
