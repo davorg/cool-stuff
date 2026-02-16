@@ -1046,3 +1046,7 @@
   description: 'Falling Sand Game, also known as Sandspiel, is an interactive browser game that simulates a pixelated creative sandbox environment where players can manipulate elements like sand, water, fire, and more. The engaging physics and artistic potential make it an enjoyable and addictive outlet for creativity, allowing users to understand basic principles such as gravity and fluid dynamics while creating stunning visual patterns. Its simplicity in design but complexity in play is what makes it a unique and delightful experience.'
   name: Falling Sand Game
   url: https://sandspiel.club/
+- date: 2026-02-16
+  description: "A Web Whiteboard is a simple, online whiteboard that allows users to easily collaborate in real time. You can draw, sketch, and write ideas visually, and it's a great tool for brainstorming sessions, teaching, or working remotely with your team. Its intuitive interface is accessible on any device, making it versatile and convenient for various creative or educational purposes. Whether you're mapping out a project or just doodling for fun, A Web Whiteboard makes communication and idea sharing both efficient and enjoyable."
+  name: A Web Whiteboard
+  url: https://awwapp.com/
