@@ -1066,3 +1066,7 @@
   description: "FlightAware is an engaging website that allows users to track real-time flight information across the globe. You can watch planes moving live on the map, get detailed info on individual flights, and even explore historical data. It's cool because it not only serves as a practical tool for plane spotters and travelers, but it also provides a fascinating glimpse into the complexity of global aviation networks. Whether you're an aviation enthusiast or just curious about what's flying above you, FlightAware offers both a fun and insightful experience."
   name: FlightAware
   url: https://flightaware.com/
+- date: 2026-02-24
+  description: "Radiooooo is an incredible online time machine that lets you explore music trends from different decades and regions around the world. Simply choose a decade and a country to instantly access a curated playlist reflecting the musical soul of that time and place. It's a fascinating way to discover how music has evolved globally over the years, offering a unique auditory experience that spans cultures and eras. Perfect for music lovers and history buffs alike, Radiooooo provides an engaging escape into the past, one song at a time."
+  name: Radiooooo
+  url: https://radioooo.com
