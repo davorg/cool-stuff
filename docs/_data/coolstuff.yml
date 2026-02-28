@@ -1074,3 +1074,7 @@
   description: "Pointer Pointer is a quirky and amusing website that provides instant entertainment by displaying a photo of a person pointing directly at the exact location of your mouse pointer on the screen. It's a delightful example of playful internet creativity, as each time you move your pointer and pause, the site generates a new image of someone pointing right at it. The seamless execution and sheer variety of images make it a fun way to pass time and marvel at the site's clever concept."
   name: Pointer Pointer
   url: http://www.pointerpointer.com
+- date: 2026-02-28
+  description: "Cave of Programming is a treasure trove for anyone looking to dive into the world of programming or expand their software development skills. It's cool because it offers a wide range of tutorials, from Java to Python to web development, all presented in an engaging and easy-to-understand manner. The site is maintained by John Purcell, who provides insightful video tutorials and courses for both beginners and advanced learners. With a friendly interface and valuable content, it's an amazing resource for tech enthusiasts."
+  name: Cave of Programming
+  url: https://www.caveofprogramming.com
