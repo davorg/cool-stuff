@@ -1078,3 +1078,7 @@
   description: "Cave of Programming is a treasure trove for anyone looking to dive into the world of programming or expand their software development skills. It's cool because it offers a wide range of tutorials, from Java to Python to web development, all presented in an engaging and easy-to-understand manner. The site is maintained by John Purcell, who provides insightful video tutorials and courses for both beginners and advanced learners. With a friendly interface and valuable content, it's an amazing resource for tech enthusiasts."
   name: Cave of Programming
   url: https://www.caveofprogramming.com
+- date: 2026-03-01
+  description: "JustWatch is a streaming guide that lets you quickly find out where you can legally watch movies and TV shows online. It's a must-have tool for film and TV enthusiasts who want to keep track of streaming content across different platforms like Netflix, Hulu, Amazon Prime, Disney+, and more. Simply enter the title you're interested in, and JustWatch will show you which streaming services offer it, whether it's available for purchase or rent, and even the latest releases. It's incredibly convenient for cutting through the clutter of the streaming world."
+  name: JustWatch
+  url: https://www.justwatch.com
