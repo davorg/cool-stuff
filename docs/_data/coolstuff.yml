@@ -1082,3 +1082,7 @@
   description: "JustWatch is a streaming guide that lets you quickly find out where you can legally watch movies and TV shows online. It's a must-have tool for film and TV enthusiasts who want to keep track of streaming content across different platforms like Netflix, Hulu, Amazon Prime, Disney+, and more. Simply enter the title you're interested in, and JustWatch will show you which streaming services offer it, whether it's available for purchase or rent, and even the latest releases. It's incredibly convenient for cutting through the clutter of the streaming world."
   name: JustWatch
   url: https://www.justwatch.com
+- date: 2026-03-02
+  description: "Liquid Galaxy is an impressive open-source project that creates a visually stunning panoramic display system using multiple screens. By linking computers and displays together, it allows users to explore Google Earth, photospheres, and more immersive content as if viewing them through a vast digital canvas. It's cool because it not only showcases breathtaking imagery but also represents a remarkable feat in collective digital architecture and collaboration across software and hardware systems."
+  name: Liquid Galaxy
+  url: http://www.liquidgalaxy.eu/
