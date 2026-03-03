@@ -1086,3 +1086,7 @@
   description: "Liquid Galaxy is an impressive open-source project that creates a visually stunning panoramic display system using multiple screens. By linking computers and displays together, it allows users to explore Google Earth, photospheres, and more immersive content as if viewing them through a vast digital canvas. It's cool because it not only showcases breathtaking imagery but also represents a remarkable feat in collective digital architecture and collaboration across software and hardware systems."
   name: Liquid Galaxy
   url: http://www.liquidgalaxy.eu/
+- date: 2026-03-03
+  description: "Explore the legendary Silk Road like never before with Google Arts & Culture's 'Silk Road 3D'. This virtual experience allows you to travel through time and trace one of history's most significant trade routes. With interactive 3D models, immersive panoramas, and curated exhibitions from museums around the world, this site provides a rich and detailed perspective on the cultures, people, and goods that shaped the ancient world. It's an enlightening journey that combines history, culture, and cutting-edge technology, making it a fascinating resource for learners and explorers alike."
+  name: Silk Road 3D
+  url: https://artsandculture.google.com/project/silk-road
