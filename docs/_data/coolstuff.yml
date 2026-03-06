@@ -1090,3 +1090,7 @@
   description: "Explore the legendary Silk Road like never before with Google Arts & Culture's 'Silk Road 3D'. This virtual experience allows you to travel through time and trace one of history's most significant trade routes. With interactive 3D models, immersive panoramas, and curated exhibitions from museums around the world, this site provides a rich and detailed perspective on the cultures, people, and goods that shaped the ancient world. It's an enlightening journey that combines history, culture, and cutting-edge technology, making it a fascinating resource for learners and explorers alike."
   name: Silk Road 3D
   url: https://artsandculture.google.com/project/silk-road
+- date: 2026-03-06
+  description: "Worldle is an engaging geography game that challenges players to identify countries based on their silhouette. Players are shown an outline of a country and must guess the correct country name, getting hints such as the direction and distance from the guessed location to the actual country. It's a fun way to test and improve your geographical knowledge and a great daily challenge to engage with the world map in a dynamic way."
+  name: Worldle
+  url: https://worldle.teuteuf.fr/
