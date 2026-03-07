@@ -1094,3 +1094,7 @@
   description: "Worldle is an engaging geography game that challenges players to identify countries based on their silhouette. Players are shown an outline of a country and must guess the correct country name, getting hints such as the direction and distance from the guessed location to the actual country. It's a fun way to test and improve your geographical knowledge and a great daily challenge to engage with the world map in a dynamic way."
   name: Worldle
   url: https://worldle.teuteuf.fr/
+- date: 2026-03-07
+  description: "Sort the Court! is a delightful browser-based game where you take on the role of a ruler, making various decisions that can impact your kingdom's growth, happiness, and wealth. Players interact with quirky characters such as magical spirits, royal advisors, and curious citizens who visit the throne room with requests or intriguing adventures. The game's charming pixel art and humorous dialogues make decision-making an entertaining experience, fostering curiosity about the outcomes of each choice. It's a playful simulation that merges elements of strategy and storytelling, ensuring hours of engaging amusement."
+  name: Sort the Court!
+  url: https://graebor.itch.io/sort-the-court
