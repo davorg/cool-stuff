@@ -1098,3 +1098,7 @@
   description: "Sort the Court! is a delightful browser-based game where you take on the role of a ruler, making various decisions that can impact your kingdom's growth, happiness, and wealth. Players interact with quirky characters such as magical spirits, royal advisors, and curious citizens who visit the throne room with requests or intriguing adventures. The game's charming pixel art and humorous dialogues make decision-making an entertaining experience, fostering curiosity about the outcomes of each choice. It's a playful simulation that merges elements of strategy and storytelling, ensuring hours of engaging amusement."
   name: Sort the Court!
   url: https://graebor.itch.io/sort-the-court
+- date: 2026-03-08
+  description: "Chromatic Vision Simulator is a mesmerizing tool that lets users experience how the world looks through the eyes of someone with color blindness. By adjusting the settings, you can explore the effects of different types of color vision deficiencies. This interactive experience is both fascinating and educational, offering a new perspective on how others might see the world around them. It's a perfect resource for anyone interested in raising awareness or simply satisfying their curiosity about color perception."
+  name: Chromatic Vision Simulator
+  url: http://chromaticvision.net/
