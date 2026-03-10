@@ -1102,3 +1102,7 @@
   description: "Chromatic Vision Simulator is a mesmerizing tool that lets users experience how the world looks through the eyes of someone with color blindness. By adjusting the settings, you can explore the effects of different types of color vision deficiencies. This interactive experience is both fascinating and educational, offering a new perspective on how others might see the world around them. It's a perfect resource for anyone interested in raising awareness or simply satisfying their curiosity about color perception."
   name: Chromatic Vision Simulator
   url: http://chromaticvision.net/
+- date: 2026-03-10
+  description: "MuscleWiki is a fantastic and user-friendly website that offers detailed interactive muscle maps to help you learn how different exercises work each muscle group. Whether you're new to fitness or an experienced athlete, this site allows you to select a muscle group to view exercises specifically designed to target it. With animated guides, step-by-step instructions, and nutritional advice, MuscleWiki makes it easy to understand and optimize your workout routine. It's perfect for anyone looking to enhance their fitness knowledge in an engaging way."
+  name: MuscleWiki
+  url: https://musclewiki.com
