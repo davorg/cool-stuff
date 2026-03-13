@@ -1110,3 +1110,7 @@
   description: "This Word Does Not Exist is a fascinating website that generates entirely new and imaginary words with their meanings. Using an AI model trained on a vast dataset of English language, the site can create unique words that have never been documented before, along with their definitions in a surprisingly believable manner. It's an amusing tool for writers looking for inspiration or anyone who enjoys seeing the imaginative possibilities of language."
   name: This Word Does Not Exist
   url: https://www.thisworddoesnotexist.com/
+- date: 2026-03-13
+  description: 'Colorfy is a delightful online coloring experience that invites users to unleash their creativity with virtual coloring books. Tailored for both adults and kids, this site offers a wide range of intricate designs and themes to color in, promoting relaxation and mindfulness. Its simple interface allows anyone to start filling in colors with just a few clicks, making it a perfect digital pastime for those moments when you need to unwind and indulge in some calming artistic expression.'
+  name: Colorfy
+  url: https://colorfy.net
