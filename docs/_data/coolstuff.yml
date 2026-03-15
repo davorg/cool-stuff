@@ -1118,3 +1118,7 @@
   description: 'This engaging webpage provides insights into the influential work of cybersecurity expert Window Snyder, focusing on the importance of signaling in network security. It offers intriguing perspectives and strategies to enhance resilience against digital threats. Featuring a blend of technical expertise and strategic advice, this site is a must-visit for those interested in cybersecurity and the innovative measures needed to protect digital environments.'
   name: Window Snyder's Resilience Through Signaling
   url: https://www.w3.org/Security/wiki/Window_Snyder
+- date: 2026-03-15
+  description: "Eterna is a unique and engaging platform where users can play puzzles based on RNA folding, contributing to real scientific research. By solving these puzzles, players help scientists understand RNA better, which can lead to advancements in medicine and biology. It's a fun and educational way to participate in citizen science, while challenging your problem-solving skills."
+  name: Eterna
+  url: https://eternagame.org/
