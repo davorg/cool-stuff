@@ -1130,3 +1130,7 @@
   description: "PixelWorld is a captivating and collaborative pixel art canvas that lets users create and explore artwork in a highly detailed 2D world made entirely of pixels. This unique platform allows people from all over the globe to contribute their creativity, designing and resizing sections of the canvas to produce collaboratively massive art pieces. It's an ever-evolving digital landscape that highlights the power of community and imagination, making it a must-visit for anyone interested in digital art, creativity, and collaborative projects."
   name: PixelWorld
   url: https://www.pixelworld.io
+- date: 2026-03-18
+  description: "Boil the Frog is a unique and entertaining music experience that lets you create a seamless musical journey between two completely different artists. By utilizing sophisticated algorithms, this website generates a playlist that smoothly transitions from one artist to the other, regardless of their musical genres. It's a fascinating way to discover new music and explore the intricate connections between your favorite artists and those you've yet to encounter. Perfect for music enthusiasts looking for a fresh listening experience!"
+  name: Boil the Frog
+  url: http://boilthefrog.playlistmachinery.com/
