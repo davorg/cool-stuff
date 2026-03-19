@@ -1134,3 +1134,7 @@
   description: "Boil the Frog is a unique and entertaining music experience that lets you create a seamless musical journey between two completely different artists. By utilizing sophisticated algorithms, this website generates a playlist that smoothly transitions from one artist to the other, regardless of their musical genres. It's a fascinating way to discover new music and explore the intricate connections between your favorite artists and those you've yet to encounter. Perfect for music enthusiasts looking for a fresh listening experience!"
   name: Boil the Frog
   url: http://boilthefrog.playlistmachinery.com/
+- date: 2026-03-19
+  description: "Paper Planes is an interactive web experience that lets users create, fold, and send digital paper planes across the globe. As planes fly from city to city, they collect stamps from each destination and can be thrown further by anyone who catches them. The site's blend of creative interaction and the sense of global connection makes it an engaging and fun digital playground."
+  name: Paper Planes
+  url: https://paperplanes.world/
