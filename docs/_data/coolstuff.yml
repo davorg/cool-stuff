@@ -1138,3 +1138,7 @@
   description: "Paper Planes is an interactive web experience that lets users create, fold, and send digital paper planes across the globe. As planes fly from city to city, they collect stamps from each destination and can be thrown further by anyone who catches them. The site's blend of creative interaction and the sense of global connection makes it an engaging and fun digital playground."
   name: Paper Planes
   url: https://paperplanes.world/
+- date: 2026-03-20
+  description: "Petals is an interactive and meditative experience that allows you to engage with beautiful digital flowers. Through simple clicks and drags, you can explore the mesmerizing patterns and watch the flowers 'bloom' in soothing animations. It's not just visually delightful, but also a relaxing escape where you can create your own floral designs, offering a perfect blend of artistic creativity and tranquility. Discovering new patterns as you interact makes it a wonderful way to de-stress and unleash the artist within."
+  name: Petals
+  url: https://www.petals.app/
