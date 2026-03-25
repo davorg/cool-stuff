@@ -1150,3 +1150,7 @@
   description: 'PixelEmpires is an interactive community-driven canvas that allows users to collaboratively create pixel art in real-time. Each user is given a limited number of pixels they can place, fostering cooperation and collective decision-making as groups come together to create intricate designs. The canvas evolves continuously, reflecting the creativity and teamwork of its user base, making it a fun and engaging platform for art enthusiasts and community creators alike.'
   name: PixelEmpires
   url: https://www.pixelempire.online
+- date: 2026-03-25
+  description: 'Freerice is a non-profit website that makes donating rice to those in need as simple as playing a game. Each correct answer to a variety of trivia questions results in the donation of 10 grains of rice to help end hunger globally, through the World Food Programme. With a wide range of subjects to choose from, users can learn something new while contributing to a worthy cause, combining education with philanthropy in a unique and impactful way.'
+  name: Freerice
+  url: https://freerice.com
