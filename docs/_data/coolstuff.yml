@@ -1158,3 +1158,7 @@
   description: "Hatsimulator is an entertaining and quirky website where you can experiment with different types of hats on various dapper animals. It's a delightful mix of absurdity and creativity, offering a unique platform to test your fashion skills in an entirely virtual environment. Whether you're placing a top hat on a llama or trying out a beret on a penguin, Hatsimulator provides endless fun and a few laughs as you mix and match styles for the most fashionable creatures."
   name: Hatsimulator
   url: https://hatsimulator.com
+- date: 2026-03-26
+  description: "Plane Finder is a fascinating real-time flight tracking website that offers a bird's eye view of air traffic across the globe. With an intuitive interface and the ability to track individual flights, it caters both to aviation enthusiasts and those simply curious about the streams of planes traversing our skies. The site features detailed flight information and even offers playback capabilities, allowing users to delve into past flight data. Whether you're keeping tabs on a loved one's journey or just looking to marvel at the sheer volume of global air travel, Plane Finder provides an engaging and educational experience."
+  name: Flight Radar Map
+  url: https://planefinder.net
