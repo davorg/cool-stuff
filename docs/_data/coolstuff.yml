@@ -1154,3 +1154,7 @@
   description: 'Freerice is a non-profit website that makes donating rice to those in need as simple as playing a game. Each correct answer to a variety of trivia questions results in the donation of 10 grains of rice to help end hunger globally, through the World Food Programme. With a wide range of subjects to choose from, users can learn something new while contributing to a worthy cause, combining education with philanthropy in a unique and impactful way.'
   name: Freerice
   url: https://freerice.com
+- date: 2026-03-26
+  description: "Hatsimulator is an entertaining and quirky website where you can experiment with different types of hats on various dapper animals. It's a delightful mix of absurdity and creativity, offering a unique platform to test your fashion skills in an entirely virtual environment. Whether you're placing a top hat on a llama or trying out a beret on a penguin, Hatsimulator provides endless fun and a few laughs as you mix and match styles for the most fashionable creatures."
+  name: Hatsimulator
+  url: https://hatsimulator.com
