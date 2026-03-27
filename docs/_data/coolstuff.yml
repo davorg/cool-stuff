@@ -1162,3 +1162,7 @@
   description: "Plane Finder is a fascinating real-time flight tracking website that offers a bird's eye view of air traffic across the globe. With an intuitive interface and the ability to track individual flights, it caters both to aviation enthusiasts and those simply curious about the streams of planes traversing our skies. The site features detailed flight information and even offers playback capabilities, allowing users to delve into past flight data. Whether you're keeping tabs on a loved one's journey or just looking to marvel at the sheer volume of global air travel, Plane Finder provides an engaging and educational experience."
   name: Flight Radar Map
   url: https://planefinder.net
+- date: 2026-03-27
+  description: "Sandspiel is an incredible, interactive simulation game where you can unleash your creativity by manipulating virtual sand particles, water, fire, and more! The physics-based environment allows for endless experimentation with materials and reactions, making it both educational and entertaining. Whether you're building intricate landscapes or just enjoying the mesmerizing physics reactions, Sandspiel offers a relaxing and engaging digital sandbox experience."
+  name: Falling Sand Game
+  url: https://sandspiel.club
