@@ -1166,3 +1166,7 @@
   description: "Sandspiel is an incredible, interactive simulation game where you can unleash your creativity by manipulating virtual sand particles, water, fire, and more! The physics-based environment allows for endless experimentation with materials and reactions, making it both educational and entertaining. Whether you're building intricate landscapes or just enjoying the mesmerizing physics reactions, Sandspiel offers a relaxing and engaging digital sandbox experience."
   name: Falling Sand Game
   url: https://sandspiel.club
+- date: 2026-03-28
+  description: "Unleash your inner hacker with Hacker Typer, a fun and creative website that lets you simulate typing complex code like a movie hacker. The concept is simple and entertaining—just start typing and lines of 'code' will magically appear on the screen, giving the impression that you're executing some high-tech operation. It's a great way to amuse yourself or impress your friends with your 'coding' prowess without typing a single line of real code."
+  name: Hacker Typer
+  url: https://hackertyper.net
