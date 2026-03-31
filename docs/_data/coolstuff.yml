@@ -1170,3 +1170,7 @@
   description: "Unleash your inner hacker with Hacker Typer, a fun and creative website that lets you simulate typing complex code like a movie hacker. The concept is simple and entertaining—just start typing and lines of 'code' will magically appear on the screen, giving the impression that you're executing some high-tech operation. It's a great way to amuse yourself or impress your friends with your 'coding' prowess without typing a single line of real code."
   name: Hacker Typer
   url: https://hackertyper.net
+- date: 2026-03-31
+  description: "Stellarium Web brings the entire universe to your browser with its interactive star map. This virtual planetarium is incredibly user-friendly, allowing users to explore a realistic night sky from any location on Earth. With detailed information on stars, constellations, planets, and even satellites, this site is perfect for both novice stargazers and experienced astronomers who want to learn more about the cosmos with just a few clicks. It's educational, visually stunning, and a fantastic way to appreciate the wonders of the universe from your own home."
+  name: Stellarium Web
+  url: https://stellarium-web.org
