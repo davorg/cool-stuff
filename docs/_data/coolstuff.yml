@@ -1174,3 +1174,7 @@
   description: "Stellarium Web brings the entire universe to your browser with its interactive star map. This virtual planetarium is incredibly user-friendly, allowing users to explore a realistic night sky from any location on Earth. With detailed information on stars, constellations, planets, and even satellites, this site is perfect for both novice stargazers and experienced astronomers who want to learn more about the cosmos with just a few clicks. It's educational, visually stunning, and a fantastic way to appreciate the wonders of the universe from your own home."
   name: Stellarium Web
   url: https://stellarium-web.org
+- date: 2026-04-02
+  description: 'Raining.fm is an immersive audio experience website that lets you relax to the sound of raindrops falling on various surfaces. You can customize the intensity and mix it with soothing background music for a personalized ambient sound, perfect for boosting productivity, relaxing, or winding down after a hectic day. Its simple and intuitive interface makes it easy to transport yourself to a serene environment anywhere, anytime.'
+  name: Raining.fm
+  url: https://raining.fm/
