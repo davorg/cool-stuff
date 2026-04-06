@@ -1182,3 +1182,7 @@
   description: "Draw a Stickman is an interactive adventure game where your drawings come to life! Players are asked to draw a stickman and then guide it through a vibrant world filled with challenges and puzzles. It's a creative and fun experience that allows you to utilize your artistic skills in unique ways to solve problems and progress through fantastical stories. With whimsical animations and a charming narrative, it's a delightful website for all ages, encouraging creativity and imagination like no other!"
   name: Draw a Stickman
   url: https://www.drawastickman.com/
+- date: 2026-04-06
+  description: "It's a Small World is a delightful website that lets you explore how people, groups, and cultures are interconnected through a unique and interactive map. It uses data to visualize the complex web of connections in a beautiful and engaging manner. Whether you're curious about global cultures or just love data visualization, this website provides a perfect blend of education and fun, inviting you to see our world from a captivating new perspective."
+  name: It's a Small World
+  url: https://smallworld.rikiki.ai/
