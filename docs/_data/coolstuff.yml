@@ -1186,3 +1186,7 @@
   description: "It's a Small World is a delightful website that lets you explore how people, groups, and cultures are interconnected through a unique and interactive map. It uses data to visualize the complex web of connections in a beautiful and engaging manner. Whether you're curious about global cultures or just love data visualization, this website provides a perfect blend of education and fun, inviting you to see our world from a captivating new perspective."
   name: It's a Small World
   url: https://smallworld.rikiki.ai/
+- date: 2026-04-08
+  description: 'Geoguessr is an immersive and engaging online geography game that challenges your knowledge of the world by placing you in random locations using Google Street View. You must use visual clues like landscape, signs, and infrastructure to guess your exact location on a map. Perfect for explorers at heart, it combines travel and education in a fun, competitive way.'
+  name: Geoguessr
+  url: https://www.geoguessr.com/
