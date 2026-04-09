@@ -1190,3 +1190,7 @@
   description: 'Geoguessr is an immersive and engaging online geography game that challenges your knowledge of the world by placing you in random locations using Google Street View. You must use visual clues like landscape, signs, and infrastructure to guess your exact location on a map. Perfect for explorers at heart, it combines travel and education in a fun, competitive way.'
   name: Geoguessr
   url: https://www.geoguessr.com/
+- date: 2026-04-09
+  description: "SuperCook is an ingenious recipe search engine that helps you discover recipes based on the ingredients you already have on hand. It's perfect for reducing food waste and getting creative in the kitchen with what you have, all while expanding your culinary repertoire. Simply input your available ingredients, and SuperCook will provide a diverse array of recipes you can make, offering a fun and resourceful approach to cooking."
+  name: SuperCook
+  url: https://www.supercook.com/
