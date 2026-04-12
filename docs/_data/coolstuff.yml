@@ -1194,3 +1194,7 @@
   description: "SuperCook is an ingenious recipe search engine that helps you discover recipes based on the ingredients you already have on hand. It's perfect for reducing food waste and getting creative in the kitchen with what you have, all while expanding your culinary repertoire. Simply input your available ingredients, and SuperCook will provide a diverse array of recipes you can make, offering a fun and resourceful approach to cooking."
   name: SuperCook
   url: https://www.supercook.com/
+- date: 2026-04-12
+  description: "This X Does Not Exist is a fascinating portal into the world of AI-generated content. It showcases various models that create images, text, and concepts, all featuring items that don't exist in the real world, like non-existent people, cats, and more. Each visit offers a new perspective on AI's creative capabilities, sparking curiosity and imagination by demonstrating how machines mimic aspects of human creativity. It's a cool, mind-bending exploration of the potential and limits of artificial intelligence."
+  name: This X Does Not Exist
+  url: https://thisxdoesnotexist.com/
