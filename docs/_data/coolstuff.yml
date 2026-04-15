@@ -1202,3 +1202,7 @@
   description: "Mental Canvas is an innovative platform that takes visual storytelling to the next level by merging traditional drawing with 3D capabilities. It's like bridging the gap between static images and animated stories, allowing users to create interactive drawings that can be explored from multiple perspectives. This unique approach offers a fun and fresh way to express creativity, making it a hit among artists, storytellers, and anyone with a creative flair looking to bring their sketches to life in a whole new dimension."
   name: Mental Canvas
   url: https://mentalcanvas.com/
+- date: 2026-04-15
+  description: "The Smithsonian's Digital Volunteers: Transcription Center is an engaging platform where members of the public can contribute to the transcription and review of historical documents from the Smithsonian's vast collections. This unique crowd-sourced project invites users to delve into fascinating archival materials, such as diaries, scientific field notes, and manuscripts, making them more accessible to researchers and the general public. Participants not only help preserve history but can also discover intriguing stories and details about the past, making it a fun and intellectually rewarding experience."
+  name: "The Smithsonian's Digital Volunteers: Transcription Center"
+  url: https://transcription.si.edu/
