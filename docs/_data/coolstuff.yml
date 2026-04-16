@@ -1206,3 +1206,7 @@
   description: "The Smithsonian's Digital Volunteers: Transcription Center is an engaging platform where members of the public can contribute to the transcription and review of historical documents from the Smithsonian's vast collections. This unique crowd-sourced project invites users to delve into fascinating archival materials, such as diaries, scientific field notes, and manuscripts, making them more accessible to researchers and the general public. Participants not only help preserve history but can also discover intriguing stories and details about the past, making it a fun and intellectually rewarding experience."
   name: "The Smithsonian's Digital Volunteers: Transcription Center"
   url: https://transcription.si.edu/
+- date: 2026-04-16
+  description: "Ever wondered how big countries really are compared to each other? 'The True Size' lets you explore the actual size of countries as map projections often distort their appearance. Drag countries around a world map to compare their real size accurately, revealing fascinating geographical insights and challenging common perceptions. It's an engaging tool for geography enthusiasts and learners alike, offering a fresh perspective on the world."
+  name: The True Size
+  url: https://thetruesize.com/
