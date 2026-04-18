@@ -1214,3 +1214,7 @@
   description: "A Dark Room is a minimalist text-based game that begins in a murky world and gradually builds into an enthralling adventure. Initially starting with just simple, puzzling actions in a dark room, it grows into a complex simulation of resource management, exploration, and survival. Its powerful storytelling, expansive gameplay mechanics hidden beneath a deceptively simple interface, and the eerie, ambient vibe make it an incredibly engrossing experience that has captivated players worldwide. A delightful blend of mystery and strategy, it's a must-visit for fans of narrative-driven interactive fiction."
   name: A Dark Room
   url: https://adarkroom.doublespeakgames.com/
+- date: 2026-04-18
+  description: "Folding@home is an online citizen science project that harnesses the combined power of personal computers from all over the world to help researchers simulate protein folding and understand the causes of diseases. By installing the Folding@home software, users can contribute their unused processing power to help find cures for major diseases like cancer, Alzheimer's, and COVID-19. The platform not only allows individuals to support groundbreaking scientific research but also provides a unique look at how distributed computing works to solve real-world problems. It's a perfect blend of technology and altruism, making it a must-feature on 'Cool Stuff'."
+  name: Folding@home
+  url: https://foldingathome.org/
