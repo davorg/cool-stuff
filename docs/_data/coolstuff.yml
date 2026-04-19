@@ -1218,3 +1218,7 @@
   description: "Folding@home is an online citizen science project that harnesses the combined power of personal computers from all over the world to help researchers simulate protein folding and understand the causes of diseases. By installing the Folding@home software, users can contribute their unused processing power to help find cures for major diseases like cancer, Alzheimer's, and COVID-19. The platform not only allows individuals to support groundbreaking scientific research but also provides a unique look at how distributed computing works to solve real-world problems. It's a perfect blend of technology and altruism, making it a must-feature on 'Cool Stuff'."
   name: Folding@home
   url: https://foldingathome.org/
+- date: 2026-04-19
+  description: 'Monoface is a quirky and fun website that lets you randomly mix and match facial features to create peculiar new faces. With options to shuffle between different eyes, noses, mouths, and more, the combinations are seemingly endless, providing a delightful diversion that’s guaranteed to tickle your funny bone. It’s a simple concept executed with creativity and humor, making it an entertaining break from your daily routine.'
+  name: Monoface
+  url: http://www.mono-1.com/monoface/main.html
