@@ -1222,3 +1222,7 @@
   description: 'Monoface is a quirky and fun website that lets you randomly mix and match facial features to create peculiar new faces. With options to shuffle between different eyes, noses, mouths, and more, the combinations are seemingly endless, providing a delightful diversion that’s guaranteed to tickle your funny bone. It’s a simple concept executed with creativity and humor, making it an entertaining break from your daily routine.'
   name: Monoface
   url: http://www.mono-1.com/monoface/main.html
+- date: 2026-04-22
+  description: "FlowingData is an exceptional site for anyone interested in the intersection of data, visualization, and storytelling. Run by Nathan Yau, a statistician and data expert, the site explores how visually presented data can reveal hidden stories and trends. It offers a unique blend of fresh visualizations, guides on creating your own graphs, and thought-provoking articles, making complex datasets accessible and interesting to everyone. Whether you're a data enthusiast or just someone curious about how numbers shape our world, FlowingData has something engaging to offer."
+  name: FlowingData
+  url: https://flowingdata.com
