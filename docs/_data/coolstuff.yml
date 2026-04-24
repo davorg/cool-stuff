@@ -1226,3 +1226,7 @@
   description: "FlowingData is an exceptional site for anyone interested in the intersection of data, visualization, and storytelling. Run by Nathan Yau, a statistician and data expert, the site explores how visually presented data can reveal hidden stories and trends. It offers a unique blend of fresh visualizations, guides on creating your own graphs, and thought-provoking articles, making complex datasets accessible and interesting to everyone. Whether you're a data enthusiast or just someone curious about how numbers shape our world, FlowingData has something engaging to offer."
   name: FlowingData
   url: https://flowingdata.com
+- date: 2026-04-24
+  description: "The History of the Earth is a fascinating interactive timeline that provides an immersive exploration of the planet's history from its formation to today. Users can scroll through billions of years of Earth's geological eras, noting major events like the emergence of life, mass extinctions, and tectonic shifts. This site combines stunning visuals with educational insights, making it a captivating resource for both budding geologists and curious learners alike."
+  name: The History of the Earth
+  url: https://historyoftheearth.quora.com/
