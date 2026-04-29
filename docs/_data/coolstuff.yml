@@ -1242,3 +1242,7 @@
   description: "Mouse Runner is a delightful browser-based game where you guide a mouse through a maze of challenges and obstacles. It's a simple yet engaging way to test your reflexes and strategic thinking, offering a fresh and fun take on the classic maze-running concept. With its vibrant graphics and increasing level of difficulty, Mouse Runner provides endless entertainment for anyone looking to take a short break and immerse themselves in a bit of playful escapism."
   name: Mouse Runner
   url: https://mouserunner.com
+- date: 2026-04-29
+  description: "Fractal Lab is a fascinating online tool that lets users explore, visualize, and manipulate complex fractals in 3D. With an intuitive interface and a powerful renderer, this website allows you to dive into the mesmerizing world of fractals, generate intricate structures, and even customize the colors and lighting effects. It's a great fusion of art, math, and technology, perfect for unleashing creativity or just escaping into the aesthetic beauty of fractals."
+  name: Fractal Lab
+  url: https://sub.blue/fractal-lab
