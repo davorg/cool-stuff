@@ -73,6 +73,12 @@ my $res = $client->createChatCompletion({
   }
 });
 
+if ($res->error) {
+  use Data::Printer;
+  p $res->res->json;
+  exit 1;
+}
+
 my $text = $res->res->json->{choices}[0]{message}{content};
 $text = encode('UTF-8', $text);
 
