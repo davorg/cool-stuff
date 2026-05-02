@@ -1254,3 +1254,7 @@
   description: "Little Visuals is an artistic treasure trove for photographers, designers, and creatives alike. The site offers a collection of high-resolution, stunningly beautiful photographs that were released as part of a passion project. Each image is free to download and use, symbolizing the power of freely shared creativity. Whether you're looking for inspiration for a project or simply want to appreciate some breathtaking visuals, Little Visuals leaves a lasting impression with its exceptional quality and variety."
   name: Little Visuals
   url: https://littlevisuals.co/
+- date: 2026-05-02
+  description: 'Histography is a stunning visual exploration of historical events across time, represented on an interactive timeline that spans from the Big Bang to present day. It consolidates articles, videos, and multimedia content about significant events dotted throughout history, sourced from Wikipedia. Its dynamic and engaging interface makes learning about history both educational and entertaining, providing users with zoomable, user-friendly navigation to explore events by time period or theme.'
+  name: Histography
+  url: http://histography.io/
