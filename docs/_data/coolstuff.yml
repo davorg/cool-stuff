@@ -1258,3 +1258,7 @@
   description: 'Histography is a stunning visual exploration of historical events across time, represented on an interactive timeline that spans from the Big Bang to present day. It consolidates articles, videos, and multimedia content about significant events dotted throughout history, sourced from Wikipedia. Its dynamic and engaging interface makes learning about history both educational and entertaining, providing users with zoomable, user-friendly navigation to explore events by time period or theme.'
   name: Histography
   url: http://histography.io/
+- date: 2026-05-03
+  description: 'Zooniverse is a unique and engaging platform that allows you to contribute to real scientific research projects by helping researchers analyze vast data sets. From classifying galaxies to transcribing historical documents, users can participate in various projects that match their interests. This citizen science hub is cool because it empowers anyone to be part of the scientific process while serving scientific communities worldwide with valuable insights and data interpretations.'
+  name: Zooniverse
+  url: https://www.zooniverse.org
