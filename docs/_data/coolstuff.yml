@@ -1262,3 +1262,7 @@
   description: 'Zooniverse is a unique and engaging platform that allows you to contribute to real scientific research projects by helping researchers analyze vast data sets. From classifying galaxies to transcribing historical documents, users can participate in various projects that match their interests. This citizen science hub is cool because it empowers anyone to be part of the scientific process while serving scientific communities worldwide with valuable insights and data interpretations.'
   name: Zooniverse
   url: https://www.zooniverse.org
+- date: 2026-05-04
+  description: "This American Life offers a unique blend of stories that captivate the imagination through radio journalism. Each episode is structured around a theme, offering narratives that are funny, sad, touching, or thought-provoking. It's an exquisite exploration of the human experience, inviting you to dive into the lives and stories of others, often with surprising twists and fascinating insights."
+  name: This American Life
+  url: https://www.thisamericanlife.org/
