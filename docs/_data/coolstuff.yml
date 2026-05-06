@@ -1270,3 +1270,7 @@
   description: 'Chromatica immerses you into a visual and auditory experience that reacts in real-time as you interact with different sound-generating objects and environments. Each interaction alters the visual aesthetic and the auditory output, creating a personalized audiovisual journey. This dynamic and interactive web application highlights the sublime synergy between music and art, making it a fun and engaging way to explore creativity.'
   name: Chromatica
   url: https://chromatica.app
+- date: 2026-05-06
+  description: "Scribblenauts Unlimited offers a unique and creative puzzle-solving experience where players use their imagination to create any object they can think of by simply typing it into the game. The game encourages creativity and problem-solving as players help the main character, Maxwell, solve challenges by conjuring up items and interacting with them in amusing and sometimes unexpected ways. It's a playground for creativity, logic, and fun that invites players of all ages to explore a whimsical world where words come to life."
+  name: Scribblenauts Unlimited
+  url: http://www.scribblenautsremix.com/
