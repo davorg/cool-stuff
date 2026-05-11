@@ -1278,3 +1278,7 @@
   description: "Instructables is a fantastic website where creative minds come together to share DIY projects, craft ideas, and how-tos across a wide range of categories. Whether you're looking to tackle electronics projects, simple arts and crafts, or even cooking recipes, Instructables provides detailed step-by-step guides and a platform for users to upload their own creations. It's a hub for innovation and inspiration where you can learn something new and share your own genius ideas with a community of like-minded makers."
   name: Instructables
   url: https://www.instructables.com/
+- date: 2026-05-11
+  description: "Virtual Piano is an online platform that allows anyone to play the piano with ease, regardless of whether they have any musical training or not. With a user-friendly interface, you can click on the piano keys or use your computer's keyboard to play. It's a fantastic tool for aspiring musicians to practice, experiment with different notes, or simply unwind by playing some tunes. The site offers a wide selection of music sheets and different instrument sounds, making it a versatile and fun musical playground."
+  name: Virtual Piano
+  url: https://virtualpiano.net/
