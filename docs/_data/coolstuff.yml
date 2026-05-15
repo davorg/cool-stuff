@@ -1282,3 +1282,7 @@
   description: "Virtual Piano is an online platform that allows anyone to play the piano with ease, regardless of whether they have any musical training or not. With a user-friendly interface, you can click on the piano keys or use your computer's keyboard to play. It's a fantastic tool for aspiring musicians to practice, experiment with different notes, or simply unwind by playing some tunes. The site offers a wide selection of music sheets and different instrument sounds, making it a versatile and fun musical playground."
   name: Virtual Piano
   url: https://virtualpiano.net/
+- date: 2026-05-15
+  description: 'Notable is an innovative online platform that transforms the way you learn about medical problems through interactive and immersive case studies. This is an invaluable resource for medical students and professionals, offering real-life medical scenarios where you can test your diagnostic skills. It’s cool because it combines education and engagement, challenging users to think critically and engage with content in a practical, hands-on manner.'
+  name: Notable
+  url: https://www.notable.com
