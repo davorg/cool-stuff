@@ -1286,3 +1286,7 @@
   description: 'Notable is an innovative online platform that transforms the way you learn about medical problems through interactive and immersive case studies. This is an invaluable resource for medical students and professionals, offering real-life medical scenarios where you can test your diagnostic skills. It’s cool because it combines education and engagement, challenging users to think critically and engage with content in a practical, hands-on manner.'
   name: Notable
   url: https://www.notable.com
+- date: 2026-05-17
+  description: "Crumbles is a unique and entertaining text-to-speech website that lets you create audio clips using various celebrity and character voices by simply typing any text you like. The site offers a fun twist by automating the selection of words from your input and stitching them together with lines from famous sources, creating humorous and often unexpected speech outcomes. It's perfect for a quick laugh or for sending amusing voice messages to friends."
+  name: Crumbles
+  url: https://crumbles.co/
