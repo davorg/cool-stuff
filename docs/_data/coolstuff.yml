@@ -1290,3 +1290,7 @@
   description: "Crumbles is a unique and entertaining text-to-speech website that lets you create audio clips using various celebrity and character voices by simply typing any text you like. The site offers a fun twist by automating the selection of words from your input and stitching them together with lines from famous sources, creating humorous and often unexpected speech outcomes. It's perfect for a quick laugh or for sending amusing voice messages to friends."
   name: Crumbles
   url: https://crumbles.co/
+- date: 2026-05-18
+  description: "Coub is a platform for creating and sharing short looping videos with sound, known as 'coubs.' With a large library of user-generated content, Coub offers endless entertainment through creative and often hilarious clips. Its seamless integration of video and sound makes it a unique blend of GIF and video, providing a fun and engaging way to share stories, memes, or artistic expressions. Whether you're here to create your own coubs or explore what's trending, Coub is a fantastic place to discover creative works from around the world."
+  name: Coub
+  url: https://coub.com/
