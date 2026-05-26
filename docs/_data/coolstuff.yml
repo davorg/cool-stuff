@@ -1306,3 +1306,7 @@
   description: "Design Seeds is a captivating website that offers an extensive array of color palettes inspired by nature and everyday life. Created by color enthusiast Jessica Colaluca, it provides endless inspiration for designers, artists, and anyone passionate about colors. This site makes it easy to explore hues that harmonize perfectly, presenting them through beautiful imagery that showcases their vibrancy and allure. Whether you're working on a design project or just appreciate the artistic spectrum in the world around us, Design Seeds is a delightful and enriching destination."
   name: Design Seeds
   url: https://www.design-seeds.com/
+- date: 2026-05-26
+  description: "Map of Metal is a visually stunning interactive map that charts the history and evolution of metal music. Users can explore various subgenres like Thrash Metal, Death Metal, and Doom Metal through an engaging interface that traces the sound, influence, and ambiance of each style. Each genre is accompanied by curated playlists and historical context, making it a treasure trove for metal enthusiasts and those curious about the genre's diverse landscape. The map's immersive design and extensive musical selections make it a unique celebration of metal's rich and varied legacy."
+  name: Map of Metal
+  url: http://mapofmetal.com
