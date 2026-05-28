@@ -1314,3 +1314,7 @@
   description: "RadioTuna is an online music platform that allows users to discover and listen to internet radio stations from around the world. The site's innovative and attractive visual search interface lets you explore new genres and artists with ease, and its algorithm recommends music based on your listening habits. This makes RadioTuna a fantastic discovery tool for music lovers looking to explore the rich diversity of global radio content."
   name: RadioTuna
   url: http://radiotuna.com/
+- date: 2026-05-28
+  description: "Randall's Improbable Road Trip is a unique interactive comic adventure from the creator of XKCD, Randall Munroe. This playful website invites visitors to plot a road trip across a fictional map populated with whimsical locations and challenges. It's a fun, creative way to explore the humorous side of travel planning, offering a delightful break from the ordinary and a tour of the quirky imagination of one of the web's beloved comic artists."
+  name: Randall's Improbable Road Trip
+  url: https://xkcd.org/2257/
