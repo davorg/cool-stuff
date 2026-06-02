@@ -1326,3 +1326,7 @@
   description: "The Museum of Online Museums (MoOM) is a curated repository that brings together fascinating collections from around the web. It's a unique platform showcasing a diverse range of museums, galleries, and personal collections—from the quirky to the classic. Whether you're interested in art, history, natural curiosities, or pop culture artifacts, MoOM offers a treasure trove of creative and educational content. This website is perfect for armchair travelers and curious minds looking to explore the world from the comfort of their own home."
   name: The Museum of Online Museums (MoOM)
   url: http://www.coudal.com/moom/
+- date: 2026-06-02
+  description: "Patience is a unique interactive art project that invites visitors to watch paint dry in real-time by viewing a live stream of a wall with fresh paint. Developed as a playful take on the classic phrase 'watching paint dry,' the site provides an unexpectedly meditative experience. The simplicity of the concept challenges our fast-paced digital society to slow down and appreciate the beauty in seemingly mundane activities."
+  name: Patience
+  url: https://www.redacted.ch/patience/
