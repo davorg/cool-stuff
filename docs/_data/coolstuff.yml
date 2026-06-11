@@ -1350,3 +1350,7 @@
   description: "The Museum of Neurath is an online tribute to the visual legacy of Otto Neurath, showcasing a fascinating collection of Isotype graphics that informed and transformed the way we visualize complex data. This virtual museum not only lets you explore historical visualizations but also educates you on the methodology behind creating an infographics style that continues to influence designers today. It's an inspiring resource for design enthusiasts and those interested in the history of visual communication."
   name: Museum of Neurath
   url: https://museumofneurath.com
+- date: 2026-06-11
+  description: "Global Forest Watch offers an innovative and interactive online platform for monitoring the world's forests in near-real-time. It provides users with a wide array of data, including deforestation hotspots, forest change over time, and land use data. This empowers individuals, governments, and organizations to take informed decisions on forest conservation and sustainable land use. By visualizing critical environmental changes and trends, Global Forest Watch stands as a powerful tool for bolstering global efforts in combating deforestation and climate change."
+  name: Global Forest Watch
+  url: https://www.globalforestwatch.org
