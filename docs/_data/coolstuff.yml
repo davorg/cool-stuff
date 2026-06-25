@@ -1378,3 +1378,7 @@
   description: "Neal.fun's 'Draw Your Island' offers an engaging escape into creativity where users can design their own personalized islands using a palette of tools including vegetation, mountains, and more. This whimsical website not only challenges your artistic skills but brings to life the imaginative process of island creation. It's a delightful break from the mundane, inviting users to lean into their creativity and design their idyllic paradise."
   name: 'Neal.fun - Draw Your Island'
   url: https://neal.fun/draw-your-island/
+- date: 2026-06-25
+  description: 'Explore the concept of the Infinite Monkey Theorem with this fun and engaging website. The Infinite Monkey Typing allows you to watch a virtual monkey randomize keystrokes in real-time, inching closer to creating the complete works of Shakespeare. This playful application is a light-hearted computational experiment that brings an abstract mathematical theory to life, offering a fascinating combination of chance and creativity for those curious about probability and literature.'
+  name: The Infinite Monkey Typing
+  url: http://something.com/monkey
