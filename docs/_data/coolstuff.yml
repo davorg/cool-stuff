@@ -1382,3 +1382,7 @@
   description: 'Explore the concept of the Infinite Monkey Theorem with this fun and engaging website. The Infinite Monkey Typing allows you to watch a virtual monkey randomize keystrokes in real-time, inching closer to creating the complete works of Shakespeare. This playful application is a light-hearted computational experiment that brings an abstract mathematical theory to life, offering a fascinating combination of chance and creativity for those curious about probability and literature.'
   name: The Infinite Monkey Typing
   url: http://something.com/monkey
+- date: 2026-06-27
+  description: "The Baby Name Wizard offers a unique and playful way to explore baby names with its NameVoyager feature. It lets you explore data trends for names over time through interactive graphs. You can see the rise and fall of your favorite names and discover new ones you're likely to appreciate, based on historical popularity. It's a fun combination of cultural exploration and personal decision-making for anyone interested in baby names or naming trends."
+  name: The Baby Name Wizard
+  url: https://www.babynamewizard.com/
