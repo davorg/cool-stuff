@@ -1386,3 +1386,7 @@
   description: "The Baby Name Wizard offers a unique and playful way to explore baby names with its NameVoyager feature. It lets you explore data trends for names over time through interactive graphs. You can see the rise and fall of your favorite names and discover new ones you're likely to appreciate, based on historical popularity. It's a fun combination of cultural exploration and personal decision-making for anyone interested in baby names or naming trends."
   name: The Baby Name Wizard
   url: https://www.babynamewizard.com/
+- date: 2026-06-28
+  description: "Music for Programming is a unique website that curates specially crafted music playlists designed to enhance concentration and productivity while you code or work on any focused tasks. Each mix is a meticulously selected blend of ambient music, electronic soundscapes, and minimal beats, all perfectly suited for creating an immersive, distraction-free environment. Whether you're a programmer, student, or creative professional, these soundtracks provide the perfect auditory backdrop to keep you in the zone."
+  name: Music for Programming
+  url: https://musicforprogramming.net/
