@@ -1402,3 +1402,7 @@
   description: "FutureMe is a unique website that allows you to write letters to your future self. Whether it's a personal message, a list of goals, or words of encouragement, you can set a date in the future for your letter to be delivered via email. This site is cool because it offers a reflective experience, encouraging users to pause and consider their current life, aspirations, and personal growth over time."
   name: FutureMe
   url: https://www.futureme.org/
+- date: 2026-07-02
+  description: "Universe Within is a brilliantly interactive website that allows users to explore the universe from the microscopic to the cosmic scale. With an intuitive sliding interface, you can travel through different magnitudes of space, from the smallest particles measured in nanometers to the massive scale of galaxies. It's an educational and mind-bending experience that visually and conceptually illustrates the vastness of the universe in a visually appealing way."
+  name: Universe Within
+  url: http://htwins.net/scale2/
