@@ -1406,3 +1406,7 @@
   description: "Universe Within is a brilliantly interactive website that allows users to explore the universe from the microscopic to the cosmic scale. With an intuitive sliding interface, you can travel through different magnitudes of space, from the smallest particles measured in nanometers to the massive scale of galaxies. It's an educational and mind-bending experience that visually and conceptually illustrates the vastness of the universe in a visually appealing way."
   name: Universe Within
   url: http://htwins.net/scale2/
+- date: 2026-07-03
+  description: 'EyeWire is a fascinating citizen science game that invites players to explore the intricate labyrinth of the human brain as they map out neuron branches in 3D. By participating in this unique project, players contribute to groundbreaking neuroscience research from the comfort of their own homes. The platform turns a complex scientific task into an engaging puzzle challenge, making it a fun and educational experience for anyone interested in biology and brain science.'
+  name: EyeWire
+  url: https://eyewire.org
