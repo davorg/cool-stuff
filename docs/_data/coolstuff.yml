@@ -1430,3 +1430,7 @@
   description: 'MapLoco is a fascinating website that allows users to create customized maps that showcase where visitors to your website come from. This site is particularly cool for bloggers and businesses who want a visually engaging way to display their reach across the globe. By generating a world map that highlights visitor locations, MapLoco combines geographical data with fun visuals, making global analytics more interactive and enjoyable to explore.'
   name: MapLoco
   url: https://www.maploco.com
+- date: 2026-07-15
+  description: "16 Personalities is a unique website that offers a highly engaging and interactive personality test based on the Myers-Briggs Type Indicator. It's a fantastic way to gain insightful details about your personality and behavior patterns, complete with detailed descriptions and visualized results. The site provides not only a personalized profile but also tips on improving personal and professional relationships based on your personality type, making it a fascinating blend of psychology and self-discovery."
+  name: 16 Personalities
+  url: https://www.16personalities.com
