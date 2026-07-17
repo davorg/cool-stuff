@@ -1438,3 +1438,7 @@
   description: "Pointer Pointer is a whimsical and entertaining website where the main attraction is your mouse pointer. When you place your cursor anywhere on the screen, the site almost magically displays a photo of a person pointing directly at it. It's a simple concept, but the humorous combination of random images and exact pointer placement creates a uniquely amusing experience. Perfect for a quick smile or to share with friends."
   name: Pointer Pointer
   url: http://pointerpointer.com/
+- date: 2026-07-17
+  description: 'PokeMap is an exciting web application for Pokemon fans and players of the mobile game Pokemon GO. The site provides an interactive map that displays real-time locations of Pokemon, PokeStops, and Gyms around the globe. It’s a fantastic tool for trainers looking to plan their next adventure or simply discover where rare Pokemon are hiding near them. With its vibrant community and up-to-date information, PokeMap helps bring the beloved world of Pokemon to life in a fun and engaging way.'
+  name: PokeMap
+  url: https://www.pokemap.net
