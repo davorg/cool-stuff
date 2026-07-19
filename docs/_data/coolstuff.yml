@@ -1442,3 +1442,7 @@
   description: 'PokeMap is an exciting web application for Pokemon fans and players of the mobile game Pokemon GO. The site provides an interactive map that displays real-time locations of Pokemon, PokeStops, and Gyms around the globe. It’s a fantastic tool for trainers looking to plan their next adventure or simply discover where rare Pokemon are hiding near them. With its vibrant community and up-to-date information, PokeMap helps bring the beloved world of Pokemon to life in a fun and engaging way.'
   name: PokeMap
   url: https://www.pokemap.net
+- date: 2026-07-19
+  description: 'AI Dungeon is an endlessly dynamic and interactive text-based adventure game powered by artificial intelligence. Players can embark on boundless journeys by choosing any setting or scenario and the AI will craft a unique storyline based on their input. The sheer creativity and unpredictability of the AI-generated content makes AI Dungeon incredibly fun and engaging. Whether you want to explore fantastical realms, solve mysteries, or create completely original stories, AI Dungeon offers a creative outlet and an immersive experience like no other.'
+  name: AI Dungeon
+  url: https://play.aidungeon.io
