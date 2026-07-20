@@ -1446,3 +1446,7 @@
   description: 'AI Dungeon is an endlessly dynamic and interactive text-based adventure game powered by artificial intelligence. Players can embark on boundless journeys by choosing any setting or scenario and the AI will craft a unique storyline based on their input. The sheer creativity and unpredictability of the AI-generated content makes AI Dungeon incredibly fun and engaging. Whether you want to explore fantastical realms, solve mysteries, or create completely original stories, AI Dungeon offers a creative outlet and an immersive experience like no other.'
   name: AI Dungeon
   url: https://play.aidungeon.io
+- date: 2026-07-20
+  description: "Neon Future is an immersive website experience that blends art, music, and technology to create a virtual world filled with vibrant, animated visuals and dynamic soundscapes. Its interactive interface allows users to explore the digital art realm by clicking and dragging around the page while the site responds with mesmerizing neon effects and a futuristic soundtrack. It's a captivating escape from the ordinary, offering a unique digital art experience that is both stimulating and soothing."
+  name: Neon Future
+  url: https://neonfuture.fr/
