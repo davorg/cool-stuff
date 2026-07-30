@@ -1478,3 +1478,7 @@
   description: "Weird Al Karaoke is an entertaining website where your favorite song lyrics are humorously transformed into parody versions mimicking the style of Weird Al Yankovic. Simply type in any song title, and the site automatically generates a funny and bizarre parody version with new lyrics, making this a perfect destination for both music lovers and humor enthusiasts. It's a digital playground for those who revel in the absurd and enjoy a good laugh while singing along to their favorite tunes."
   name: Weird Al Karaoke
   url: https://weirdal.karaoke
+- date: 2026-07-30
+  description: "Wait But Why is a clever and engaging website that delves into complex topics through long-form articles with a unique, humorous twist. Created by Tim Urban, it explores a range of subjects including science, technology, and philosophy, often accompanied by distinctive hand-drawn illustrations. It's a great site to visit if you're looking for thought-provoking and entertaining content that balances depth with wit."
+  name: WaitButWhy
+  url: https://waitbutwhy.com
