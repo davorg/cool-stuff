@@ -1486,3 +1486,7 @@
   description: "Recursive Drawing is a fascinating online tool that allows users to create intricate, infinite patterns through recursion. By drawing a motif with the embedded tools, and applying it recursively within itself, users can produce mesmerizing images that explore mathematical and artistic creativity. It's an accessible way to dive into concepts of recursion while making unique and beautiful digital art."
   name: Recursive Drawing
   url: https://recursivedrawing.com
+- date: 2026-08-02
+  description: "Exploratorium's Sound Uncovered is a fascinating interactive website that dives deep into the world of sound and how we perceive it. It offers a range of experiments and auditory illusions that explore how sound interacts with the brain and physics. This virtual exhibit is not only entertaining but also educational, making it an excellent resource for both curious minds and educators looking to demonstrate concepts of sound and hearing. The well-designed interface and engaging content make it a must-feature for any site looking to share interesting ways to learn about the world around us."
+  name: Exploratorium's Sound Uncovered
+  url: https://www.exploratorium.edu/apps/sound-uncovered
