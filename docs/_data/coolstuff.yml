@@ -1490,3 +1490,7 @@
   description: "Exploratorium's Sound Uncovered is a fascinating interactive website that dives deep into the world of sound and how we perceive it. It offers a range of experiments and auditory illusions that explore how sound interacts with the brain and physics. This virtual exhibit is not only entertaining but also educational, making it an excellent resource for both curious minds and educators looking to demonstrate concepts of sound and hearing. The well-designed interface and engaging content make it a must-feature for any site looking to share interesting ways to learn about the world around us."
   name: Exploratorium's Sound Uncovered
   url: https://www.exploratorium.edu/apps/sound-uncovered
+- date: 2026-08-04
+  description: "Engare is a mesmerizing geometric puzzle game that combines mathematics and art to create intricate and beautiful patterns. The game encourages players to explore the relationship between shapes and motion, using rotating and sliding dots to form complex geometric artworks. Engare is not just about problem-solving, it's also an artistic experience that can soothe the mind and inspire creativity, making it a perfect feature for 'Cool Stuff'."
+  name: Engare
+  url: https://engare.designplay.com/
