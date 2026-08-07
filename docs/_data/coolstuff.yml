@@ -1498,3 +1498,7 @@
   description: 'How Secure Is My Password? is a fun, informative tool that visually illustrates the strength and security of your passwords by calculating how long it would take for your password to be cracked. Users can input any hypothetical password to test its resilience against hacking attempts, making it an engaging way to learn about password security and understand the importance of choosing strong, unique passwords.'
   name: How Secure Is My Password?
   url: https://www.security.org/how-secure-is-my-password/
+- date: 2026-08-07
+  description: "FlightAware is a fascinating website that allows users to track flights in real-time across the globe. With detailed maps showing the exact position of flights, you can watch airplanes as they traverse the skies, gaining insights into flight paths, altitudes, speeds, and more. It's perfect for aviation enthusiasts, frequent travelers tracking their flights, or anyone curious about the intricate choreography of air traffic worldwide."
+  name: FlightAware
+  url: https://flightaware.com
