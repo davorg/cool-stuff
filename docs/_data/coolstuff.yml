@@ -1502,3 +1502,7 @@
   description: "FlightAware is a fascinating website that allows users to track flights in real-time across the globe. With detailed maps showing the exact position of flights, you can watch airplanes as they traverse the skies, gaining insights into flight paths, altitudes, speeds, and more. It's perfect for aviation enthusiasts, frequent travelers tracking their flights, or anyone curious about the intricate choreography of air traffic worldwide."
   name: FlightAware
   url: https://flightaware.com
+- date: 2026-08-11
+  description: "The Wiki Game is a fun and challenging online game that tasks players with navigating from one Wikipedia article to another using the fewest possible clicks. It's a unique way to explore the vast world of information on Wikipedia while testing your problem-solving skills and knowledge of seemingly unrelated topics. Whether you're a history buff or just looking for a fun way to while away some time, The Wiki Game offers endless entertainment and intellectual challenge."
+  name: The Wiki Game
+  url: https://www.thewikigame.com
