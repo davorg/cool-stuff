@@ -1506,3 +1506,7 @@
   description: "The Wiki Game is a fun and challenging online game that tasks players with navigating from one Wikipedia article to another using the fewest possible clicks. It's a unique way to explore the vast world of information on Wikipedia while testing your problem-solving skills and knowledge of seemingly unrelated topics. Whether you're a history buff or just looking for a fun way to while away some time, The Wiki Game offers endless entertainment and intellectual challenge."
   name: The Wiki Game
   url: https://www.thewikigame.com
+- date: 2026-08-12
+  description: 'The Museum of Endangered Sounds is a fascinating digital archive dedicated to preserving the sounds of technologies and devices that have faded away with time. From the nostalgic dial-up tone of modems to the classic whirr of a rotary phone, this site allows you to take a trip down memory lane by listening to the characteristic sounds that accompanied the gadgets of yesteryears. This unique museum captures a part of tech history that often goes unnoticed, allowing both the curious and the nostalgic to experience the auditory past in an engaging and memorable way.'
+  name: The Museum of Endangered Sounds
+  url: https://savethesounds.info
