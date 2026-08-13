@@ -1510,3 +1510,7 @@
   description: 'The Museum of Endangered Sounds is a fascinating digital archive dedicated to preserving the sounds of technologies and devices that have faded away with time. From the nostalgic dial-up tone of modems to the classic whirr of a rotary phone, this site allows you to take a trip down memory lane by listening to the characteristic sounds that accompanied the gadgets of yesteryears. This unique museum captures a part of tech history that often goes unnoticed, allowing both the curious and the nostalgic to experience the auditory past in an engaging and memorable way.'
   name: The Museum of Endangered Sounds
   url: https://savethesounds.info
+- date: 2026-08-13
+  description: "Starscape is a mesmerizing site that brings the night sky right to your screen, offering an interactive and educational experience for stargazers of all ages. With a detailed 3D map of the stars, you can explore constellations, learn fascinating facts about different celestial bodies, and even track satellites and space stations as they soar across the sky. It's a superb tool for anyone interested in astronomy or simply looking to enjoy the beauty of the universe."
+  name: Starscape
+  url: https://starscape.co/
