@@ -1514,3 +1514,7 @@
   description: "Starscape is a mesmerizing site that brings the night sky right to your screen, offering an interactive and educational experience for stargazers of all ages. With a detailed 3D map of the stars, you can explore constellations, learn fascinating facts about different celestial bodies, and even track satellites and space stations as they soar across the sky. It's a superb tool for anyone interested in astronomy or simply looking to enjoy the beauty of the universe."
   name: Starscape
   url: https://starscape.co/
+- date: 2026-08-14
+  description: "Deep Dream Generator is a fascinating platform where you can transform ordinary photographs into dream-like works of art using artificial neural networks. By leveraging Google's deep dream algorithms, this site generates surreal and aesthetically captivating images reminiscent of the original photographs but twisted into hypnotic, dream-inspired visuals. It's a creative playground for those looking to explore the intersection of technology and art, providing endless possibilities for artistic exploration and expression."
+  name: Deep Dream Generator
+  url: https://deepdreamgenerator.com/
