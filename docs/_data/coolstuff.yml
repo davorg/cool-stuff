@@ -1530,3 +1530,7 @@
   description: "Weird Box is a quirky website that turns your Instagram photos into a personalized short film. Connect your Instagram account and watch as your photos are transformed into a dramatic narrative, complete with music and storyboard-style presentation. It's a fun and creative way to see your own photos in a new light and share a unique experience with friends. Perfect for those who love storytelling and enjoy a good dose of digital whimsy."
   name: Weird Box
   url: http://madewith.cc/weird-box/
+- date: 2026-08-19
+  description: 'Sight Machine is an interactive digital art project that takes any image and transforms it into a kaleidoscopic visual experience. Created using advanced computer vision algorithms, the website allows users to upload photos which are then stylized into mesmerizing patterns, offering a unique blend of art and technology. This can be a fun way to see familiar images in a completely new light, as they are turned into living, dynamic art right before your eyes.'
+  name: sight machine
+  url: https://sightmachine.com
