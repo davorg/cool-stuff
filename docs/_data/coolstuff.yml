@@ -1534,3 +1534,7 @@
   description: 'Sight Machine is an interactive digital art project that takes any image and transforms it into a kaleidoscopic visual experience. Created using advanced computer vision algorithms, the website allows users to upload photos which are then stylized into mesmerizing patterns, offering a unique blend of art and technology. This can be a fun way to see familiar images in a completely new light, as they are turned into living, dynamic art right before your eyes.'
   name: sight machine
   url: https://sightmachine.com
+- date: 2026-08-21
+  description: "If you love traveling and experiencing new views without leaving your couch, Window-SwapExclusive is a perfect online escape for you! This website allows users to swap views from windows around the world with stunning scenic locales captured from someone else's windowpane. You can upload your own window view and enjoy a peaceful window into a world where you can discover endless countries, landscapes, and city scenes. It's a heartwarming reminder of the world's beauty, perfect for a virtual escape anytime you feel like taking a mini-vacation."
+  name: Window-SwapExclusive
+  url: https://www.window-swap.com/exclusive
