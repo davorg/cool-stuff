@@ -1546,3 +1546,7 @@
   description: 'Spoonflower is a delightful platform that allows artists and crafters to design their own fabric, wallpaper, and home decor items. What makes this website particularly cool is its vibrant community of designers creating unique patterns and prints, from whimsical and colorful to elegant and sophisticated designs. Users can either create their own designs or explore and purchase from thousands of patterns made by independent artists worldwide. This creative ecosystem fosters innovation and creativity, making it an inspiring place for DIY enthusiasts and professional designers alike.'
   name: Spoonflower
   url: https://www.spoonflower.com/
+- date: 2026-08-26
+  description: "Blendoku is a captivating and challenging puzzle game that takes the traditional color sequencing concept and elevates it to a new level. It's a mix of Sudoku with colors, where you need to arrange colors by hue and saturation into the correct order. Perfect for anyone who loves color theory or wants to sharpen their perception of colors, Blendoku offers various levels of difficulty to keep players engaged and visually stimulated as they progress through its beautifully crafted puzzles."
+  name: Blendoku
+  url: http://www.blendoku.com/
