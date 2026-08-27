@@ -1550,3 +1550,7 @@
   description: "Blendoku is a captivating and challenging puzzle game that takes the traditional color sequencing concept and elevates it to a new level. It's a mix of Sudoku with colors, where you need to arrange colors by hue and saturation into the correct order. Perfect for anyone who loves color theory or wants to sharpen their perception of colors, Blendoku offers various levels of difficulty to keep players engaged and visually stimulated as they progress through its beautifully crafted puzzles."
   name: Blendoku
   url: http://www.blendoku.com/
+- date: 2026-08-27
+  description: "Gravity Points is an intriguing and mesmerizing website where you can manipulate particles in a virtual space using simulated gravitational forces. As you click and drag your mouse, you create points of gravity that draw the particles around like celestial bodies in space. This interactive experience not only provides a fascinating look into the mechanics of gravity but also serves as a relaxing and visually appealing pastime. Whether you're into science or just looking for a fun way to kill some time, Gravity Points offers an engaging experience for everyone."
+  name: Gravity Points
+  url: https://clement.beffa.org/labs/particles/
