@@ -1554,3 +1554,7 @@
   description: "Gravity Points is an intriguing and mesmerizing website where you can manipulate particles in a virtual space using simulated gravitational forces. As you click and drag your mouse, you create points of gravity that draw the particles around like celestial bodies in space. This interactive experience not only provides a fascinating look into the mechanics of gravity but also serves as a relaxing and visually appealing pastime. Whether you're into science or just looking for a fun way to kill some time, Gravity Points offers an engaging experience for everyone."
   name: Gravity Points
   url: https://clement.beffa.org/labs/particles/
+- date: 2026-08-28
+  description: "Rive is a powerful web-based tool that allows you to create interactive animations and powerful app experiences using real-time graphics. It's a fantastic resource for designers and developers to bring their ideas to life with animation and interactions that can be easily integrated into any platform. The tool offers an intuitive interface with options for sculpting, layering, and dynamically adjusting animations, all within the browser, making it accessible and versatile for creative projects."
+  name: Rive
+  url: https://rive.app/
