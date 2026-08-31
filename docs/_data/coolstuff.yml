@@ -1558,3 +1558,7 @@
   description: "Rive is a powerful web-based tool that allows you to create interactive animations and powerful app experiences using real-time graphics. It's a fantastic resource for designers and developers to bring their ideas to life with animation and interactions that can be easily integrated into any platform. The tool offers an intuitive interface with options for sculpting, layering, and dynamically adjusting animations, all within the browser, making it accessible and versatile for creative projects."
   name: Rive
   url: https://rive.app/
+- date: 2026-08-31
+  description: "HitRecord is a unique and collaborative multimedia platform created by actor Joseph Gordon-Levitt. It's an online community where artists of all kinds—writers, musicians, filmmakers, video editors, illustrators, and more—come together to create personalized projects. Users can contribute their work to community projects or launch their own, resulting in a vibrant tapestry of crowd-sourced creativity. Its innovative approach to collaboration makes it an inspiring hub for creativity and artistic interaction."
+  name: HitRecord
+  url: https://hitrecord.org
