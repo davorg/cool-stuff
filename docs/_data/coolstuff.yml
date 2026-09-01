@@ -1562,3 +1562,7 @@
   description: "HitRecord is a unique and collaborative multimedia platform created by actor Joseph Gordon-Levitt. It's an online community where artists of all kinds—writers, musicians, filmmakers, video editors, illustrators, and more—come together to create personalized projects. Users can contribute their work to community projects or launch their own, resulting in a vibrant tapestry of crowd-sourced creativity. Its innovative approach to collaboration makes it an inspiring hub for creativity and artistic interaction."
   name: HitRecord
   url: https://hitrecord.org
+- date: 2026-09-01
+  description: 'DuckDuckGo is a privacy-focused search engine that promises to never track your searches or sell your data. Known for its clean, minimalist design and fast search results, it also boasts a range of features like instant answers, maps, and quick definitions. For those valuing online privacy and seamless searching, DuckDuckGo provides a straightforward alternative to traditional search engines.'
+  name: DuckDuckGo
+  url: https://duckduckgo.com/
