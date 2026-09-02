@@ -1566,3 +1566,7 @@
   description: 'DuckDuckGo is a privacy-focused search engine that promises to never track your searches or sell your data. Known for its clean, minimalist design and fast search results, it also boasts a range of features like instant answers, maps, and quick definitions. For those valuing online privacy and seamless searching, DuckDuckGo provides a straightforward alternative to traditional search engines.'
   name: DuckDuckGo
   url: https://duckduckgo.com/
+- date: 2026-09-02
+  description: 'Exquisite Corpse is a fun and interactive platform that brings the classic collaborative drawing game to the digital world. Users can join others to create surreal and unexpected artworks by drawing different sections of a figure without seeing the rest of the drawing. The game stimulates creativity, experimentation, and collaboration, allowing each participant to add their unique touch to a piece of art that unfolds in unpredictable ways. The website is easy to use, and you can share your creations with others, making it a perfect online space for both budding and experienced artists to have fun and connect creatively.'
+  name: Exquisite Corpse
+  url: https://exquisitecorpse.io/
