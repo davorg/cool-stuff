@@ -1570,3 +1570,7 @@
   description: 'Exquisite Corpse is a fun and interactive platform that brings the classic collaborative drawing game to the digital world. Users can join others to create surreal and unexpected artworks by drawing different sections of a figure without seeing the rest of the drawing. The game stimulates creativity, experimentation, and collaboration, allowing each participant to add their unique touch to a piece of art that unfolds in unpredictable ways. The website is easy to use, and you can share your creations with others, making it a perfect online space for both budding and experienced artists to have fun and connect creatively.'
   name: Exquisite Corpse
   url: https://exquisitecorpse.io/
+- date: 2026-09-03
+  description: "MapCrunch allows you to explore random street views from all over the world, providing a virtually endless source of adventure and inspiration. Whether you're curious about a distant country or just enjoy the thrill of seeing new places, this website randomly drops you into street views so you can embark on a virtual global journey from the comfort of your home. With the ability to filter by country and explore stunning landscapes and iconic city scenes, MapCrunch is a fun and endlessly entertaining way to satisfy your wanderlust."
+  name: MapCrunch
+  url: https://mapcrunch.com
