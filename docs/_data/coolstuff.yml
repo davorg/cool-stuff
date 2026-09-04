@@ -1574,3 +1574,7 @@
   description: "MapCrunch allows you to explore random street views from all over the world, providing a virtually endless source of adventure and inspiration. Whether you're curious about a distant country or just enjoy the thrill of seeing new places, this website randomly drops you into street views so you can embark on a virtual global journey from the comfort of your home. With the ability to filter by country and explore stunning landscapes and iconic city scenes, MapCrunch is a fun and endlessly entertaining way to satisfy your wanderlust."
   name: MapCrunch
   url: https://mapcrunch.com
+- date: 2026-09-04
+  description: "Dive into the world of synesthesia with Chromesthesia Experiment! This interactive website lets you explore how some people see colors when they hear music. Choose a song, and watch as the rhythms and melodies are transformed into captivating visual displays of color and motion. It's a unique way to experience music in a multi-sensory format, perfect for anyone intrigued by the fusion of sound and sight."
+  name: Chromesthesia Experiment
+  url: https://chromesthesia.herokuapp.com/
