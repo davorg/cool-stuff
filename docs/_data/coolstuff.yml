@@ -1578,3 +1578,7 @@
   description: "Dive into the world of synesthesia with Chromesthesia Experiment! This interactive website lets you explore how some people see colors when they hear music. Choose a song, and watch as the rhythms and melodies are transformed into captivating visual displays of color and motion. It's a unique way to experience music in a multi-sensory format, perfect for anyone intrigued by the fusion of sound and sight."
   name: Chromesthesia Experiment
   url: https://chromesthesia.herokuapp.com/
+- date: 2026-09-05
+  description: "Radio Garden is a fascinating website that turns listening to the radio into an exploratory global journey. By presenting a 3D globe with live-streaming radio stations pinpointed across the world, it allows you to effortlessly 'travel' between cultures and countries through music and broadcasts. This unique browsing experience makes it intriguing and fun, offering more than just audio entertainment but an auditory glimpse into different places, making it not only a cool place to discover new sounds but also a cultural exploration tool."
+  name: Radio Garden
+  url: https://radio.garden
