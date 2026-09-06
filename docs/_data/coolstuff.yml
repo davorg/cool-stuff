@@ -1582,3 +1582,7 @@
   description: "Radio Garden is a fascinating website that turns listening to the radio into an exploratory global journey. By presenting a 3D globe with live-streaming radio stations pinpointed across the world, it allows you to effortlessly 'travel' between cultures and countries through music and broadcasts. This unique browsing experience makes it intriguing and fun, offering more than just audio entertainment but an auditory glimpse into different places, making it not only a cool place to discover new sounds but also a cultural exploration tool."
   name: Radio Garden
   url: https://radio.garden
+- date: 2026-09-06
+  description: 'This Word Does Not Exist is a playful and fun website powered by AI that generates unique, never-before-seen words along with creative definitions. With each reload, you are greeted with a brand new word and its usage in a sentence, making it an endless source of inspiration and entertainment for word enthusiasts, writers, or anyone looking to add a bit of whimsy to their vocabulary.'
+  name: This Word Does Not Exist
+  url: https://www.thisworddoesnotexist.com
