@@ -1586,3 +1586,7 @@
   description: 'This Word Does Not Exist is a playful and fun website powered by AI that generates unique, never-before-seen words along with creative definitions. With each reload, you are greeted with a brand new word and its usage in a sentence, making it an endless source of inspiration and entertainment for word enthusiasts, writers, or anyone looking to add a bit of whimsy to their vocabulary.'
   name: This Word Does Not Exist
   url: https://www.thisworddoesnotexist.com
+- date: 2026-09-07
+  description: "GeoGreeting is an innovative and delightful website that transforms your text into a unique visual experience by using satellite images of buildings arranged in the shape of letters. Each letter is crafted from aerial views of structures from around the world, giving your message a distinct and worldly vibe. It's a fun and creative way to send personalized greetings that are truly out of this world."
+  name: GeoGreeting
+  url: http://www.geogreeting.com/
