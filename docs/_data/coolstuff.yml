@@ -1590,3 +1590,7 @@
   description: "GeoGreeting is an innovative and delightful website that transforms your text into a unique visual experience by using satellite images of buildings arranged in the shape of letters. Each letter is crafted from aerial views of structures from around the world, giving your message a distinct and worldly vibe. It's a fun and creative way to send personalized greetings that are truly out of this world."
   name: GeoGreeting
   url: http://www.geogreeting.com/
+- date: 2026-09-10
+  description: "Echocrome offers a delightful journey into the world of visual puzzles inspired by the impossible geometry of M.C. Escher. The website features a series of interactive puzzles where users manipulate perspective to navigate through intricate architectural designs. It's a fun and challenging experience that plays with your perception, making it a fantastic tool for those who love brain teasers and visual tricks."
+  name: Echocrome
+  url: https://echocrome.com
