@@ -1602,3 +1602,7 @@
   description: "Good Reads is a bibliophile's paradise and a hub for book lovers worldwide. It lets you discover, rate, and review books, join book discussions, and even create reading goals. With its vast community, you can connect over shared interests, get adapted recommendations based on your reading history, and find hidden literary gems. It's a fantastic resource for anyone looking to dive into their next great read, making it a perfect feature for 'Cool Stuff'."
   name: Good Reads 2023
   url: https://www.goodreads.com/
+- date: 2026-09-19
+  description: "Typeracer is a dynamic and engaging website that invites users to improve their typing speed through a fun, competitive experience. It allows you to race against friends or strangers from around the globe by typing out a variety of carefully selected quotes. The site is consistently updated with new content, offers real-time feedback on your performance, and your progress is easily trackable. It's an excellent way to hone your typing skills, all while enjoying a multiplayer competitive twist."
+  name: Typeracer
+  url: https://play.typeracer.com/
