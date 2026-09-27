@@ -1618,3 +1618,7 @@
   description: 'Mbird is a unique website that focuses on exploring the convergence of faith and culture through thoughtful essays, podcasts, and videos. It offers insightful content that addresses a wide array of topics, from pop culture phenomena to theological discussions, encouraging visitors to contemplate the deeper meanings of everyday experiences. Its engaging and accessible approach makes it a standout destination for anyone interested in the intersection of spirituality and modern life.'
   name: Mbird
   url: https://mbird.com/
+- date: 2026-09-27
+  description: "The Falling Sand Game is an addictive browser-based simulation where users can experiment with different elements like sand, water, and fire to create fascinating patterns and interactions. The simplicity of the simulation, combined with the endless possibilities of material combinations, provides users with a canvas for creativity and experimentation. It's a great way to relax and let your curiosity drive some mesmerizing digital art."
+  name: Falling Sand Game
+  url: https://sandsim.com/
