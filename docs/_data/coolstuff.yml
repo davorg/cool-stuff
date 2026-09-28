@@ -1622,3 +1622,7 @@
   description: "The Falling Sand Game is an addictive browser-based simulation where users can experiment with different elements like sand, water, and fire to create fascinating patterns and interactions. The simplicity of the simulation, combined with the endless possibilities of material combinations, provides users with a canvas for creativity and experimentation. It's a great way to relax and let your curiosity drive some mesmerizing digital art."
   name: Falling Sand Game
   url: https://sandsim.com/
+- date: 2026-09-28
+  description: "Chronophoto is a captivating online game that challenges your sense of time by presenting you with vintage photographs and asking you to guess the year each picture was taken. The site offers an engaging way to explore history through visuals, testing your knowledge of historical events, fashion trends, and technological advancements based on subtly nuanced photo elements. It's both a fun puzzle and an educational journey through time!"
+  name: Chronophoto
+  url: https://www.chronophoto.app/
