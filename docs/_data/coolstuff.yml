@@ -1634,3 +1634,7 @@
   description: "Musical Squares is a fun and interactive website where you can create music by simply clicking on a grid of colorful squares. Each square represents a different musical note and when lit up in a sequence, they create captivating melodies that loop continuously. This site is perfect for those who want to experiment with sound and rhythm without needing any musical training. It's a great tool for both relaxation and creativity, allowing users to easily craft unique musical patterns."
   name: Musical Squares
   url: https://www.musicalsquares.com
+- date: 2026-10-01
+  description: "Agar.io is a massively multiplayer online game where you control a cell and aim to grow larger by eating smaller cells. The minimalist design combined with strategic gameplay allows players to compete in a dynamic, real-time environment with players around the world. As you grow, you'll face various challenges, from avoiding larger cells to making strategic alliances. The simplicity and addictive nature of Agar.io make it a timeless classic in the world of online gaming."
+  name: Agar.io
+  url: https://agar.io/
