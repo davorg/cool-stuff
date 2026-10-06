@@ -1646,3 +1646,7 @@
   description: "Hack The Box is a thrilling online platform that allows you to try and sharpen your penetration testing skills. It's an interactive environment where users get hands-on experience with penetration testing and cybersecurity by attempting to 'hack' into different simulated machines and networks. These 'boxes' can be used to practice various hacking techniques and test your skills in a safe and legal environment. It's gamification at its finest for IT security enthusiasts, offering challenges from beginner to expert levels, ensuring an engaging and educational experience for budding professionals or curious learners."
   name: Hack The Box
   url: https://www.hackthebox.com/
+- date: 2026-10-06
+  description: "MusicMap is a fantastic tool for music enthusiasts looking to explore new artists and genres. By simply entering the name of a favorite artist, users can visually discover related artists who share similar music styles. The dynamic map expands based on the user's inputs, making it a fun and interactive way to find music that resonates with personal tastes."
+  name: MusicMap
+  url: https://www.music-map.com
