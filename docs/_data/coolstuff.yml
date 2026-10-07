@@ -1650,3 +1650,7 @@
   description: "MusicMap is a fantastic tool for music enthusiasts looking to explore new artists and genres. By simply entering the name of a favorite artist, users can visually discover related artists who share similar music styles. The dynamic map expands based on the user's inputs, making it a fun and interactive way to find music that resonates with personal tastes."
   name: MusicMap
   url: https://www.music-map.com
+- date: 2026-10-07
+  description: "Astroneer is an exploration-based sandbox game that takes you on interstellar journeys, tasking you with colonization, resource gathering, and crafting on different planets. What makes its website cool is the way it mirrors the game's whimsical and vibrant universe, offering insights into the gameplay, stunning visuals, and updates. It's a great way for both players and curious minds to dive into an out-of-this-world experience right from their browser."
+  name: Astroneer
+  url: https://astroneer.space/
