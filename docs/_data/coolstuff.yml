@@ -1654,3 +1654,7 @@
   description: "Astroneer is an exploration-based sandbox game that takes you on interstellar journeys, tasking you with colonization, resource gathering, and crafting on different planets. What makes its website cool is the way it mirrors the game's whimsical and vibrant universe, offering insights into the gameplay, stunning visuals, and updates. It's a great way for both players and curious minds to dive into an out-of-this-world experience right from their browser."
   name: Astroneer
   url: https://astroneer.space/
+- date: 2026-10-09
+  description: "r/place is a fascinating and massive digital art project hosted on Reddit, where users from all over the world collaborate in real-time to create a massive, ever-evolving mosaic. Each user can modify only one pixel at a time every few minutes, which requires teamwork and coordination to form large and complex images. The outcome is a colorful, chaotic, and often surprisingly beautiful tapestry that showcases the power of collaboration and the internet's creative potential."
+  name: r/place
+  url: https://www.reddit.com/r/place/
