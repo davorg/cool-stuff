@@ -1666,3 +1666,7 @@
   description: "Kamoot is a brilliant platform where adventure enthusiasts can create, discover, and share routes for biking, hiking, or cycling. It stands out for its collaborative nature, combining user-generated content with expert insights to provide tailor-made routes. This ensures every adventure offers just the right level of challenge and scenic beauty. Kamoot's interactive map interface allows users to visualize routes, read valuable tips and reviews from fellow adventurers, and even track their journeys in real time, making it an indispensable tool for anyone looking to explore new terrains."
   name: Kamoot
   url: https://www.komoot.com/
+- date: 2026-10-12
+  description: "FlipAnim is a delightful website where you can bring your animations to life by sketching frame-by-frame. This platform allows users to create flipbooks with simple drawing tools and instantly see their animations in motion. You can share your creations with a vibrant community and explore a vast collection of animations from other artists. It's a fantastic playground for creativity and a fun way to experiment with animation, making it a perfect fit for any artistic enthusiast."
+  name: FlipAnim
+  url: https://flipanim.com
