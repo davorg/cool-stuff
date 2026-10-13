@@ -1670,3 +1670,7 @@
   description: "FlipAnim is a delightful website where you can bring your animations to life by sketching frame-by-frame. This platform allows users to create flipbooks with simple drawing tools and instantly see their animations in motion. You can share your creations with a vibrant community and explore a vast collection of animations from other artists. It's a fantastic playground for creativity and a fun way to experiment with animation, making it a perfect fit for any artistic enthusiast."
   name: FlipAnim
   url: https://flipanim.com
+- date: 2026-10-13
+  description: 'ZType is a captivating and engaging game that combines fast-paced action with typing practice. As a typist under pressure, you must quickly type the words appearing on your screen in order to destroy enemy ships before they overwhelm you. The game helps improve your typing speed and accuracy while immersing you in a retro arcade-style space shooter. With its vibrant visuals and adrenaline-pumping gameplay, ZType offers a fun and educational break from the usual online fare.'
+  name: ZType
+  url: https://zty.pe
