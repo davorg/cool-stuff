@@ -44,7 +44,9 @@ they are separate from the recommendation system.
    and runs `perl bin/fetch_cool_site` from the repository root.
 4. The script requires the key, loads `docs/_data/coolstuff.yml`, and puts all
    previous entry names into a prompt asking for one new site, returned as JSON.
-5. It calls `createChatCompletion` with model `gpt-4o` and temperature `1.0`.
+5. It calls `createChatCompletion` with model `gpt-6-luna`,
+   `reasoning_effort => 'none'`, and temperature `1.0`. Reasoning is disabled to
+   keep this short curation task inexpensive and allow the temperature setting.
    The code defines a JSON schema for `name`, `url`, and `description`, and passes
    `response_format` alongside `body` in the client call. Verify the client API
    before changing this request structure; the presence of a schema does not
