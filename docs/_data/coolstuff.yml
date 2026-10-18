@@ -1687,3 +1687,7 @@
   description: 'Pudding.cool is an innovative web publication that marries data journalism with interactive visuals and storytelling to explore uniquely intriguing topics across culture and the internet. Its meticulously crafted articles delve into everything from music and food trends to internet phenomena, providing an engaging educational experience that combines research with creativity. With its immersive, interactive approach, Pudding.cool sets a high bar for creative content, making each visit an enjoyable dive into detailed insights accompanied by stunning visual narratives.'
   name: Pudding.cool
   url: https://pudding.cool/
+- date: 2026-10-18
+  description: 'This clever browser game turns the pen tool into a surprisingly satisfying puzzle: use as few clicks and handles as possible to trace shapes, from simple curves to intricate icons. It’s a playful way to build real vector-drawing intuition, and each level makes the elegant geometry behind polished graphics feel like a little magic.'
+  name: The Bézier Game
+  url: https://bezier.method.ac/
