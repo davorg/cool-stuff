@@ -1691,3 +1691,7 @@
   description: 'This clever browser game turns the pen tool into a surprisingly satisfying puzzle: use as few clicks and handles as possible to trace shapes, from simple curves to intricate icons. It’s a playful way to build real vector-drawing intuition, and each level makes the elegant geometry behind polished graphics feel like a little magic.'
   name: The Bézier Game
   url: https://bezier.method.ac/
+- date: 2026-10-21
+  description: 'A playful crafting game that starts with just four elements—water, fire, earth, and wind—and lets you combine them to discover an ever-growing universe of things, from everyday objects to wildly unexpected ideas. Its open-ended experimentation makes every new discovery feel like a tiny surprise, and players can even uncover combinations no one has found before.'
+  name: Infinite Craft
+  url: https://neal.fun/infinite-craft/
