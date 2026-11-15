@@ -1703,3 +1703,7 @@
   description: 'The FWA is a showcase of cutting-edge digital creativity, featuring inventive websites, interactive experiments, and visual stories from designers around the world. It’s a fun rabbit hole for discovering what the web can do when people treat a browser like a canvas rather than just a page.'
   name: The FWA
   url: https://thefwa.com/
+- date: 2026-11-15
+  description: 'Turn your keyboard into a surprisingly capable piano: tap keys to play, record melodies, and experiment with different instrument sounds right in your browser. It’s a cheerful, no-install way to make music on the spot, whether you’re composing a tune or simply seeing what your computer keyboard can do.'
+  name: Recursive Arts Virtual Piano
+  url: https://recursivearts.com/virtual-piano/
