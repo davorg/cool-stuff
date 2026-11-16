@@ -1707,3 +1707,7 @@
   description: 'Turn your keyboard into a surprisingly capable piano: tap keys to play, record melodies, and experiment with different instrument sounds right in your browser. It’s a cheerful, no-install way to make music on the spot, whether you’re composing a tune or simply seeing what your computer keyboard can do.'
   name: Recursive Arts Virtual Piano
   url: https://recursivearts.com/virtual-piano/
+- date: 2026-11-16
+  description: 'Earth Nullschool turns live global weather data into a mesmerizing, animated map of wind, ocean currents, temperature, and pollution. Drag the globe, change the forecast layer, and watch invisible planetary systems flow across the world in vivid color—it’s both a beautiful exploration and a surprisingly intuitive way to see Earth’s atmosphere in motion.'
+  name: Earth Nullschool
+  url: https://earth.nullschool.net/
